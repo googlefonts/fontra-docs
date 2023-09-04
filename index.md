@@ -3,6 +3,8 @@ title: Fontra User Docs
 layout: default
 ---
 
+<img class="icon" src="{{ site.url }}/images/fontra-icon.svg">
+
 
 Topics
 ------

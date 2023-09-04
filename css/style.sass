@@ -7,8 +7,16 @@ excludeNavigation: true
 @import "highlights"
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Flex&display=swap')
 
+html
+  background-color: #CCC
+
 body
   font-family: 'Roboto Flex', sans-serif !important
+  max-width: 960px
+  margin: 0 auto
+
+main, footer, header
+  background-color: white
 
 img
   user-select: none
@@ -28,9 +36,6 @@ main, footer
 ul
   padding-left: 1.5em
 
-.container
-  max-width: 960px
-
 .highlight
   overflow: hidden !important
   background-color: #EEE // rgba(0, 0, 0, .03)
@@ -38,6 +43,10 @@ ul
   > .highlight
     margin: 0 auto
     padding: 1em
+
+.icon
+    width: min(20vw, 20vh)
+    height: min(20vw, 20vh)
 
 // collapsible kramdown toc
 #markdown-toc

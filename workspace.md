@@ -7,37 +7,37 @@ layout: default
 Navigation
 ----------
 
-| tool              | description                                |
-|-------------------|--------------------------------------------|
-| zoom in           | increase zoom level by X%                  |
-| zoom out          | decrease zoom level by X%                  |
-| origin point      | go to the origin point of the drawing area |
+| icon | tool              | description                                |
+|------|-------------------|--------------------------------------------|
+|      | zoom in           | increase zoom level by X%                  |
+|      | zoom out          | decrease zoom level by X%                  |
+|      | origin point      | go to the origin point of the drawing area |
 {: .table }
 
 
 Tools
 -----
 
-| tool              | description                            |
-|-------------------|----------------------------------------|
-| move tool         | select and edit points, components     |
-| pen tool          | draw bezier contours from points       |
-| measurement tool  | interactive ruler to measure distances |
-| pan tool          | move around the drawing area           |
+| icon | tool              | description                            |
+|------|-------------------|----------------------------------------|
+|      | move tool         | select and edit points, components     |
+|      | pen tool          | draw bezier contours from points       |
+|      | measurement tool  | interactive ruler to measure distances |
+|      | pan tool          | move around the drawing area           |
 {: .table }
 
 
 Panels
 ------
 
-| panel             | description                                          |
-|-------------------|------------------------------------------------------|
-| glyph info        | view and edit glyph attributes                       |
-| preview text      | edit the glyph preview string                        |
-| find glyph        | search and choose specific glyphs in the font        |
-| designspace       | access variation axes and sources in the designspace |
-| options           | adjust various app settings                          |
-| reference font    | choose a reference font to display in the background |
+| icon | panel             | description                                          |
+|------|-------------------|------------------------------------------------------|
+|      | glyph info        | view and edit glyph attributes                       |
+|      | preview text      | edit the glyph preview string                        |
+|      | find glyph        | search and choose specific glyphs in the font        |
+|      | designspace       | access variation axes and sources in the designspace |
+|      | options           | adjust various app settings                          |
+|      | reference font    | choose a reference font to display in the background |
 {: .table }
 
 
