@@ -3,6 +3,7 @@ title: Workspace
 layout: default
 ---
 
+
 Navigation
 ----------
 
@@ -11,6 +12,7 @@ Navigation
 | zoom in           | increase zoom level by X%                  |
 | zoom out          | decrease zoom level by X%                  |
 | origin point      | go to the origin point of the drawing area |
+{: .table }
 
 
 Tools
@@ -22,6 +24,7 @@ Tools
 | pen tool          | draw bezier contours from points       |
 | measurement tool  | interactive ruler to measure distances |
 | pan tool          | move around the drawing area           |
+{: .table }
 
 
 Panels
@@ -30,11 +33,12 @@ Panels
 | panel             | description                                          |
 |-------------------|------------------------------------------------------|
 | glyph info        | view and edit glyph attributes                       |
-| text              | edit the glyph preview string                        |
-| glyphs            | search and choose specific glyphs in the font        |
+| preview text      | edit the glyph preview string                        |
+| find glyph        | search and choose specific glyphs in the font        |
 | designspace       | access variation axes and sources in the designspace |
 | options           | adjust various app settings                          |
 | reference font    | choose a reference font to display in the background |
+{: .table }
 
 
 Menu
@@ -58,4 +62,5 @@ Menu
 |---------------------------|----------------------------------------|-------|
 | Select Previous Source    | switch location to previous source     | ⌘ ↑   |
 | Select Next Source        | switch location to next source         | ⌘ ↓   |
+{: .table }
 

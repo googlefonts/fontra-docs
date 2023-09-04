@@ -7,13 +7,13 @@ layout: default
 Topics
 ------
 
-- [introduction](introduction.md)
+- [introduction](introduction)
 
 
 Reference
 ---------
 
-- [workspace](workspace.md)
+- [workspace](workspace)
 
 
 How-To's
