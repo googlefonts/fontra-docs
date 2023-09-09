@@ -1,10 +1,19 @@
 ---
-title: Introduction
+title: Welcome to Fontra
 layout: default
+permalink: /topics/welcome
 ---
 
-<div class='text-center py-4'>
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/827522961?h=3b3c478228" width="640" height="360" frameborder="0" allowfullscreen=""></iframe>
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb small">
+    <li class="breadcrumb-item"><a href="/">Index</a></li>
+    <li class="breadcrumb-item"><a href="../topics">Topics</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Introduction</li>
+  </ol>
+</nav>
+
+<div class="__video-responsive">
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/827522961?h=3b3c478228" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
 Fontra is an open-source, browser-based, cross-platform, variable-first font editor. It is developed by Black[Foundry] and Just van Rossum with support from Google.

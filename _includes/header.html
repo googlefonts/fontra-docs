@@ -1,9 +1,18 @@
-<nav id='navbar-main' class="navbar">
-  <div class="container px-4">
-    <ul class="navbar-nav">
-      <li class="nav-item">
-        <a class="nav-link" href="{{ site.url }}">index</a>
-      </li>
-    </ul>
+<nav class="navbar navbar-expand-lg bg-body-secondary px-2">
+  <div class="container">
+    <a class="navbar-brand" href="{{ site.url }}">
+      <img height="60" src="{{ site.url }}/images/fontra-icon.svg">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <div class="navbar-nav fs-5">
+        <a class="nav-link {% if page.name == 'topics.md' %}active{% endif %}" href="{{ site.url }}/topics">Topics</a>
+        <a class="nav-link {% if page.name == 'tutorials.md' %}active{% endif %}" href="{{ site.url }}/tutorials">Tutorials</a>
+        <a class="nav-link {% if page.name == 'how-tos.md' %}active{% endif %}" href="{{ site.url }}/how-tos">How-Tos</a>
+        <a class="nav-link {% if page.name == 'reference.md' %}active{% endif %}" href="{{ site.url }}/reference">Reference</a>
+      </div>
+    </div>
   </div>
 </nav>
