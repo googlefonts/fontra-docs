@@ -7,5 +7,5 @@ permalink: /tutorials
 practical steps · learning-oriented · useful when studying
 {: .lead }
 
-- [Adding new glyphs at specific locations](#)
+- [Understanding variable components](understanding-variable-components)
 - ...

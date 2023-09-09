@@ -1,5 +1,5 @@
 ---
-title: Fontra User Documentation
+title: Fontra Docs
 layout: default
 ---
 
