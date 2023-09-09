@@ -3,6 +3,9 @@ title: Fontra Docs
 layout: default
 ---
 
+![]({{ site.url }}/images/fontra-workspace_edit-1.png){: .img-fluid }
+
+
 This documentation is structured according to the [Documentation System](http://documentation.divio.com/):
 
 <table class="table table-bordered">
@@ -46,13 +49,22 @@ useful when working
 Links
 -----
 
-- [Fontra.xyz](http://fontra.xyz)
-- [Fontra Pak](http://github.com/googlefonts/fontra-pak)
-- [Fontra on Discord](http://discord.gg/3w3DTs4JvU)
 
+<div class="row">
+<div class="col" markdown="1">
+##### community
+
+- [Fontra.xyz](http://fontra.xyz)
+- [Fontra on Discord](http://discord.gg/3w3DTs4JvU)
+- [Black\[Foundry\]](http://black-foundry.com/)
+</div>
+<div class="col" markdown="1">
 ##### source code 
 
 - [fontra](http://github.com/googlefonts/fontra)
+- [fontra-pak](http://github.com/googlefonts/fontra-pak)
 - [fontra-rcjk](http://github.com/googlefonts/fontra-rcjk)
 - [fontra-glyphs](http://github.com/googlefonts/fontra-glyphs)
 - [fontra-compile](http://github.com/googlefonts/fontra-compile)
+</div>
+</div>

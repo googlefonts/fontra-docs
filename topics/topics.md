@@ -9,4 +9,5 @@ theoretical knowledge · understanding-oriented · useful when studying
 
 - [Welcome to Fontra](welcome)
 - [Workspace overview](workspace)
+- [Features overview](#)
 - ...
