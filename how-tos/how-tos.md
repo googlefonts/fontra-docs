@@ -1,7 +1,7 @@
 ---
 title: How-Tos
 layout: default
-permalink: /how-tos
+permalink: /how-tos/
 ---
 
 practical steps · problem-oriented · useful when working

@@ -1,7 +1,7 @@
 ---
 title: Welcome to Fontra
 layout: default
-permalink: /topics/welcome
+permalink: /topics/welcome-to-fontra/
 ---
 
 <nav aria-label="breadcrumb">

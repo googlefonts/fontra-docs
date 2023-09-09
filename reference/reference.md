@@ -1,7 +1,7 @@
 ---
 title: Reference
 layout: default
-permalink: /reference
+permalink: /reference/
 ---
 
 theoretical knowledge · information-oriented · useful when working

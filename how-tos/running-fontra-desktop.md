@@ -1,7 +1,7 @@
 ---
 title: Running Fontra on your computer
 layout: default
-permalink: /how-tos/running-fontra-desktop
+permalink: /how-tos/running-fontra-desktop/
 ---
 
 <nav aria-label="breadcrumb">

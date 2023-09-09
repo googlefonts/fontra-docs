@@ -1,7 +1,7 @@
 ---
 title: Menu
 layout: default
-permalink: /reference/menu
+permalink: /reference/menu/
 ---
 
 <nav aria-label="breadcrumb">

@@ -1,7 +1,7 @@
 ---
 title: Panels
 layout: default
-permalink: /reference/panels
+permalink: /reference/panels/
 ---
 
 <nav aria-label="breadcrumb">

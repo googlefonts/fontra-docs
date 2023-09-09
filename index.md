@@ -5,6 +5,22 @@ layout: default
 
 ![]({{ site.url }}/images/fontra-workspace_edit-1.png){: .img-fluid }
 
+<div class='text-center' markdown='1'>
+Fontra is an open-source, browser-based, cross-platform, variable-first font editor.  
+It is developed by [Black\[Foundry\]](http://black-foundry.com/) & Just van Rossum with support from [Google](http://github.com/googlefonts).
+{: .lead }
+
+read more in [Welcome to Fontra](topics/welcome-to-fontra)
+</div>
+
+<hr class="mt-5 mb-4">
+
+
+About
+-----
+
+<i class="bi bi-exclamation-circle"></i> *this is an unofficial work-in-progress user-contributed documentation*
+{: .text-danger }
 
 This documentation is structured according to the [Documentation System](http://documentation.divio.com/):
 
@@ -48,7 +64,6 @@ useful when working
 
 Links
 -----
-
 
 <div class="row">
 <div class="col" markdown="1">

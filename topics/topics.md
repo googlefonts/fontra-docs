@@ -1,13 +1,13 @@
 ---
-title: Topics
+title: Topics 
 layout: default
-permalink: /topics
+permalink: /topics/
 ---
 
 theoretical knowledge · understanding-oriented · useful when studying
 {: .lead }
 
-- [Welcome to Fontra](welcome)
+- [Welcome to Fontra](welcome-to-fontra)
 - [Workspace overview](workspace)
 - [Features overview](#)
 - ...

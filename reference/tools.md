@@ -1,7 +1,7 @@
 ---
 title: Tools
 layout: default
-permalink: /reference/tools
+permalink: /reference/tools/
 ---
 
 <nav aria-label="breadcrumb">

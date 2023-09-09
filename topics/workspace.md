@@ -1,7 +1,7 @@
 ---
 title: Workspace overview
 layout: default
-permalink: /topics/workspace
+permalink: /topics/workspace/
 ---
 
 <nav aria-label="breadcrumb">

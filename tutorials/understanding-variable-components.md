@@ -1,7 +1,7 @@
 ---
 title: Understanding variable components
 layout: default
-permalink: /tutorials/understanding-variable-components
+permalink: /tutorials/understanding-variable-components/
 ---
 
 <nav aria-label="breadcrumb">
