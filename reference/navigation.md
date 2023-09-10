@@ -14,13 +14,32 @@ permalink: /reference/navigation/
 
 ### Overview
 
-| icon | tool              | description                                |
-|------|-------------------|--------------------------------------------|
-|      | zoom in           | increase zoom level by X%                  |
-|      | zoom out          | decrease zoom level by X%                  |
-|      | origin point      | go to the origin point of the drawing area |
-{: .table .table-hover }
-
+<table class="table table-hover mb-4">
+<tr>
+<th>icon</th>
+<th>tool</th>
+<th>description</th>
+<th>short key</th>
+</tr>
+<tr>
+<td><img height="30" src="{{ site.url }}/images/icons/plus.svg"></td>
+<td>zoom in</td>
+<td>increase zoom level by X%</td>
+<td>⌘ +</td>
+</tr>
+<tr>
+<td><img height="30" src="{{ site.url }}/images/icons/minus.svg"></td>
+<td>zoom out</td>
+<td>decrease zoom level by X%</td>
+<td>⌘ -</td>
+</tr>
+<tr>
+<td><img height="30" src="{{ site.url }}/images/icons/bullseye.svg"></td>
+<td>origin point</td>
+<td>go to the origin point of the drawing area</td>
+<td>⌘ 0</td>
+</tr>
+</table>
 
 ### Zoom in
 

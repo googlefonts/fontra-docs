@@ -14,6 +14,45 @@ permalink: /reference/panels/
 
 ### Overview
 
+<table class="table table-hover mb-4">
+<tr>
+<th>icon</th>
+<th>tool</th>
+<th>description</th>
+</tr>
+<tr>
+<td><img height="30" src="{{ site.url }}/images/icons/texttool.svg"></td>
+<td>preview text</td>
+<td>edit the glyph preview string</td>
+</tr>
+<tr>
+<td><img height="30" src="{{ site.url }}/images/icons/magnifyingglass.svg"></td>
+<td>find glyph</td>
+<td>search and choose specific glyphs in the font</td>
+</tr>
+<tr>
+<td><img height="30" src="{{ site.url }}/images/icons/sliders.svg"></td>
+<td>designspace</td>
+<td>access variation axes and sources in the designspace</td>
+</tr>
+<tr>
+<td><img height="30" src="{{ site.url }}/images/icons/gear.svg"></td>
+<td>options</td>
+<td>adjust various app settings</td>
+</tr>
+<tr>
+<td><img height="30" src="{{ site.url }}/images/icons/reference.svg"></td>
+<td>reference font</td>
+<td>choose a reference font to display in the background</td>
+</tr>
+<tr>
+<td><img height="30" src="{{ site.url }}/images/icons/info.svg"></td>
+<td>glyph info</td>
+<td>view and edit glyph attributes</td>
+</tr>
+</table>
+
+<!--
 | icon | panel             | description                                          |
 |------|-------------------|------------------------------------------------------|
 |      | preview text      | edit the glyph preview string                        |
@@ -23,6 +62,7 @@ permalink: /reference/panels/
 |      | reference font    | choose a reference font to display in the background |
 |      | glyph info        | view and edit glyph attributes                       |
 {: .table .table-hover .mb-4 }
+-->
 
 ### Preview text
 
@@ -108,13 +148,13 @@ glyph editor appearance
   - Show coordinates
   - Power ruler
 
-vlipboard format
+clipboard format
 : ^
   - GLIF (Gliph Interchange Format)
   - SVG (Scaleable Vector Graphics)
   - JSON (JavaScript Object Notation)
 
-rxperimental features
+experimental features
 : ^
   - Scaling edit tool behavior
   - Pen tool draws quadratics

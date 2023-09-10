@@ -12,7 +12,7 @@ permalink: /topics/workspace/
   </ol>
 </nav>
 
-![]({{ site.url }}/images/fontra-workspace_edit-1.png){: .img-fluid }
+![]({{ site.url }}/images/fontra-workspace_edit-2.png){: .img-fluid }
 
 <div class="alert alert-primary" role="alert" markdown='1'>
 Fontra does not have a *save* command, every change is saved!

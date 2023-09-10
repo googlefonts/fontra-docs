@@ -15,6 +15,13 @@ read more in [Welcome to Fontra](topics/welcome-to-fontra)
 
 <hr class="mt-5 mb-4">
 
+Quickstart
+----------
+
+- [Running Fontra on your computer](how-tos/running-fontra-desktop/)
+- [Workspace overview](topics/workspace/)
+- [Editing an existing designspace](#)
+
 
 About
 -----
@@ -24,7 +31,7 @@ About
 
 This documentation is structured according to the [Documentation System](http://documentation.divio.com/):
 
-<table class="table table-bordered">
+<table class="table">
 <tr>
 <td>
 <a href="topics">topics</a><br/>
