@@ -14,14 +14,14 @@ permalink: /topics/workspace/
 
 ![]({{ site.url }}/images/fontra-workspace_edit-2_dots.png){: .img-fluid }
 
-<div class="alert alert-primary" role="alert" markdown='1'>
-Fontra does not have a *save* command, every change is saved!
-{: .mb-0 }
-</div>
 
 ### 1. Canvas
 
 ...
+
+<div class="alert alert-warning" role="alert" markdown='1'>
+Fontra does not have a *save* command, every change is saved!
+</div>
 
 read more: [Canvas](../../reference/canvas)
 
