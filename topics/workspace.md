@@ -20,7 +20,8 @@ permalink: /topics/workspace/
 ...
 
 <div class="alert alert-warning" role="alert" markdown='1'>
-Fontra does not have a *save* command, every change is saved!
+<i class="bi bi-exclamation-circle me-1"></i> Fontra does not have a *save* command – every change is saved!
+{: .mb-0 }
 </div>
 
 read more: [Canvas](../../reference/canvas)

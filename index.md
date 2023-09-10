@@ -26,7 +26,7 @@ Quickstart
 About
 -----
 
-<i class="bi bi-exclamation-circle"></i> *this is an unofficial work-in-progress user-contributed documentation*
+<i class="bi bi-exclamation-circle me-1"></i> *this is an unofficial work-in-progress user-contributed documentation*
 {: .text-danger }
 
 This documentation is structured according to the [Documentation System](http://documentation.divio.com/):
