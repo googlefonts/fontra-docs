@@ -9,8 +9,9 @@ theoretical knowledge · information-oriented · useful when working
 
 ### Workspace
 
-- [Tools](tools)
+- [Canvas](canvas)
 - [Navigation](navigation)
+- [Tools](tools)
 - [Panels](panels)
 - [Menu](menu)
 
