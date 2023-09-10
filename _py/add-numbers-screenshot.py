@@ -12,12 +12,11 @@ size(w, h)
 image(imgPath, (0, 0))
 
 points = {
-    '3' : [(111, 770), (1282, 770)], # panels
-    '2' : [(618, 750)], # tools
-    '1' : [(778, 750)], # navigation
-    '4' : [(288, 310)], # preview
-    '5' : [(588, 310)], # editing glyph
-    '6' : [(988, 580)], # contextual menu
+    '1' : [(588, 410)], # canvas
+    '2' : [(778, 750)], # navigation
+    '3' : [(618, 750)], # tools
+    '4' : [(111, 770), (1282, 770)], # panels
+    '5' : [(988, 580)], # contextual menu
 }
 
 fill(*c)
