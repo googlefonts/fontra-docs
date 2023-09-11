@@ -2,8 +2,7 @@ title: Fontra Docs
 email: gustavo@hipertipo.com
 description: Fontra user documentation
 baseurl: ""
-# url: https://gferreira.github.io/fontra-docs
-url: https://hipertipo.gitlab.io/fontra-docs
+url: https://gferreira.github.io/fontra-docs
 
 markdown: kramdown
 
