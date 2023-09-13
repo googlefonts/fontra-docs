@@ -1,5 +1,5 @@
 ---
-title: Opening an existing UFO or designspace file in Fontra
+title: Opening a UFO or designspace file in Fontra
 layout: default
 permalink: /how-tos/opening-ufo-designspace/
 ---

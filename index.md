@@ -20,9 +20,9 @@ read more in [Welcome to Fontra](topics/welcome-to-fontra)
 Quickstart
 ----------
 
-- [Running Fontra on your computer](how-tos/running-fontra-desktop/)
+- [Installing Fontra Pak on your computer](how-tos/installing-fontra-pak/)
 - [Workspace overview](topics/workspace/)
-- [Editing an existing designspace](#)
+- [Opening a UFO or designspace file](how-tos/opening-ufo-designspace)
 
 
 About

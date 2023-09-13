@@ -15,7 +15,7 @@ practical steps · problem-oriented · useful when working
 
 ### Editing fonts
 
-- [Opening an existing UFO font or designspace](opening-ufo-designspace) ✔
+- [Opening a UFO or designspace file](opening-ufo-designspace) ✔
 - [Creating new glyphs at specific locations](#)
 - [Creating variable components](#)
 - ...
