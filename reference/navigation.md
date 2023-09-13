@@ -39,6 +39,12 @@ permalink: /reference/navigation/
 <td>go to the origin point of the drawing area</td>
 <td>⌘ 0</td>
 </tr>
+<tr>
+<td></td>
+<td>full screen</td>
+<td>open the Fontra window in full screen</td>
+<td></td>
+</tr>
 </table>
 
 ### Zoom in
@@ -50,6 +56,11 @@ permalink: /reference/navigation/
 ...
 
 ### Origin point
+
+...
+
+
+### Full screen
 
 ...
 

@@ -19,36 +19,43 @@ permalink: /reference/panels/
 <th>icon</th>
 <th>tool</th>
 <th>description</th>
+<th>short key</th>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/texttool.svg"></td>
 <td>preview text</td>
 <td>edit the glyph preview string</td>
+<td></td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/magnifyingglass.svg"></td>
 <td>find glyph</td>
 <td>search and choose specific glyphs in the font</td>
+<td>⌘ f</td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/sliders.svg"></td>
 <td>designspace</td>
 <td>access variation axes and sources in the designspace</td>
+<td></td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/gear.svg"></td>
 <td>options</td>
 <td>adjust various app settings</td>
+<td></td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/reference.svg"></td>
 <td>reference font</td>
 <td>choose a reference font to display in the background</td>
+<td></td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/info.svg"></td>
 <td>glyph info</td>
 <td>view and edit glyph attributes</td>
+<td>⌘ i</td>
 </tr>
 </table>
 

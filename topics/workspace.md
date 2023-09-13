@@ -19,9 +19,6 @@ permalink: /topics/workspace/
 
 The canvas is where both font previewing and glyph editing takes place.
 
-The current glyph can be viewed filled-in together with other glyphs of the same font.
-
-
 <div class="alert alert-warning" role="alert" markdown='1'>
 <i class="bi bi-exclamation-circle me-1"></i> Fontra does not have a *save* command – every change is saved!
 {: .mb-0 }
@@ -32,7 +29,7 @@ read more: [Canvas](../../reference/canvas)
 
 ### 2. Navigation
 
-...
+Navigation tools allow you to zoom in and out in the canvas. 
 
 read more: [Navigation](../../reference/navigation)
 

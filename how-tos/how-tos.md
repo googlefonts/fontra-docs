@@ -9,13 +9,13 @@ practical steps · problem-oriented · useful when working
 
 ### Installation
 
-- [Running Fontra on your computer](running-fontra-desktop)
+- [Installing Fontra Pak on your computer](installing-fontra-pak) ✔
 - [Running Fontra on a web server](#)
+- [Building Fontra from source](#)
 
 ### Editing fonts
 
-- [Editing an existing UFO font](#)
-- [Editing an existing designspace](#)
+- [Opening an existing UFO font or designspace](opening-ufo-designspace) ✔
 - [Creating new glyphs at specific locations](#)
 - [Creating variable components](#)
 - ...
