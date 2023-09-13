@@ -20,3 +20,8 @@ practical steps · problem-oriented · useful when working
 - [Creating variable components](#)
 - ...
 
+### Documentation
+
+- [Reporting errors, suggesting changes, etc.](#)
+- [Editing the documentation](#)
+- ...

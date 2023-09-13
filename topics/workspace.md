@@ -8,7 +8,7 @@ permalink: /topics/workspace/
   <ol class="breadcrumb small">
     <li class="breadcrumb-item"><a href="{{ site.url }}">Index</a></li>
     <li class="breadcrumb-item"><a href="../../topics">Topics</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Workspace</li>
+    <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
   </ol>
 </nav>
 
@@ -17,7 +17,10 @@ permalink: /topics/workspace/
 
 ### 1. Canvas
 
-...
+The canvas is where both font previewing and glyph editing takes place.
+
+The current glyph can be viewed filled-in together with other glyphs of the same font.
+
 
 <div class="alert alert-warning" role="alert" markdown='1'>
 <i class="bi bi-exclamation-circle me-1"></i> Fontra does not have a *save* command – every change is saved!

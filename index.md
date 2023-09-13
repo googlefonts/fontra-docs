@@ -13,7 +13,9 @@ It is developed by [Black\[Foundry\]](http://black-foundry.com/) & Just van Ross
 read more in [Welcome to Fontra](topics/welcome-to-fontra)
 </div>
 
+
 <hr class="mt-5 mb-4">
+
 
 Quickstart
 ----------
@@ -29,7 +31,7 @@ About
 <i class="bi bi-exclamation-circle me-1"></i> *this is an unofficial work-in-progress user-contributed documentation*
 {: .text-danger }
 
-This documentation is structured according to the [Documentation System](http://documentation.divio.com/):
+This documentation is structured according to the [Documentation System]:
 
 <table class="table">
 <tr>
@@ -68,6 +70,9 @@ useful when working
 <td class="text-secondary"></td>
 </tr>
 </table>
+
+[Documentation System]: http://documentation.divio.com/
+
 
 Links
 -----
