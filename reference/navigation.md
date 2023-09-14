@@ -47,21 +47,17 @@ permalink: /reference/navigation/
 </tr>
 </table>
 
-### Zoom in
+#### Zoom in / out
 
-...
+The Fontra workspace and the UI in general are inspired by map applications such as Google Maps. Users can zoom in and out of the canvas using the same navigation tools also found in map apps.
 
-### Zoom out
+Zooming in and out is also possible with the usual keyboard shortcuts ⌘ + and ⌘ -, or with the mouse wheel or trackpad.
 
-...
+#### Origin point
 
-### Origin point
+If you get lost in a large canvas, click on the origin point icon to bring the current glyph back to the center of the view, or to center the text preview in the canvas if no glyph is selected.
 
-...
+#### Full screen
 
-
-### Full screen
-
-...
-
+Click on the full screen icon to view Fontra in full screen mode, without showing browser adress bar and window elements. To exit full screen mode, press the Esc key.
 

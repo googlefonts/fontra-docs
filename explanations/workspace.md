@@ -1,13 +1,14 @@
 ---
-title: Workspace overview
-layout: default
-permalink: /topics/workspace/
+title     : Workspace overview
+layout    : default
+permalink : /explanations/workspace/
+draft     : true
 ---
 
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb small">
     <li class="breadcrumb-item"><a href="{{ site.url }}">Index</a></li>
-    <li class="breadcrumb-item"><a href="../../topics">Topics</a></li>
+    <li class="breadcrumb-item"><a href="../../explanations">Explanations</a></li>
     <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
   </ol>
 </nav>
@@ -17,12 +18,7 @@ permalink: /topics/workspace/
 
 ### 1. Canvas
 
-The canvas is where both font previewing and glyph editing takes place.
-
-<div class="alert alert-warning" role="alert" markdown='1'>
-<i class="bi bi-exclamation-circle me-1"></i> Fontra does not have a *save* command – every change is saved!
-{: .mb-0 }
-</div>
+The canvas is where both *font previewing* and *glyph editing* takes place.
 
 read more: [Canvas](../../reference/canvas)
 

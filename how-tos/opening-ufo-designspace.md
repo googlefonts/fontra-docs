@@ -26,4 +26,4 @@ Fontra supports the [UFO] and [designspace] formats natively. Follow the steps b
     ![]({{ site.url }}/images/fontra-browser-open.png){: .img-fluid }
 
 
-Have fun using Fontra to design and build your fonts.
+That's it! Have fun using Fontra to design and build your fonts.

@@ -23,7 +23,7 @@ permalink: /reference/tools/
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/pointer.svg"></td>
-<td>move tool</td>
+<td>pointer tool</td>
 <td>select and edit points, components</td>
 <td>1</td>
 </tr>
@@ -47,7 +47,7 @@ permalink: /reference/tools/
 </tr>
 </table>
 
-### Move tool
+### Pointer tool
 
 ...
 

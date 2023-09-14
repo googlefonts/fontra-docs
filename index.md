@@ -10,7 +10,7 @@ Fontra is an open-source, browser-based, cross-platform, variable-first font edi
 It is developed by [Black\[Foundry\]](http://black-foundry.com/) & Just van Rossum with support from [Google](http://github.com/googlefonts).
 {: .lead }
 
-read more in [Welcome to Fontra](topics/welcome-to-fontra)
+read more in [Welcome to Fontra](explanations/welcome-to-fontra)
 </div>
 
 
@@ -21,7 +21,7 @@ Quickstart
 ----------
 
 - [Installing Fontra Pak on your computer](how-tos/installing-fontra-pak/)
-- [Workspace overview](topics/workspace/)
+- [Workspace overview](explanations/workspace/)
 - [Opening a UFO or designspace file](how-tos/opening-ufo-designspace)
 
 
@@ -36,7 +36,7 @@ This documentation is structured according to the [Documentation System]:
 <table class="table">
 <tr>
 <td>
-<a href="topics">topics</a><br/>
+<a href="explanations">explanations</a><br/>
 <em>understanding-oriented</em>
 </td>
 <td>

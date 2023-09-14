@@ -7,6 +7,8 @@ excludeNavigation: true
 @import "highlights"
 @import url('https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap')
 
+/* tweaks on-top of Bootstrap 5 */
+
 html
   background-color: #222
 
@@ -39,13 +41,17 @@ h2
 ul, ol
   padding-left: 1.5em
 
+/* syntax highlighter */
+
 .highlight
   overflow: hidden !important
-  background-color: #EEE // rgba(0, 0, 0, .03)
+  background-color: #EEE
   margin: 1em auto
   > .highlight
     margin: 0 auto
     padding: 1em
+
+/* vimeo video embed */
 
 .__video-responsive
   overflow: hidden
@@ -61,7 +67,8 @@ ul, ol
   width: 100%
   position: absolute
 
-// collapsible kramdown toc
+/* collapsible kramdown toc */
+
 #markdown-toc
   margin: 1em 0
   padding: 1em
@@ -84,7 +91,7 @@ ul, ol
   &::before
     content: "Table of Contents »" !important
 
-// header links
+/* header links */
 
 .header-link
   opacity: 0

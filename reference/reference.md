@@ -9,10 +9,10 @@ theoretical knowledge · information-oriented · useful when working
 
 ### Workspace
 
-- [Canvas](canvas)
+- [Canvas](canvas) <span class='text-warning'>✔</span>
 - [Navigation](navigation)
 - [Tools](tools)
-- [Panels](panels)
+- [Panels](panels) <span class='text-warning'>✔</span>
 - [Menu](menu)
 
 ### APIs

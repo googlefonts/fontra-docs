@@ -1,13 +1,14 @@
 ---
-title: Welcome to Fontra
-layout: default
-permalink: /topics/welcome-to-fontra/
+title     : Welcome to Fontra
+layout    : default
+permalink : /explanations/welcome-to-fontra/
+draft     : true
 ---
 
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb small">
     <li class="breadcrumb-item"><a href="{{ site.url }}">Index</a></li>
-    <li class="breadcrumb-item"><a href="../../topics">Topics</a></li>
+    <li class="breadcrumb-item"><a href="../../explanations">Explanations</a></li>
     <li class="breadcrumb-item active" aria-current="page">Introduction</li>
   </ol>
 </nav>

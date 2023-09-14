@@ -9,7 +9,7 @@ practical steps · problem-oriented · useful when working
 
 ### Installation
 
-- [Installing Fontra Pak on your computer](installing-fontra-pak) ✔
+- [Installing Fontra Pak on your computer](installing-fontra-pak) <span class='text-success'>✔</span>
 - [Running Fontra on a web server](#)
 - [Building Fontra from source](#)
 

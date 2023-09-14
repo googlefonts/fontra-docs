@@ -1,13 +1,13 @@
 ---
 title: Documentation overview
 layout: default
-permalink: /topics/documentation/
+permalink: /explanations/documentation/
 ---
 
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb small">
     <li class="breadcrumb-item"><a href="{{ site.url }}">Index</a></li>
-    <li class="breadcrumb-item"><a href="../../topics">Topics</a></li>
+    <li class="breadcrumb-item"><a href="../../explanations">Explanations</a></li>
     <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
   </ol>
 </nav>
@@ -35,10 +35,11 @@ permalink: /topics/documentation/
 
 - documentation source is available as a [separate repository][fontra-docs] (public & open-source)
 - documentation website is built with [Jekyll] and served with [GitHub Pages]
-- content is written in [kramdown] \(markdown) with bits in html (tables)
-- templates are written in [Liquid] and laid out with [Bootstrap]
+- content is written in [kramdown] \(markdown) with bits in html (mostly tables)
+- templates are written in the [Liquid] language
+- responsive layout is created with [Bootstrap]
 - additional styles are written in [Sass] (custom font, custom classes)
-- the website is rebuilt automatically at every commit to the `main` branch of the repository
+- the website is updated automatically at every commit to the `main` branch of the repository
 
 [fontra-docs]: http://github.com/gferreira/fontra-docs
 [Jekyll]: http://jekyllrb.com/
@@ -68,7 +69,7 @@ fontra-docs
 ├── css/
 ├── images/
 ├── reference/
-├── topics/
+├── explanations/
 ├── tutorials/
 ├── how-tos/
 ├── index.md
@@ -77,7 +78,7 @@ fontra-docs
 
 <div class='row'>
 <div class='col-md' markdown='1'>
-##### System
+##### System (developers, designers)
 
 \_includes
 : modular template parts such as header and footer
@@ -98,13 +99,13 @@ css
 : Jekyll configuration file with project metadata
 </div>
 <div class='col-md' markdown='1'>
-##### Content
+##### Content (documentation authors)
 
 reference
 : sources for pages in the *Reference* section
 
-topics
-: sources for pages in the *Topics* section
+explanations
+: sources for pages in the *Explanations* section
 
 tutorials
 : sources for pages in the *Tutorials* section

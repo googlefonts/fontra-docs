@@ -12,11 +12,6 @@ permalink: /how-tos/installing-fontra-pak/
   </ol>
 </nav>
 
-{% comment %}
-* Table of Contents
-{:toc}
-{% endcomment %}
-
 Fontra can be installed locally using [Fontra Pak], a self-contained application which allows you to edit local files in your browser using Fontra. The installer is available only for **macOS** and **Windows**. Linux users can [build Fontra from source](#).
 
 Follow the steps below to install Fontra on your machine.
@@ -29,15 +24,15 @@ Follow the steps below to install Fontra on your machine.
 
     ![]({{ site.url }}/images/fontra-actions-build.png)
 
-4. In the Artifacts section of that page, click to download the appropriate installer for your platform.
+4. In the *Artifacts* section of that page, choose the appropriate installer for your platform and click to download.
 
     ![]({{ site.url }}/images/fontra-download-installer.png)
 
-5. Unzip and double-click the package, then drag the Fontra icon into the *Applications* folder to conclude the installation of the Fontra Pak app in your computer.
+5. Unzip and double-click the package, then drag the Fontra Pak icon into the *Applications* folder to conclude the installation.
 
     ![]({{ site.url }}/images/fontra-pak-installer.png)
 
-Congratulations! You have successfully installed Fontra.
+
 
 [Fontra Pak]: http://github.com/googlefonts/fontra-pak
 [GitHub]: http://github.com
