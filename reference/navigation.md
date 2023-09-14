@@ -35,8 +35,8 @@ permalink: /reference/navigation/
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/bullseye.svg"></td>
-<td>origin point</td>
-<td>go to the origin point of the drawing area</td>
+<td>fit selection</td>
+<td>zoom and scroll to make the selection fit the drawing area</td>
 <td>⌘ 0</td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ permalink: /reference/navigation/
 
 ...
 
-### Origin point
+### Fit selection
 
 ...
 
