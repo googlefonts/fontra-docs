@@ -1,4 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <path d="M860,310 l0,-20 c0,-17,-13,-30,-30,-30 l-660,0 c-17,0,-30,13,-30,30 l0,20 c0,17,13,30,30,30 l660,0 c17,0,30,-13,30,-30 Z M860,310" fill="rgb(0,0,0)" transform="matrix(1,0,0,-1,0,800)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><path d="M860 490V510C860 527 847 540 830 540H170C153 540 140 527 140 510V490C140 473 153 460 170 460H830C847 460 860 473 860 490Z"/></svg>

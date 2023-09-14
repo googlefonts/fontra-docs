@@ -20,38 +20,45 @@ draft     : true
 The canvas is where both *font previewing* and *glyph editing* takes place.
 
 
+### Gestures
+
+| gesture              | description          |
+|----------------------|----------------------|
+| swipe with 2 fingers | pan canvas           |
+
+
+### Short keys 
+
+| keys | description          |
+|------|----------------------|
+| ⌘ +  | zoom in              |
+| ⌘ -  | zoom out             |
+| ⌘ 0  | fit current glyph    |
+| ⌘ A  | select all points    |
+
+
+<!--
 Navigation
 ----------
 
-#### User interface inspired by map apps
+The Fontra workspace and the UI in general are inspired by map applications such as Google Maps. Users can zoom in and out of the canvas using the same tools and gestures which are commonly used in map apps.
 
-The Fontra workspace and the UI in general are inspired by map applications such as Google Maps. 
+Zooming in and out is also possible with the usual keyboard shortcuts ⌘ + and ⌘ -, or with the mouse wheel or trackpad.
 
-Users of Fontra can zoom in and out of the canvas using the same [navigation tools] also found in map apps.
-
-If you get lost in a large canvas, click on the origin point icon to bring the current glyph back to the center of the view, or to center the text preview in the canvas if no glyph is selected.
-
-#### Other ways to zoom in and out
-
-Zooming in and out is also possible with the usual keyboard shortcuts ⌘ + and ⌘ -, and with the mouse wheel or trackpad.
-
-#### Navigating through the designspace
-
-When working with designspace, you can jump quickly from one source to another using the short keys ⌘ ↑ (previous source) and ⌘ ↓ (next source).
 
 
 Glyph selection
 ---------------
 
-Individual glyphs can be selected and deselected by clicking with the [pointer tool]. Only one glyph can be selected at a time.
+Use the [pointer tool] to select / deselect glyphs.
 
-Attributes of the selected glyph are visible in the [glyph info panel] (name, width, unicode, components) and in the [designspace panel] (axes, sources).
+Only one glyph can be selected at a time. Attributes of the glyph are loaded into the [glyph info panel](#) and into the [designspace panel](#).
 
 
 Type preview
 ------------
 
-The preview string can be edited in the [preview text panel]. Unicode characters and line breaks are supported.
+The preview string can be edited in the [preview text panel]. 
 
 
 Display options
@@ -83,12 +90,7 @@ Double-click a glyph to activate the *editing mode* for that glyph. In place of 
 
 #### Measuring distances
 
-The [measurement tool] can be used to measure distances of certain aspects of the shapes in real-time.
-
-<div class="alert alert-warning" role="alert" markdown='1'>
-<i class="bi bi-exclamation-circle me-1"></i> If you don't need the measurement line anymore, you can disable it in the [options panel].
-{: .mb-0 }
-</div>
+Use the [measurement tool] to measure distances between points along the contour.
 
 #### Editing contours and components
 
@@ -96,7 +98,7 @@ Use the [pointer tool] to select and move contours, segments points, handles, co
 
 Use the [pen tool] to draw new contours and add points to existing contours.
 
-Fontra supports cubic and quadratics outlines. Quadratic outlines can be activated in the [options panel].
+Fontra supports cubic and quadratic outlines. Quadratic outlines can be activated in the [options panel].
 
 You can use the standard keyboard shortcuts ⌘ Z to undo the last actions, and ⇧ ⌘ Z to redo them.
 
@@ -113,6 +115,8 @@ The width of the glyph can be changed in the [glyph info panel].
 <i class="bi bi-exclamation-circle me-1"></i> It is currently not possible to change glyph margins interactively.
 {: .mb-0 }
 </div>
+
+#### Editing glyph attributes
 
 <div class="alert alert-warning" role="alert" markdown='1'>
 <i class="bi bi-exclamation-circle me-1"></i> 
@@ -137,6 +141,15 @@ Component functions are available from the [contextual menu], for example creati
 ...
 
 
+Designspace
+-----------
+
+#### Navigating through the designspace
+
+When working with designspace, you can jump quickly from one source to another using the short keys ⌘ ↑ (previous source) and ⌘ ↓ (next source).
+
+
+
 [preview text panel]: #
 [glyph info panel]: # 
 [designspace panel]: #
@@ -146,3 +159,5 @@ Component functions are available from the [contextual menu], for example creati
 [pen tool]: #
 [measurement tool]: #
 [contextual menu]: #
+
+-->

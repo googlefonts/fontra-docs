@@ -59,18 +59,6 @@ permalink: /reference/panels/
 </tr>
 </table>
 
-<!--
-| icon | panel             | description                                          |
-|------|-------------------|------------------------------------------------------|
-|      | preview text      | edit the glyph preview string                        |
-|      | find glyph        | search and choose specific glyphs in the font        |
-|      | designspace       | access variation axes and sources in the designspace |
-|      | options           | adjust various app settings                          |
-|      | reference font    | choose a reference font to display in the background |
-|      | glyph info        | view and edit glyph attributes                       |
-{: .table .table-hover .mb-4 }
--->
-
 ### Preview text
 
 <div class='row'>
@@ -79,7 +67,9 @@ permalink: /reference/panels/
 </div>
 <div class='col-md' markdown='1'>
 preview string
-: type some text to be used in the preview
+: type some text to be used in the preview    
+  
+  Unicode characters and line breaks are supported.
 
 text alignment
 : choose between left-, center-, or right-aligned text
@@ -202,8 +192,6 @@ language code
 : ...
 </div>
 </div>
-
-
 
 ### Glyph info
 

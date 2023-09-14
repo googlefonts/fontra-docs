@@ -40,18 +40,22 @@ permalink: /reference/navigation/
 <td>⌘ 0</td>
 </tr>
 <tr>
-<td></td>
-<td>full screen</td>
-<td>open the Fontra window in full screen</td>
+<td><img height="30" src="{{ site.url }}/images/icons/maximize.svg"></td>
+<td>maximize</td>
+<td>maximize the Fontra window to full screen</td>
 <td></td>
 </tr>
+<tr>
+<td><img height="30" src="{{ site.url }}/images/icons/minimize.svg"></td>
+<td>minimize</td>
+<td>restore the Fontra window from full screen to normal size</td>
+<td></td>
+</tr>
+
 </table>
 
 #### Zoom in / out
 
-The Fontra workspace and the UI in general are inspired by map applications such as Google Maps. Users can zoom in and out of the canvas using the same navigation tools also found in map apps.
-
-Zooming in and out is also possible with the usual keyboard shortcuts ⌘ + and ⌘ -, or with the mouse wheel or trackpad.
 
 #### Origin point
 

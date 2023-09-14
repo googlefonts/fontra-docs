@@ -12,8 +12,6 @@ permalink: /reference/tools/
   </ol>
 </nav>
 
-### Overview
-
 <table class="table table-hover mb-4">
 <tr>
 <th>icon</th>
@@ -23,42 +21,26 @@ permalink: /reference/tools/
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/pointer.svg"></td>
-<td>pointer tool</td>
+<td><a href='pointer'>pointer tool</a></td>
 <td>select and edit points, components</td>
 <td>1</td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/pointeradd.svg"></td>
-<td>pen tool</td>
+<td><a href='pen'>pen tool</a></td>
 <td>draw bezier contours from points</td>
 <td>2</td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/ruler.svg"></td>
-<td>measurement tool</td>
+<td><a href='measurement'>measurement tool</a></td>
 <td>interactive ruler to measure distances</td>
 <td>3</td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/hand.svg"></td>
-<td>pan tool</td>
+<td><a href='pan'>pan tool</a></td>
 <td>move around the drawing area</td>
 <td>4</td>
 </tr>
 </table>
-
-### Pointer tool
-
-...
-
-### Pen tool
-
-...
-
-### Measurement tool
-
-...
-
-### Pan tool
-
-...

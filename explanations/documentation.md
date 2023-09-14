@@ -12,6 +12,9 @@ permalink: /explanations/documentation/
   </ol>
 </nav>
 
+* Table of Contents
+{:toc}
+
 ### How this documentation is written
 
 - try to use the tool, figure out how things work, ask questions to the developers
@@ -36,9 +39,9 @@ permalink: /explanations/documentation/
 - documentation source is available as a [separate repository][fontra-docs] (public & open-source)
 - documentation website is built with [Jekyll] and served with [GitHub Pages]
 - content is written in [kramdown] \(markdown) with bits in html (mostly tables)
-- templates are written in the [Liquid] language
-- responsive layout is created with [Bootstrap]
-- additional styles are written in [Sass] (custom font, custom classes)
+- templates are written in [Liquid]
+- responsive layout is implemented with [Bootstrap]
+- additional styles are written in [Sass] (for example custom font, custom classes, icon, etc.)
 - the website is updated automatically at every commit to the `main` branch of the repository
 
 [fontra-docs]: http://github.com/gferreira/fontra-docs
@@ -119,4 +122,13 @@ index.md
 images
 : all images (screenshots, icons, etc.)
 </div>
+</div>
+
+
+<div class="alert alert-primary mt-3" role="alert" markdown='1'>
+see also:  
+
+- [Reporting errors, suggesting changes, etc.](#)
+- [Editing the documentation](#)
+{: .mb-0 }
 </div>
