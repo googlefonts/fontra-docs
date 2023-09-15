@@ -78,14 +78,14 @@ Links
 -----
 
 <div class="row">
-<div class="col" markdown="1">
+<div class="col-sm" markdown="1">
 ##### community
 
 - [Fontra.xyz](http://fontra.xyz)
 - [Fontra on Discord](http://discord.gg/3w3DTs4JvU)
 - [Black\[Foundry\]](http://black-foundry.com/)
 </div>
-<div class="col" markdown="1">
+<div class="col-sm" markdown="1">
 ##### source code 
 
 - [fontra](http://github.com/googlefonts/fontra)
@@ -93,5 +93,12 @@ Links
 - [fontra-rcjk](http://github.com/googlefonts/fontra-rcjk)
 - [fontra-glyphs](http://github.com/googlefonts/fontra-glyphs)
 - [fontra-compile](http://github.com/googlefonts/fontra-compile)
+</div>
+<div class="col-sm" markdown="1">
+##### documentation
+
+- [Fontra Docs (web)](http://github.com/gferreira/fontra-docs)
+- [Fontra Docs (source)](http://gferreira.github.io/fontra-docs)
+
 </div>
 </div>
