@@ -4,6 +4,20 @@ description: Fontra user documentation
 baseurl: ""
 url: https://gferreira.github.io/fontra-docs
 
+collections:
+  explanations:
+    output: true
+    permalink: /:path/
+  how-tos:
+    output: true
+    permalink: /:path/
+  reference:
+    output: true
+    permalink: /:path/
+  tutorials:
+    output: true
+    permalink: /:path/
+
 markdown: kramdown
 
 version: 0.1
