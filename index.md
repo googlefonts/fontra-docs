@@ -1,6 +1,7 @@
 ---
-title: Fontra Docs
-layout: default
+title  : Fontra Docs
+layout : default
+draft  : true
 ---
 
 ![]({{ site.url }}/images/fontra-workspace_edit-1.png){: .img-fluid }

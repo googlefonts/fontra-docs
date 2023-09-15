@@ -1,7 +1,8 @@
 ---
-title: Tutorials
-layout: default
-permalink: /tutorials/
+title     : Tutorials
+layout    : default
+permalink : /tutorials/
+draft     : true
 ---
 
 practical steps · learning-oriented · useful when studying

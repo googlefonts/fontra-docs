@@ -1,7 +1,8 @@
 ---
-title: Pen tool
-layout: default
-permalink: /reference/tools/pen
+title     : Pen tool
+layout    : default
+permalink : /reference/tools/pen
+draft     : true
 ---
 
 <nav aria-label="breadcrumb">

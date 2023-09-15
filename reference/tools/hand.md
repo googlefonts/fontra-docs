@@ -1,7 +1,8 @@
 ---
-title: Hand tool
-layout: default
-permalink: /reference/tools/hand
+title     : Hand tool
+layout    : default
+permalink : /reference/tools/hand
+draft     : true
 ---
 
 <nav aria-label="breadcrumb">
@@ -20,3 +21,4 @@ The *hand* tool allows you to move around the canvas area.
 Actions
 -------
 
+...

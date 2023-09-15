@@ -2,6 +2,7 @@
 title     : How-Tos
 layout    : default
 permalink : /how-tos/
+draft     : true
 ---
 
 practical steps · problem-oriented · useful when working

@@ -1,7 +1,8 @@
 ---
-title: Understanding variable components
-layout: default
-permalink: /tutorials/understanding-variable-components/
+title     : Understanding variable components
+layout    : default
+permalink : /tutorials/understanding-variable-components/
+draft     : true
 ---
 
 <nav aria-label="breadcrumb">
