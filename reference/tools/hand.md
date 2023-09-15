@@ -1,7 +1,7 @@
 ---
-title: Pen tool
+title: Hand tool
 layout: default
-permalink: /reference/tools/pen
+permalink: /reference/tools/hand
 ---
 
 <nav aria-label="breadcrumb">
@@ -13,13 +13,10 @@ permalink: /reference/tools/pen
   </ol>
 </nav>
 
-The *pen* tool allows you to draw new bézier contours and add points to existing ones.
+The *hand* tool allows you to move around the canvas area.
 {: .lead }
-
-To activate the tool, click on the pen icon in the toolbar, or use the short key `2`.
 
 
 Actions
 -------
 
-...

@@ -21,7 +21,7 @@ Quickstart
 ----------
 
 - [Installing Fontra Pak on your computer](how-tos/installing-fontra-pak/)
-- [Workspace overview](explanations/workspace/)
+- [Workspace overview](reference/workspace/)
 - [Opening a UFO or designspace file](how-tos/opening-ufo-designspace)
 
 

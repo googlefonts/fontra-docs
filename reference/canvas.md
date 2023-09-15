@@ -13,39 +13,82 @@ draft     : true
   </ol>
 </nav>
 
+The canvas is where both font previewing and glyph editing take place.
+{: .lead }
 
 * Table of Contents
 {:toc}
 
-The canvas is where both *font previewing* and *glyph editing* takes place.
+
+Type preview
+------------
+  
+##### Edit the preview text
+
+The preview string can be edited in the [preview text panel]. 
 
 
-### Gestures
-
-| gesture              | description          |
-|----------------------|----------------------|
-| swipe with 2 fingers | pan canvas           |
-
-
-### Short keys 
-
-| keys | description          |
-|------|----------------------|
-| ⌘ +  | zoom in              |
-| ⌘ -  | zoom out             |
-| ⌘ 0  | fit current glyph    |
-| ⌘ A  | select all points    |
-
-
-<!--
 Navigation
 ----------
 
-The Fontra workspace and the UI in general are inspired by map applications such as Google Maps. Users can zoom in and out of the canvas using the same tools and gestures which are commonly used in map apps.
+##### Zoom and move around
 
-Zooming in and out is also possible with the usual keyboard shortcuts ⌘ + and ⌘ -, or with the mouse wheel or trackpad.
+Use the [navigation tools] to zoom in and out and move around the canvas.
+
+##### Go to other glyphs
+
+Use the [preview text panel] to go to other glyphs by typing characters.  
+Use the [find glyph panel] to search for glyphs by name.
+
+##### Go to other sources
+
+Use the *sources* section of the [designspace panel] to switch to another source.  
+Use the shortcut keys ⌘ ↑ to go to the previous source, and ⌘ ↓ to go to the next source.
 
 
+Display options
+---------------
+
+##### Light / dark color schemes
+
+Use the [options panel] to switch between *light*, *dark* or *auto* (follow OS) color modes.
+
+##### Full screen mode
+
+Use the [navigation tools] to activate and deactivate full screen mode.
+
+##### Show other sources
+
+Use the *sources* section of the [designspace panel] to display other sources in the background.
+
+##### Show reference font
+
+Use the [reference font panel] to display any glyph from a binary font in the background.
+
+##### Show coordinates
+
+Use the [options panel] to display coordinates of selected points.
+
+
+Glyph selection
+---------------
+
+...
+
+
+Glyph editing
+-------------
+
+...
+
+
+Designspace visualization
+-------------------------
+
+...
+
+
+{% comment %}
 
 Glyph selection
 ---------------
@@ -53,33 +96,6 @@ Glyph selection
 Use the [pointer tool] to select / deselect glyphs.
 
 Only one glyph can be selected at a time. Attributes of the glyph are loaded into the [glyph info panel](#) and into the [designspace panel](#).
-
-
-Type preview
-------------
-
-The preview string can be edited in the [preview text panel]. 
-
-
-Display options
----------------
-
-#### Displaying other sources
-
-...
-
-#### Displaying a reference font
-
-...
-
-#### Light and dark color schemes
-
-...
-
-#### Full screen mode
-
-...
-
 
 Glyph editing
 -------------
@@ -135,7 +151,6 @@ Component functions are available from the [contextual menu], for example creati
 {: .mb-0 }
 </div>
 
-
 #### Creating a new source for the current glyph
 
 ...
@@ -160,4 +175,12 @@ When working with designspace, you can jump quickly from one source to another u
 [measurement tool]: #
 [contextual menu]: #
 
--->
+{% endcomment %}
+
+
+[navigation tools]: ../navigation
+[preview text panel]: ../panels/preview-text
+[find glyph panel]: ../panels/find-glyph
+[designspace panel]: ../panels/designspace
+[options panel]: ../panels/options
+[reference font panel]: ../panels/reference-font

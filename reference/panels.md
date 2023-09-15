@@ -1,7 +1,8 @@
 ---
-title: Panels
-layout: default
-permalink: /reference/panels/
+title     : Panels
+layout    : default
+permalink : /reference/panels/
+draft     : true
 ---
 
 <nav aria-label="breadcrumb">
@@ -11,6 +12,9 @@ permalink: /reference/panels/
     <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
   </ol>
 </nav>
+
+Panels provide various tools to control Fontra's workspace and the font's designspace
+{: .lead }
 
 ### Overview
 
@@ -23,197 +27,38 @@ permalink: /reference/panels/
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/texttool.svg"></td>
-<td>preview text</td>
+<td><a href='preview-text'>preview text</a></td>
 <td>edit the glyph preview string</td>
 <td></td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/magnifyingglass.svg"></td>
-<td>find glyph</td>
+<td><a href='find-glyph'>find glyph</a></td>
 <td>search and choose specific glyphs in the font</td>
-<td>⌘ f</td>
+<td>⌘ F</td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/sliders.svg"></td>
-<td>designspace</td>
+<td><a href='designspace'>designspace</a></td>
 <td>access variation axes and sources in the designspace</td>
 <td></td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/gear.svg"></td>
-<td>options</td>
+<td><a href='options'>options</a></td>
 <td>adjust various app settings</td>
 <td></td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/reference.svg"></td>
-<td>reference font</td>
+<td><a href='reference-font'>reference font</a></td>
 <td>choose a reference font to display in the background</td>
 <td></td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/info.svg"></td>
-<td>glyph info</td>
+<td><a href='glyph-info'>glyph info</a></td>
 <td>view and edit glyph attributes</td>
-<td>⌘ i</td>
+<td>⌘ I</td>
 </tr>
 </table>
-
-### Preview text
-
-<div class='row'>
-<div class='col-md' markdown='1'>
-![]({{ site.url }}/images/panel-text.png){: .img-fluid .py-2 }
-</div>
-<div class='col-md' markdown='1'>
-preview string
-: type some text to be used in the preview    
-  
-  Unicode characters and line breaks are supported.
-
-text alignment
-: choose between left-, center-, or right-aligned text
-</div>
-</div>
-
-### Find glyph
-
-<div class='row'>
-<div class='col-md' markdown='1'>
-![]({{ site.url }}/images/panel-glyphs.png){: .img-fluid .py-2 }
-</div>
-<div class='col-md' markdown='1'>
-search string
-: type a string to search in glyph names
-
-glyph list
-: a list of all glyphs in the font or designspace
-</div>
-</div>
-
-### Designspace
-
-<div class='row'>
-<div class='col-md' markdown='1'>
-![]({{ site.url }}/images/panel-designspace.png){: .img-fluid .py-2 }
-</div>
-<div class='col-md' markdown='1'>
-variation axes
-: move the sliders to navigate around the font's designspace 
-
-restore defaults
-: click the icon to restore all axes to their default location
-
-edit local axes
-: open a pop-up window with options to adjust local axes (?)
-
-- - -
-
-sources
-: a list of all sources available for the current glyph
-
-on
-: uncheck to remove source from the interpolation for this glyph
-
-bg
-: check to show a preview of this source in the background
-
-plus
-: add a new source at a new location for the current glyph
-
-minus
-: delete current glyph in the selected source 
-</div>
-</div>
-
-### Options
-
-<div class='row'>
-<div class='col-md' markdown='1'>
-![]({{ site.url }}/images/panel-options.png){: .img-fluid .py-2 }
-</div>
-<div class='col-md' markdown='1'>
-glyph editor appearance
-: ^
-  - Units-per-em grid
-  - Reference font
-  - Sidebearings for non-editing glyphs
-  - CJK design frame
-  - Baseline
-  - Drag crosshair
-  - Drag "ghost" path
-  - Show coordinates
-  - Power ruler
-
-clipboard format
-: ^
-  - GLIF (Gliph Interchange Format)
-  - SVG (Scaleable Vector Graphics)
-  - JSON (JavaScript Object Notation)
-
-experimental features
-: ^
-  - Scaling edit tool behavior
-  - Pen tool draws quadratics
-
-theme settings
-: ^
-  - Automatic (use OS setting)
-  - Light
-  - Dark
-
-version info
-: ^
-  - Server info
-  - Fontra version
-  - Startup time
-  - View plugins
-  - Project manager
-
-</div>
-</div>
-
-
-
-### Reference font
-
-<div class='row'>
-<div class='col-md' markdown='1'>
-![]({{ site.url }}/images/panel-reference.png){: .img-fluid .py-2 }
-</div>
-<div class='col-md' markdown='1'>
-reference fonts
-: drag and drop binary fonts to add them to list
-
-custom character
-: ...
-
-language code
-: ...
-</div>
-</div>
-
-### Glyph info
-
-<div class='row'>
-<div class='col-md' markdown='1'>
-![]({{ site.url }}/images/panel-info.png){: .img-fluid .py-2 }
-</div>
-<div class='col-md' markdown='1'>
-glyph info
-: ^
-  - glyph name
-  - unicode value
-  - unicode character
-  - advance width
-
-dimensions
-: ^
-  - glyph bounds
-
-components info
-: ^
-  - base glyph
-  - transformation matrix
-</div>
-</div>

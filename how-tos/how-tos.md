@@ -1,7 +1,7 @@
 ---
-title: How-Tos
-layout: default
-permalink: /how-tos/
+title     : How-Tos
+layout    : default
+permalink : /how-tos/
 ---
 
 practical steps · problem-oriented · useful when working
@@ -9,13 +9,13 @@ practical steps · problem-oriented · useful when working
 
 ### Installation
 
-- [Installing Fontra Pak on your computer](installing-fontra-pak) <span class='text-success'>✔</span>
+- [Installing Fontra Pak on your computer](installing-fontra-pak)
 - [Running Fontra on a web server](#)
-- [Building Fontra from source](#)
+- [Building Fontra from source](building-fontra-from-source)
 
 ### Editing fonts
 
-- [Opening a UFO or designspace file](opening-ufo-designspace) ✔
+- [Opening a UFO or designspace file](opening-ufo-designspace)
 - [Creating new glyphs at specific locations](#)
 - [Creating variable components](#)
 - ...

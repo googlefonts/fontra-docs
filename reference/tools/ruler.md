@@ -1,7 +1,8 @@
 ---
-title: Measurement tool
-layout: default
-permalink: /reference/tools/measurement
+title     : Ruler
+layout    : default
+permalink : /reference/tools/ruler
+draft     : true
 ---
 
 <nav aria-label="breadcrumb">
@@ -13,7 +14,11 @@ permalink: /reference/tools/measurement
   </ol>
 </nav>
 
-The *measurement tool* can be used to measure distances between points along the contours in real-time.
+The *ruler* tool allows you to measure distances between points along contours in real-time.
+{: .lead }
+
+To activate the tool, click on the ruler icon in the toolbar, or use the short key `3`.
+
 
 Actions
 -------

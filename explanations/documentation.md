@@ -1,7 +1,7 @@
 ---
-title: Documentation overview
-layout: default
-permalink: /explanations/documentation/
+title     : Documentation overview
+layout    : default
+permalink : /explanations/documentation/
 ---
 
 <nav aria-label="breadcrumb">
@@ -22,7 +22,7 @@ permalink: /explanations/documentation/
 - with input from users and developers, make it better over time
 
 <div class="alert alert-warning" role="alert" markdown='1'>
-<i class="bi bi-exclamation-circle me-1"></i> keep the docs up-to-date in relation to the app!
+<i class="bi bi-exclamation-circle me-1"></i> Keep the docs up-to-date in relation to the app!
 {: .mb-0 }
 </div>
 
@@ -126,7 +126,8 @@ images
 
 
 <div class="alert alert-primary mt-3" role="alert" markdown='1'>
-see also:  
+#### See also
+{: .alert-heading}
 
 - [Reporting errors, suggesting changes, etc.](#)
 - [Editing the documentation](#)

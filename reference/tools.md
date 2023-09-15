@@ -1,7 +1,8 @@
 ---
-title: Tools
-layout: default
-permalink: /reference/tools/
+title     : Tools
+layout    : default
+permalink : /reference/tools/
+draft     : true
 ---
 
 <nav aria-label="breadcrumb">
@@ -12,12 +13,17 @@ permalink: /reference/tools/
   </ol>
 </nav>
 
+Interactive tools allow you to edit and measure glyphs with live visual feedback.
+{: .lead }
+
+### Overview
+
 <table class="table table-hover mb-4">
 <tr>
 <th>icon</th>
 <th>tool</th>
 <th>description</th>
-<th>short key</th>
+<th>key</th>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/pointer.svg"></td>
@@ -33,14 +39,14 @@ permalink: /reference/tools/
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/ruler.svg"></td>
-<td><a href='measurement'>measurement tool</a></td>
-<td>interactive ruler to measure distances</td>
+<td><a href='ruler'>ruler tool</a></td>
+<td>measure contour distances interactively</td>
 <td>3</td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/hand.svg"></td>
-<td><a href='pan'>pan tool</a></td>
-<td>move around the drawing area</td>
+<td><a href='hand'>hand tool</a></td>
+<td>move around the canvas</td>
 <td>4</td>
 </tr>
 </table>

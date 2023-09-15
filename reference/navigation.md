@@ -1,7 +1,8 @@
 ---
-title: Navigation
-layout: default
-permalink: /reference/navigation/
+title     : Navigation
+layout    : default
+permalink : /reference/navigation/
+draft     : true
 ---
 
 <nav aria-label="breadcrumb">
@@ -12,31 +13,34 @@ permalink: /reference/navigation/
   </ol>
 </nav>
 
+Navigation tools allow you to zoom in/out and move around in the canvas.
+{: .lead }
+
 ### Overview
 
 <table class="table table-hover mb-4">
 <tr>
-<th>icon</th>
-<th>tool</th>
-<th>description</th>
-<th>short key</th>
+<th width='10%'>icon</th>
+<th width='20%'>tool</th>
+<th width='60%'>description</th>
+<th width='10%'>short keys</th>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/plus.svg"></td>
 <td>zoom in</td>
-<td>increase zoom level by X%</td>
+<td>increase zoom level by XX%</td>
 <td>⌘ +</td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/minus.svg"></td>
 <td>zoom out</td>
-<td>decrease zoom level by X%</td>
+<td>decrease zoom level by XX%</td>
 <td>⌘ -</td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/bullseye.svg"></td>
-<td>origin point</td>
-<td>go to the origin point of the drawing area</td>
+<td>fit selection</td>
+<td>zoom and scroll to make the selection fit the drawing area</td>
 <td>⌘ 0</td>
 </tr>
 <tr>
@@ -51,17 +55,21 @@ permalink: /reference/navigation/
 <td>restore the Fontra window from full screen to normal size</td>
 <td></td>
 </tr>
-
 </table>
 
-#### Zoom in / out
+### Gestures
 
-
-#### Origin point
-
-If you get lost in a large canvas, click on the origin point icon to bring the current glyph back to the center of the view, or to center the text preview in the canvas if no glyph is selected.
-
-#### Full screen
-
-Click on the full screen icon to view Fontra in full screen mode, without showing browser adress bar and window elements. To exit full screen mode, press the Esc key.
-
+<table class="table table-hover mb-4">
+<tr>
+<th width='50%'>gesture</th>
+<th width='50%'>action</th>
+</tr>
+<tr>
+<td>pinch with two fingers</td>
+<td>zoom in/out</td>
+</tr>
+<tr>
+<td>scroll with two fingers (in any direction)</td>
+<td>move around the canvas</td>
+</tr>
+</table>

@@ -1,7 +1,8 @@
 ---
-title: Pointer tool
-layout: default
-permalink: /reference/tools/pointer
+title     : Pointer tool
+layout    : default
+permalink : /reference/tools/pointer
+draft     : true
 ---
 
 <nav aria-label="breadcrumb">
@@ -13,11 +14,12 @@ permalink: /reference/tools/pointer
   </ol>
 </nav>
 
+The *pointer* tool allows selecting and editing of contours, segments, points, components, etc.
+{: .lead }
+
 * Table of Contents
 {:toc}
 
-
-The *pointer tool* is an interactive tool to select and edit basic glyph objects such as contours, segments, points, components, etc.
 
 To activate the tool, click on the arrow icon in the toolbar, or use the short key `1`. 
 
@@ -25,28 +27,66 @@ To activate the tool, click on the arrow icon in the toolbar, or use the short k
 Actions
 -------
 
-##### Glyph selection (preview mode)
+#### Glyph selection (preview mode)
 
-| action             | description                      |
-|--------------------|----------------------------------|
-| click on glyph     | select glyph                     |
-| click on canvas    | deselect glyph                   |
-| double click glyph | activate/deactivate editing mode | 
-{: .table .table-hover }
+<table class='table table-hover'>
+<tr>
+<th width='35%'>action</th>
+<th width='65%'>description</th>
+</tr>
+<tr>
+<td>click on glyph</td>
+<td>Select glyph.</td>
+</tr>
+<tr>
+<td>click on canvas</td>
+<td>Deselect glyph.</td>
+</tr>
+<tr>
+<td>double click glyph</td>
+<td>Activate/deactivate editing mode.</td>
+</tr>
+</table>
 
-##### Segment selection
+#### Segment selection
 
-...
+<table class='table table-hover'>
+<tr>
+<th width='35%'>action</th>
+<th width='65%'>description</th>
+</tr>
+<tr>
+<td>click</td>
+<td>Select segment.</td>
+</tr>
+<tr>
+<td>⇧ + click</td>
+<td>Add segment to selection.</td>
+</tr>
+<tr>
+<td>click + drag (single segment)</td>
+<td>Move the selected segments.</td>
+</tr>
+<tr>
+<td>⇧ + click + drag (single segment)</td>
+<td>Move the selected segments with angle constrained to multiples of 45°.</td>
+</tr>
+</table>
 
-##### Point selection
+#### Point selection
 
-| action       | description                                      |
-|--------------|--------------------------------------------------|
-| click + drag | Select all points inside the selection marquee.  |
-{: .table .table-hover }
+<table class='table table-hover'>
+<tr>
+<th width='35%'>action</th>
+<th width='65%'>description</th>
+</tr>
+<tr>
+<td>click + drag</td>
+<td>Select all points inside the selection marquee.</td>
+</tr>
+</table>
 
-
-##### Component selection
+#### Component selection
 
 ...
 
