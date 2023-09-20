@@ -20,30 +20,44 @@ order     : 12
 ![]({{ site.url }}/images/panel-designspace.png){: .img-fluid .py-2 }
 </div>
 <div class='col-md' markdown='1'>
-variation axes
-: move the sliders to navigate around the font's designspace 
+##### variation axes
 
-restore defaults
-: click the recycle icon to restore all axes to their default location
+interactive controls for all variation axes in the designspace
 
-edit local axes
-: open a pop-up window with options to adjust local axes (?)
+sliders
+: move the knobs to navigate around the font's designspace 
+
+labels
+: slider values indicate the current location at that axis
+
+<img src='{{ site.url }}/images/icons/refresh.svg' /> restore defaults
+: click to restore all axes to their default location
+
+<img src='{{ site.url }}/images/icons/tool.svg' /> edit local axes
+: open a pop-up window to adjust local axes (?)
 
 - - -
 
-sources
-: a list of all sources available for the current glyph
+##### sources
 
-on
+a list of all sources available for the current glyph
+
+<img src='{{ site.url }}/images/icons/circle-dot.svg' /> on
 : uncheck to remove source from the interpolation for this glyph
 
-bg
-: check to show a preview of this source in the background
+<img src='{{ site.url }}/images/icons/bug.svg' /> bug
+: indicates that this source is incompatible for interpolation
 
-plus
+<img src='{{ site.url }}/images/icons/eye.svg' /> bg (background)
+: show/hide this source in the background while editing
+
+<img src='{{ site.url }}/images/icons/antenna-bars-4.svg' /> bars
+: displays the influence of this source in the current location
+
+<img src='{{ site.url }}/images/icons/plus.svg' height='20' /> plus
 : add a new source at a new location for the current glyph
 
-minus
+<img src='{{ site.url }}/images/icons/minus.svg' height='20' /> minus
 : delete current glyph in the selected source 
 </div>
 </div>
