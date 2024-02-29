@@ -24,10 +24,17 @@ Follow the steps below to install Fontra Pak on your machine.
     
     ![]({{ site.url }}/images/fontra-pak-download.png){: .img-fluid}
 
-3. Unzip and double-click the package, then drag the Fontra Pak icon into the *Applications* folder to conclude the installation.
+3. Unzip and double-click the package
+
+3.1 Mac: then drag the Fontra Pak icon into the *Applications* folder to conclude the installation.
 
     ![]({{ site.url }}/images/fontra-pak-installer.png){: .img-fluid}
 
+3.2 Windows: click 'More information' -> click 'execute anyway'.
+
+    ![]({{ site.url }}/images/fontra-pak-install-windows-1.png){: .img-fluid}
+
+    ![]({{ site.url }}/images/fontra-pak-install-windows-2.png){: .img-fluid}
 
 [Fontra Pak]: http://github.com/googlefonts/fontra-pak
 [build Fontra from source]: ../building-fontra-from-source
