@@ -16,10 +16,11 @@ order     : 4
 
 ## A list of shortcuts
 
-| Mac | Win | Description |
-| :---: | :---: | --- |
-| `⌘` + `Z` | `Strg` + `Z` | undo the last action (any limitation?) |
-| `⇧` + `⌘` + `Z` | `⇧` + `Strg` + `Z` | redo the last action  |
+| Tool | Mac | Win | Description |
+| :---: | :---: | :---: | --- |
+|  | `⌘` + `Z` | `control` + `Z` | **undo** the last action |
+|  | `⇧` + `⌘` + `Z` | `⇧` + `control` + `Z` | **redo** the last action  |
+| Pen tool | `⇧` + `click` | `⇧` + `click` | draw a line or set a handle with **0/45/90 degrees**  |
 
 
 [Fontra Pak]: http://github.com/googlefonts/fontra-pak
