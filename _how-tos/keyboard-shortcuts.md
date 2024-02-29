@@ -14,9 +14,7 @@ order     : 4
   </ol>
 </nav>
 
-## A list of shortcuts
-
-| Mac | Win | Description |
+| Mac | Win or Linux | Description |
 | :---: | :---: | --- |
 | `⌘` + `Z` | `Ctrl` + `Z` | **undo** the last action |
 | `⇧` + `⌘` + `Z` | `⇧` + `Ctrl` + `Z` | **redo** the last action  |

@@ -9,8 +9,7 @@ excludeNavigation: true
 
 /* tweaks on-top of Bootstrap 5 */
 
-:root
-  --fontra-color: #f11759
+$fontra-color: #f11759
 
 html
   background-color: #222
@@ -124,7 +123,7 @@ table
 
 
 table thead tr
-  background-color: #f11759
+  background-color: $fontra-color
   color: #ffffff
   text-align: left
 
@@ -139,8 +138,8 @@ table tbody tr:nth-of-type(even)
 
 
 /*table tbody tr:last-of-type*/
-/*  border-bottom: 2px solid #f11759*/
+/*  border-bottom: 2px solid $fontra-color*/
 
 table tbody tr.active-row
   font-weight: bold
-  color: #f11759
+  color: $fontra-color
