@@ -30,4 +30,5 @@ work in progress
 4. Run your Jekyll site locally `bundle exec jekyll serve`.
 
 5. open the server adress you find in the terminal output, similar to:
+
 `>    Server address: http://127.0.0.1:4000/`
