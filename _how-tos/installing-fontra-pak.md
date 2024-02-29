@@ -30,7 +30,7 @@ Follow the steps below to install Fontra Pak on your machine.
 
   ![]({{ site.url }}/images/fontra-pak-installer.png){: .img-fluid}
 
-  3.2 Windows: click 'More information' -> click 'execute anyway'.
+  3.2 Windows: click 'More info' -> click 'Run anyway'.
 
   ![]({{ site.url }}/images/fontra-pak-install-windows-1.png){: .img-fluid}
 
