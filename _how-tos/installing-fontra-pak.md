@@ -16,27 +16,30 @@ order     : 1
 
 Fontra can be installed locally using [Fontra Pak], a self-contained application which allows you to edit local files in your browser using Fontra. The installer is available only for **macOS** and **Windows**. Linux users can [build Fontra from source].
 
-Follow the steps below to install Fontra on your machine.
+Follow the steps below to install Fontra Pak on your machine.
 
-1. Sign in to [GitHub] to be able to download.
+1. Go to <a href="https://fontra.xyz/">fontra.xyz/</a>
 
-2. Go to the [Actions] page of the Fontra Pak repository.
+2. Choose the right download link: Mac or Windows.
+    
+    ![]({{ site.url }}/images/fontra-pak-download.png){: .img-fluid}
 
-3. Click on the topmost “Build Application” link to go the worflow page.
+3. Unzip and double-click the package
 
-    ![]({{ site.url }}/images/fontra-actions-build.png){: .img-fluid}
+  3.1 Mac: then drag the Fontra Pak icon into the *Applications* folder to conclude the installation.
 
-4. In the *Artifacts* section of that page, choose the appropriate installer for your platform and click to download.
+  ![]({{ site.url }}/images/fontra-pak-installer.png){: .img-fluid}
 
-    ![]({{ site.url }}/images/fontra-download-installer.png){: .img-fluid}
+  3.2 Windows: click 'More info' -> click 'Run anyway'.
 
-5. Unzip and double-click the package, then drag the Fontra Pak icon into the *Applications* folder to conclude the installation.
+  ![]({{ site.url }}/images/fontra-pak-install-windows-1.png){: .img-fluid}
 
-    ![]({{ site.url }}/images/fontra-pak-installer.png){: .img-fluid}
+  ![]({{ site.url }}/images/fontra-pak-install-windows-2.png){: .img-fluid}
 
+
+Have fun: [Building Fontra from source]({{ site.url }}/how-tos/building-fontra-from-source)
 
 [Fontra Pak]: http://github.com/googlefonts/fontra-pak
 [build Fontra from source]: ../building-fontra-from-source
 [GitHub]: http://github.com
 [Actions]: http://github.com/googlefonts/fontra-pak/actions
-
