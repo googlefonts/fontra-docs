@@ -24,6 +24,6 @@ practical steps · problem-oriented · useful when working
 
 ### Documentation
 
-- [Reporting errors, suggesting changes, etc.](#)
+- [Reporting bugs, feature ideas, etc.](reporting)
 - [Editing the documentation](#)
 - ...
