@@ -24,6 +24,7 @@ practical steps · problem-oriented · useful when working
 
 ### Documentation
 
+- [Keyboard Shortcuts](keyboard-shortcuts)
 - [Reporting bugs, feature ideas, etc.](reporting)
 - [Editing the documentation](#)
 - ...

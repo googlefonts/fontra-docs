@@ -9,6 +9,8 @@ excludeNavigation: true
 
 /* tweaks on-top of Bootstrap 5 */
 
+$fontra-color: #f11759
+
 html
   background-color: #222
 
@@ -109,3 +111,35 @@ dt:hover .header-link
     content: "¶"
     position: absolute
     margin-left: 0.2em
+
+
+table
+  border-collapse: collapse
+  margin: 25px 0
+  font-size: 0.9em
+  font-family: sans-serif
+  min-width: 400px
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.05)
+
+
+table thead tr
+  background-color: $fontra-color
+  color: #ffffff
+  text-align: left
+
+table th, table td
+  padding: 12px 15px
+
+table tbody tr
+  border-bottom: 1px solid #dddddd
+
+table tbody tr:nth-of-type(even)
+  background-color: #f3f3f3
+
+
+/*table tbody tr:last-of-type*/
+/*  border-bottom: 2px solid $fontra-color*/
+
+table tbody tr.active-row
+  font-weight: bold
+  color: $fontra-color
