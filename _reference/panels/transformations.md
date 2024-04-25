@@ -17,47 +17,83 @@ order     : 16
 
 <div class='row'>
 <div class='col-md' markdown='1'>
-![]({{ site.url }}/images/panel-designspace.png){: .img-fluid .py-2 }
+![]({{ site.url }}/images/panel-transformations.png){: .img-fluid .py-2 }
 </div>
 <div class='col-md' markdown='1'>
-##### The following text is just a placeholder for now
+##### Transformations
 
-interactive controls for all variation axes in the designspace
+Transform a selection of points, contours and/or components.
 
-sliders
-: move the knobs to navigate around the font's designspace 
+Origin based on selection
+: specify the transformation origin based on the selection, from top to bottom and/or left to right.
 
-labels
-: slider values indicate the current location at that axis
+Origin
+: if you want to be more precise to can specify the origin x and y position.
 
-<img src='{{ site.url }}/images/icons/refresh.svg' /> restore defaults
-: click to restore all axes to their default location
+<img src='{{ site.url }}/images/icons/arrow-move-right.svg' />
+: Move in x and/or y direction. Values: **units**.
 
-<img src='{{ site.url }}/images/icons/tool.svg' /> edit local axes
-: open a pop-up window to adjust local axes (?)
+<img src='{{ site.url }}/images/icons/resize.svg' />
+: Scale in x and/or y direction. Values: **percentage** (100% = no scaling).
+
+<img src='{{ site.url }}/images/icons/rotate.svg' />
+: Rotate. Value: **degree** (- = clockwise, + = counter clockwise).
+
+<img height="30" src='{{ site.url }}/images/icons/skew.svg' />
+: Skew in x and/or y direction. Value: **degree**.
+
+<img height="30" src='{{ site.url }}/images/icons/flip-horizontal.svg' />
+: Flip horizontally.
+
+<img height="30" src='{{ site.url }}/images/icons/flip-vertical.svg' />
+: Flip vertically.
 
 - - -
 
-##### sources
+##### Align Objects
 
-a list of all sources available for the current glyph
+Align a selection of points, contours and/or components.
 
-<img src='{{ site.url }}/images/icons/circle-dot.svg' /> on
-: uncheck to remove source from the interpolation for this glyph
+<img src='{{ site.url }}/images/icons/vertical-align-left.svg' /> 
+: Align left
 
-<img src='{{ site.url }}/images/icons/bug.svg' /> bug
-: indicates that this source is incompatible for interpolation
+<img src='{{ site.url }}/images/icons/vertical-align-center.svg' /> 
+: Align center (vertically)
 
-<img src='{{ site.url }}/images/icons/eye.svg' /> bg (background)
-: show/hide this source in the background while editing
+<img src='{{ site.url }}/images/icons/vertical-align-right.svg' /> 
+: Align right
 
-<img src='{{ site.url }}/images/icons/antenna-bars-4.svg' /> bars
-: displays the influence of this source in the current location
+<img src='{{ site.url }}/images/icons/horizontal-align-top.svg' /> 
+: Align top
 
-<img src='{{ site.url }}/images/icons/plus.svg' height='20' /> plus
-: add a new source at a new location for the current glyph
+<img src='{{ site.url }}/images/icons/horizontal-align-center.svg' /> 
+: Align middle (horizontally)
 
-<img src='{{ site.url }}/images/icons/minus.svg' height='20' /> minus
-: delete current glyph in the selected source 
+<img src='{{ site.url }}/images/icons/horizontal-align-bottom.svg' /> 
+: Align bottom 
+
+- - -
+
+##### Distribute Objects
+
+Distribute a selection of points, contours and/or components.
+
+<img src='{{ site.url }}/images/icons/layout-distribute-vertical.svg' />
+: Distribute horizontally
+
+<img src='{{ site.url }}/images/icons/layout-distribute-horizontal.svg' />
+: Distribute vertically
+
+Distance of distribution
+: The distance will be calcutated, if not set – otherwise: specify the distance in **units**. 
+
 </div>
 </div>
+
+
+- - -
+
+*Align and distribute objects* introduction
+-------
+<video src="{{ site.url }}/videos/align-distribute-objects.mp4" controls="controls" style="width: 100%; max-width: 600px">
+</video>
