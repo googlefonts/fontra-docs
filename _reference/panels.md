@@ -62,4 +62,10 @@ Panels provide various tools to control Fontra's workspace and the font's design
 <td>view and edit glyph attributes</td>
 <td>⌘ I</td>
 </tr>
+<tr>
+<td><img height="30" src="{{ site.url }}/images/icons/shape.svg"></td>
+<td><a href='transformations'>transformation</a></td>
+<td>tranform, align and distribute objects</td>
+<td>(none)</td>
+</tr>
 </table>
