@@ -38,7 +38,7 @@ Click the icon in the toolbar, or use the short cuts below.
 </tr>
 <tr>
 <td>ctrl</td>
-<td>reverse contour</td>
+<td>reversed contour</td>
 </tr>
 </table>
 

@@ -25,10 +25,10 @@ order     : 507
 Transform a selection of points, contours and/or components.
 
 Origin based on selection
-: specify the transformation origin based on the selection, from top to bottom and/or left to right.
+: Specify the transformation origin based on the selection – from top to bottom and/or left to right.
 
 Origin
-: if you want to be more precise to can specify the origin x and y position.
+: Be more precise with a specific x and y position.
 
 <img src='{{ site.url }}/images/icons/arrow-move-right.svg' />
 : Move in x and/or y direction. Values: **units**.
@@ -85,7 +85,7 @@ Distribute a selection of points, contours and/or components.
 : Distribute vertically
 
 Distance of distribution
-: The distance will be calcutated, if not set – otherwise: specify the distance in **units**. 
+: The distance will be calcutated, if not set. Otherwise: specify the distance in **units**. 
 
 </div>
 </div>
