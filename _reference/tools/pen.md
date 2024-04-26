@@ -23,8 +23,6 @@ To activate the tool, click on the *Pen tool* icon <img height="20" src="{{ site
 Actions
 -------
 
-#### Draw outline
-
 <table class='table table-hover'>
 <tr>
 <th width='35%'>action</th>
