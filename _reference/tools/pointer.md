@@ -15,21 +15,24 @@ order     : 401
   </ol>
 </nav>
 
-The *pointer* tool allows selecting and editing of contours, segments, points, components, etc.
+The *pointer* tool <img height="20" src="{{ site.url }}/images/icons/pointer.svg">  allows selecting and editing of contours, segments, points, components, etc. Click on the icon in the toolbar, or use the short cuts below. 
 {: .lead }
-
-* Table of Contents
-{:toc}
-
-
-To activate the tool, click on the arrow icon in the toolbar, or use the short key `1`. 
-
 
 Actions
 -------
 
-#### Glyph selection (preview mode)
+<table class='table table-hover'>
+<tr>
+<th width='35%'>short cut</th>
+<th width='65%'>description</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Select tool</td>
+</tr>
+</table>
 
+#### Glyph selection (preview mode)
 <table class='table table-hover'>
 <tr>
 <th width='35%'>action</th>
@@ -50,7 +53,6 @@ Actions
 </table>
 
 #### Segment selection
-
 <table class='table table-hover'>
 <tr>
 <th width='35%'>action</th>
@@ -75,7 +77,6 @@ Actions
 </table>
 
 #### Point selection
-
 <table class='table table-hover'>
 <tr>
 <th width='35%'>action</th>
@@ -87,7 +88,20 @@ Actions
 </tr>
 </table>
 
-#### Component selection
 
-...
+#### Component selection
+<table class='table table-hover'>
+<tr>
+<th width='35%'>action</th>
+<th width='65%'>description</th>
+</tr>
+<tr>
+<td>click + drag</td>
+<td>Move clicked component</td>
+</tr>
+<tr>
+<td>double click selection</td>
+<td>Dialog: Add component(s) to the text string</td>
+</tr>
+</table>
 

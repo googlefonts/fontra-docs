@@ -15,12 +15,32 @@ order     : 403
   </ol>
 </nav>
 
-The *Shape tool* allows you to draw a new bézier based rectangle or ellipse.
+The *Shape tool* <img height="20" src="{{ site.url }}/images/icons/square-plus-2.svg"> allows you to draw a new bézier based rectangle or ellipse.
+Click the icon in the toolbar, or use the short cuts below.
 {: .lead }
 
-To activate the tool, click on the *Shape tool* icon <img height="20" src="{{ site.url }}/images/icons/square-plus-2.svg"> in the toolbar, or use the short key `3`.
-
-*Click hold* gives you access to the dropdown menu to switch between the *rectangle* <img height="20" src="{{ site.url }}/images/icons/square-plus-2.svg"> and *ellipse* <img height="20" src="{{ site.url }}/images/icons/circle-plus-2.svg"> tool.
+<table class='table table-hover'>
+<tr>
+<th width='35%'>short cut</th>
+<th width='65%'>description</th>
+</tr>
+<tr>
+<td>3</td>
+<td>Select tool</td>
+</tr>
+<tr>
+<td>⇧</td>
+<td>square or circle</td>
+</tr>
+<tr>
+<td>alt</td>
+<td>from center</td>
+</tr>
+<tr>
+<td>ctrl</td>
+<td>reverse contour</td>
+</tr>
+</table>
 
 Actions
 -------
@@ -32,7 +52,7 @@ Actions
 </tr>
 <tr>
 <td>click icon + hold</td>
-<td>get access to drop down menu</td>
+<td>get access to drop down menu <img height="20" src="{{ site.url }}/images/icons/square-plus-2.svg"> + <img height="20" src="{{ site.url }}/images/icons/circle-plus-2.svg"></td>
 </tr>
 <tr>
 <td><img height="20" src="{{ site.url }}/images/icons/square-plus-2.svg"></td>
@@ -45,18 +65,6 @@ Actions
 <tr>
 <td>click + drag</td>
 <td>draw a new shape</td>
-</tr>
-<tr>
-<td>+ `⇧`</td>
-<td>square or circle</td>
-</tr>
-<tr>
-<td>+ `alt`</td>
-<td>from center</td>
-</tr>
-<tr>
-<td>+ `ctrl`</td>
-<td>reverse contour</td>
 </tr>
 </table>
 

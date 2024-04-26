@@ -15,10 +15,9 @@ order     : 404
   </ol>
 </nav>
 
-The *ruler* tool allows you to measure distances between points along contours in real-time.
+The *ruler* tool <img height="20" src="{{ site.url }}/images/icons/ruler.svg"> allows you to measure distances between points along contours in real-time.
+Click the icon in the toolbar, or use the short cut.
 {: .lead }
-
-To activate the tool, click on the *ruler* <img height="20" src="{{ site.url }}/images/icons/ruler.svg"> icon in the toolbar, or use the short key `4`.
 
 
 Actions
@@ -31,7 +30,7 @@ Actions
 </tr>
 <tr>
 <td>4</td>
-<td>activate the tool</td>
+<td>Select tool</td>
 </tr>
 </table>
 

@@ -54,6 +54,6 @@ Interactive tools allow you to edit and measure glyphs with live visual feedback
 <td><img height="30" src="{{ site.url }}/images/icons/hand.svg"></td>
 <td><a href='hand'>hand tool</a></td>
 <td>move around the canvas</td>
-<td>5</td>
+<td>5 or space</td>
 </tr>
 </table>

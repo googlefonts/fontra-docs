@@ -15,10 +15,21 @@ order     : 402
   </ol>
 </nav>
 
-The *Pen tool* allows you to draw new bézier contours and add points to existing ones.
+The *Pen tool* <img height="20" src="{{ site.url }}/images/icons/pointeradd.svg"> allows you to draw new bézier contours and add points to existing ones.
+Click the icon in the toolbar, or use the short cut.
 {: .lead }
 
-To activate the tool, click on the *Pen tool* icon <img height="20" src="{{ site.url }}/images/icons/pointeradd.svg"> in the toolbar, or use the short key `2`.
+
+<table class='table table-hover'>
+<tr>
+<th width='35%'>short cut</th>
+<th width='65%'>description</th>
+</tr>
+<tr>
+<td>2</td>
+<td>Select tool</td>
+</tr>
+</table>
 
 Actions
 -------
