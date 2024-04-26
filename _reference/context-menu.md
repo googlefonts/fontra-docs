@@ -1,5 +1,5 @@
 ---
-title     : Menu
+title     : Context menu
 layout    : default
 permalink : /reference/menu/
 draft     : true
@@ -14,7 +14,7 @@ order     : 600
   </ol>
 </nav>
 
-The contextual menu gives access to functions specific to the current selection.
+The context menu gives access to functions specific to the current selection.
 {: .lead }
 
 ### Overview

@@ -30,7 +30,7 @@ theoretical knowledge · information-oriented · useful when working
   - [Reference font](panels/reference-font)
   - [Glyph info](panels/glyph-info)
   - [Transformation](panels/transformations)
-- [Menu](menu)
+- [Context menu](context-menu)
 
 </div>
 <div class='col' markdown='1'>

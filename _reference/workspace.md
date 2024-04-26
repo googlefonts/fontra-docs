@@ -44,7 +44,7 @@ order     : 100
 </tr>
 <tr>
 <td>5</td>
-<td><a href='../menu'>Menu</a></td>
-<td>The contextual menu gives access to functions specific to the current selection.</td>
+<td><a href='../context-menu'>Context menu</a></td>
+<td>The context menu gives access to functions specific to the current selection.</td>
 </tr>
 </table>
