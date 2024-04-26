@@ -18,14 +18,14 @@ order     : 404
 The *ruler* tool allows you to measure distances between points along contours in real-time.
 {: .lead }
 
-To activate the tool, click on the ruler icon in the toolbar, or use the short key `3`.
+To activate the tool, click on the *ruler* <img height="20" src="{{ site.url }}/images/icons/ruler.svg"> icon in the toolbar, or use the short key `4`.
 
 
 Actions
 -------
 
 <div class="alert alert-warning" role="alert" markdown='1'>
-<i class="bi bi-exclamation-circle me-1"></i> If you don't need the measurement line anymore, you can disable it in the [options panel].
+<i class="bi bi-exclamation-circle me-1"></i> If you don't need the measurement line anymore, you can disable it in the [options panel]({{ site.url }}/reference/panels/options).
 {: .mb-0 }
 </div>
 
