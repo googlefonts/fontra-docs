@@ -8,7 +8,7 @@ draft  : true
 
 <div class='text-center' markdown='1'>
 Fontra is an open-source, browser-based, cross-platform, variable-first font editor.  
-It is developed by [Black\[Foundry\]](http://black-foundry.com/) & Just van Rossum with support from [Google](http://github.com/googlefonts).
+It is developed by [Black\[Foundry\]](http://black-foundry.com/), [Olli Meier](https://github.com/ollimeier) and [Just van Rossum](https://github.com/justvanrossum) with support from [Google](http://github.com/googlefonts).
 {: .lead }
 
 read more in [Welcome to Fontra](explanations/welcome-to-fontra)
@@ -80,26 +80,27 @@ Links
 
 <div class="row">
 <div class="col-sm" markdown="1">
-##### community
+##### Community
 
 - [Fontra.xyz](http://fontra.xyz)
 - [Fontra on Discord](http://discord.gg/3w3DTs4JvU)
 - [Black\[Foundry\]](http://black-foundry.com/)
 </div>
 <div class="col-sm" markdown="1">
-##### source code 
+##### Source code 
 
 - [fontra](http://github.com/googlefonts/fontra)
 - [fontra-pak](http://github.com/googlefonts/fontra-pak)
 - [fontra-rcjk](http://github.com/googlefonts/fontra-rcjk)
 - [fontra-glyphs](http://github.com/googlefonts/fontra-glyphs)
 - [fontra-compile](http://github.com/googlefonts/fontra-compile)
+- [fontra-docs](http://github.com/gferreira/fontra-docs)
 </div>
 <div class="col-sm" markdown="1">
-##### documentation
+##### Downloads
 
-- [Fontra Docs (web)](http://github.com/gferreira/fontra-docs)
-- [Fontra Docs (source)](http://gferreira.github.io/fontra-docs)
+- [Download Fontra Pak for Mac](https://fontra-download.black-foundry.com/FontraPak.dmg)
+- [Download Fontra Pak for Windows](https://fontra-download.black-foundry.com/FontraPak.zip)
 
 </div>
 </div>
