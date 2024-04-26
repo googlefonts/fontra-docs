@@ -3,7 +3,7 @@ title     : Menu
 layout    : default
 permalink : /reference/menu/
 draft     : true
-order     : 16
+order     : 600
 ---
 
 <nav aria-label="breadcrumb">

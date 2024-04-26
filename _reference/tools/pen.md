@@ -3,7 +3,7 @@ title     : Pen tool
 layout    : default
 permalink : /reference/tools/pen
 draft     : true
-order     : 6
+order     : 402
 ---
 
 <nav aria-label="breadcrumb">

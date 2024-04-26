@@ -3,7 +3,7 @@ title     : Glyph info
 layout    : default
 permalink : /reference/panels/glyph-info
 draft     : true
-order     : 15
+order     : 506
 ---
 
 <nav aria-label="breadcrumb">

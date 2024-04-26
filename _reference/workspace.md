@@ -3,7 +3,7 @@ title     : Workspace overview
 layout    : default
 permalink : /reference/workspace/
 draft     : true
-order     : 1
+order     : 100
 ---
 
 <nav aria-label="breadcrumb">

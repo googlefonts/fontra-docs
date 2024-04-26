@@ -3,7 +3,7 @@ title     : Pointer tool
 layout    : default
 permalink : /reference/tools/pointer
 draft     : true
-order     : 5
+order     : 401
 ---
 
 <nav aria-label="breadcrumb">

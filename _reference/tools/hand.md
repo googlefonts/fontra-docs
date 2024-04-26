@@ -3,7 +3,7 @@ title     : Hand tool
 layout    : default
 permalink : /reference/tools/hand
 draft     : true
-order     : 8
+order     : 405
 ---
 
 <nav aria-label="breadcrumb">

@@ -3,7 +3,7 @@ title     : Canvas
 layout    : default
 permalink : /reference/canvas/
 draft     : true
-order     : 2
+order     : 200
 ---
 
 <nav aria-label="breadcrumb">

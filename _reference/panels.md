@@ -3,7 +3,7 @@ title     : Panels
 layout    : default
 permalink : /reference/panels/
 draft     : true
-order     : 9
+order     : 500
 ---
 
 <nav aria-label="breadcrumb">

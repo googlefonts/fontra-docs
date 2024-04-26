@@ -3,7 +3,7 @@ title     : Ruler
 layout    : default
 permalink : /reference/tools/ruler
 draft     : true
-order     : 7
+order     : 404
 ---
 
 <nav aria-label="breadcrumb">
