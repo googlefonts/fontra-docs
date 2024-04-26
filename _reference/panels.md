@@ -66,6 +66,6 @@ Panels provide various tools to control Fontra's workspace and the font's design
 <td><img height="30" src="{{ site.url }}/images/icons/shape.svg"></td>
 <td><a href='transformations'>transformation</a></td>
 <td>tranform, align and distribute objects</td>
-<td>(none)</td>
+<td></td>
 </tr>
 </table>

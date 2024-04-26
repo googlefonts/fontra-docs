@@ -18,9 +18,6 @@ order     : 401
 The *pointer* tool <img height="20" src="{{ site.url }}/images/icons/pointer.svg">  allows selecting and editing of contours, segments, points, components, etc. Click on the icon in the toolbar, or use the short cuts below. 
 {: .lead }
 
-Actions
--------
-
 <table class='table table-hover'>
 <tr>
 <th width='35%'>short cut</th>
@@ -31,6 +28,9 @@ Actions
 <td>Select tool</td>
 </tr>
 </table>
+
+Actions
+-------
 
 #### Glyph selection (preview mode)
 <table class='table table-hover'>

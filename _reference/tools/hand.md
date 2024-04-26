@@ -39,7 +39,7 @@ Actions
 
 <table class='table table-hover'>
 <tr>
-<th width='35%'>short cut</th>
+<th width='35%'>action</th>
 <th width='65%'>description</th>
 </tr>
 <tr>
