@@ -3,7 +3,7 @@ title     : Hand tool
 layout    : default
 permalink : /reference/tools/hand
 draft     : true
-order     : 8
+order     : 405
 ---
 
 <nav aria-label="breadcrumb">
@@ -15,11 +15,35 @@ order     : 8
   </ol>
 </nav>
 
-The *hand* tool allows you to move around the canvas area.
+The *hand* tool <img height="20" src="{{ site.url }}/images/icons/hand.svg"> allows you to move around the canvas area.
+Click the icon in the toolbar, or use the short cut.
 {: .lead }
 
+<table class='table table-hover'>
+<tr>
+<th width='35%'>short cut</th>
+<th width='65%'>description</th>
+</tr>
+<tr>
+<td>5</td>
+<td>Select tool</td>
+</tr>
+<tr>
+<td>spacebar</td>
+<td>as long as the space bar is down the tool is selected</td>
+</tr>
+</table>
 
 Actions
 -------
 
-...
+<table class='table table-hover'>
+<tr>
+<th width='35%'>action</th>
+<th width='65%'>description</th>
+</tr>
+<tr>
+<td>click + drag</td>
+<td>move around the canvas area</td>
+</tr>
+</table>

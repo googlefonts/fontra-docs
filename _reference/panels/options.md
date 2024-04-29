@@ -3,7 +3,7 @@ title     : Options panel
 layout    : default
 permalink : /reference/panels/options
 draft     : true
-order     : 13
+order     : 504
 ---
 
 <nav aria-label="breadcrumb">

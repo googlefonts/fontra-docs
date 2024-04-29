@@ -18,15 +18,16 @@ order     : 4
 | :---: | :---: | --- |
 | `⌘` + `Z` | `Ctrl` + `Z` | **undo** the last action |
 | `⇧` + `⌘` + `Z` | `⇧` + `Ctrl` + `Z` | **redo** the last action  |
-| `space` | `space` | **preview** with filled contours + without left and right info sections |
+| `space` | `space` | **preview** with filled contours + without left and right info sections + hand tool |
 | `⌘` + `-` | `Ctrl` + `-` | **zoom out** |
 | `⌘` + `+` | `Ctrl` + `+` | **zoom in** |
 | `⌘` + `0` | `Ctrl` + `0` | **zoom fit** to selection |
 | `1` | `1` | switch tool to <a href='../../reference/tools/pointer'>**Pointer tool**</a>: <img height="20" src="{{ site.url }}/images/icons/pointer.svg"> |
 | `2` | `2` | switch tool to <a href='../../reference/tools/pen'>**Pen tool**</a>: <img height="20" src="{{ site.url }}/images/icons/pointeradd.svg"> |
-| `3` | `3` | switch tool to <a href='../../reference/tools/ruler'>**Power ruler tool**</a>: <img height="20" src="{{ site.url }}/images/icons/ruler.svg"> |
-| `4` | `4` | switch tool to <a href='../../reference/tools/hand'>**Hand tool**</a>: <img height="20" src="{{ site.url }}/images/icons/hand.svg"> |
-| `⌘` + `a` | `Ctrl` + `a` | select **all** |
+| `3` | `3` | switch tool to <a href='../../reference/tools/shapes'>**Shape tool**</a>: <img height="20" src="{{ site.url }}/images/icons/square-plus-2.svg"> |
+| `4` | `4` | switch tool to <a href='../../reference/tools/ruler'>**Power ruler tool**</a>: <img height="20" src="{{ site.url }}/images/icons/ruler.svg"> |
+| `5` | `5` | switch tool to <a href='../../reference/tools/hand'>**Hand tool**</a>: <img height="20" src="{{ site.url }}/images/icons/hand.svg"> |
+| `⌘` + `a` | `Ctrl` + `a` | select **all** points + components |
 | `⇧` + `⌘` + `a` | `⇧` + `Ctrl` + `a` | select **none** |
 | `⌘` + `c` | `Ctrl` + `c` | **copy** selection or glyph |
 | `⌘` + `v` | `Ctrl` + `v` | **past** selection |

@@ -3,7 +3,7 @@ title     : Panels
 layout    : default
 permalink : /reference/panels/
 draft     : true
-order     : 9
+order     : 500
 ---
 
 <nav aria-label="breadcrumb">
@@ -61,5 +61,11 @@ Panels provide various tools to control Fontra's workspace and the font's design
 <td><a href='glyph-info'>glyph info</a></td>
 <td>view and edit glyph attributes</td>
 <td>⌘ I</td>
+</tr>
+<tr>
+<td><img height="30" src="{{ site.url }}/images/icons/shape.svg"></td>
+<td><a href='transformations'>transformation</a></td>
+<td>tranform, align and distribute objects</td>
+<td></td>
 </tr>
 </table>

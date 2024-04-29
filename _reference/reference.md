@@ -19,6 +19,7 @@ theoretical knowledge · information-oriented · useful when working
 - [Tools](tools)
   - [Pointer](tools/pointer)
   - [Pen](tools/pen)
+  - [Shape tool](tools/shapes)
   - [Ruler](tools/ruler)
   - [Hand](tools/hand)
 - [Panels](panels)
@@ -28,7 +29,8 @@ theoretical knowledge · information-oriented · useful when working
   - [Options](panels/options)
   - [Reference font](panels/reference-font)
   - [Glyph info](panels/glyph-info)
-- [Menu](menu)
+  - [Transformation](panels/transformations)
+- [Context menu](context-menu)
 
 </div>
 <div class='col' markdown='1'>

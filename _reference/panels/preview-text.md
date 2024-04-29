@@ -3,7 +3,7 @@ title     : Preview text
 layout    : default
 permalink : /reference/panels/preview-text
 draft     : true
-order     : 10
+order     : 501
 ---
 
 <nav aria-label="breadcrumb">

@@ -3,7 +3,7 @@ title     : Canvas
 layout    : default
 permalink : /reference/canvas/
 draft     : true
-order     : 2
+order     : 200
 ---
 
 <nav aria-label="breadcrumb">
@@ -143,7 +143,7 @@ The name and unicode value of a glyph also cannot be changed.
 
 #### Editing components
 
-Component functions are available from the [contextual menu], for example creating new components or decomposing existing ones.
+Component functions are available from the [context menu], for example creating new components or decomposing existing ones.
 
 #### Editing anchors
 
@@ -173,8 +173,10 @@ When working with designspace, you can jump quickly from one source to another u
 [navigation tools]: #
 [pointer tool]: #
 [pen tool]: #
-[measurement tool]: #
-[contextual menu]: #
+[shape tool]: #
+[ruler tool]: #
+[hand tool]: #
+[context menu]: #
 
 {% endcomment %}
 

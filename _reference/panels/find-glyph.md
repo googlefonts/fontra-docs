@@ -3,7 +3,7 @@ title     : Find glyph
 layout    : default
 permalink : /reference/panels/find-glyph
 draft     : true
-order     : 11
+order     : 502
 ---
 
 <nav aria-label="breadcrumb">
