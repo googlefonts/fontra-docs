@@ -30,8 +30,7 @@ main, footer
     text-decoration: none
     &:hover
       border-bottom: solid 1px
-  a[href*="//"]:not([href*="localhost:4000"]),
-  a[href*="//"]:not([href*="gferreira.github.io/fontra-docs"])
+  a[href*="//"]:not([href*="{{ site.url }}"])
     &:not(.page-link)
       &:hover
         border-bottom-width: 3px !important

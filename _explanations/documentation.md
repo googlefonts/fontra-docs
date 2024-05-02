@@ -45,7 +45,7 @@ order     : 2
 - additional styles are written in [Sass] (for example custom font, custom classes, icon, etc.)
 - the website is updated automatically at every commit to the `main` branch of the repository
 
-[fontra-docs]: http://github.com/gferreira/fontra-docs
+[fontra-docs]: http://github.com/googlefonts/fontra-docs
 [Jekyll]: http://jekyllrb.com/
 [GitHub Pages]: http://pages.github.com/
 [kramdown]: http://kramdown.gettalong.org/index.html
@@ -59,7 +59,7 @@ order     : 2
 if you see a mistake or would like to propose an improvement:
 
 - create an issue on the `fontra-docs` repository
-- send a message on [Discord](#) with the label `docs`
+- send a message on [Discord](https://discord.gg/SeZWugEYzd) with the label `docs`
 - fork the `fontra-docs` repository and submit a pull request
 {% endcomment %}
 
