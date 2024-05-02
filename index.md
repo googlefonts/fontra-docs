@@ -94,7 +94,7 @@ Links
 - [fontra-rcjk](http://github.com/googlefonts/fontra-rcjk)
 - [fontra-glyphs](http://github.com/googlefonts/fontra-glyphs)
 - [fontra-compile](http://github.com/googlefonts/fontra-compile)
-- [fontra-docs](http://github.com/gferreira/fontra-docs)
+- [fontra-docs](http://github.com/googlefonts/fontra-docs)
 </div>
 <div class="col-sm" markdown="1">
 ##### Downloads

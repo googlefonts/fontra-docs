@@ -1,6 +1,6 @@
 # Fontra User Docs
 
-[web preview](https://gferreira.github.io/fontra-docs/)
+[web preview](https://docs.fontra.xyz/)
 
 
 
@@ -25,3 +25,7 @@
 5. open the server adress you find in the terminal output, similar to:
 
     `>    Server address: http://127.0.0.1:4000/`
+
+
+# Credits
+[Gustavo Ferreira](https://github.com/gferreira) initiated this documentation

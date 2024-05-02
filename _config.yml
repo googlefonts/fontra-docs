@@ -1,8 +1,8 @@
 title: Fontra Docs
-email: gustavo@hipertipo.com
+email: hello@black-foundry.com
 description: Fontra user documentation
 baseurl: ""
-url: https://gferreira.github.io/fontra-docs
+url: https://googlefonts.github.io/fontra-docs
 
 collections:
   explanations:
