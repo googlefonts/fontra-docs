@@ -2,7 +2,7 @@ title: Fontra Docs
 email: hello@black-foundry.com
 description: Fontra user documentation
 baseurl: ""
-url: https://googlefonts.github.io/fontra-docs
+url: https://docs.fontra.xyz
 
 collections:
   explanations:
