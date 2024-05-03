@@ -3,7 +3,7 @@ title     : Reference
 layout    : default
 permalink : /reference/
 draft     : true
-order     : 0
+order     : 3
 ---
 
 theoretical knowledge · information-oriented · useful when working

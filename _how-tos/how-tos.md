@@ -3,7 +3,7 @@ title     : How-Tos
 layout    : default
 permalink : /how-tos/
 draft     : true
-order     : 0
+order     : 2
 ---
 
 practical steps · problem-oriented · useful when working

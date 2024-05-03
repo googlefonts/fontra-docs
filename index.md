@@ -18,12 +18,7 @@ read more in [Welcome to Fontra](explanations/welcome-to-fontra)
 <hr class="mt-5 mb-4">
 
 
-Quickstart
-----------
 
-- [Installing Fontra Pak on your computer](how-tos/installing-fontra-pak/)
-- [Workspace overview](reference/workspace/)
-- [Opening a UFO or designspace file](how-tos/opening-ufo-designspace)
 
 
 About
