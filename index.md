@@ -8,7 +8,7 @@ draft  : true
 
 <div class='text-center' markdown='1'>
 Fontra is an open-source, browser-based, cross-platform, variable-first font editor.  
-It is developed by [Black\[Foundry\]](http://black-foundry.com/), [Olli Meier](https://github.com/ollimeier) and [Just van Rossum](https://github.com/justvanrossum) with support from [Google](http://github.com/googlefonts).
+It is developed by [Black\[Foundry\]](http://black-foundry.com/) and [Just van Rossum](https://github.com/justvanrossum) with support from [Google](http://github.com/googlefonts).
 {: .lead }
 
 read more in [Welcome to Fontra](explanations/welcome-to-fontra)
