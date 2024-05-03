@@ -20,7 +20,7 @@ read more in [Welcome to Fontra](explanations/welcome-to-fontra)
 
 
 
-
+{% comment %}
 About
 -----
 
@@ -68,10 +68,7 @@ useful when working
 </table>
 
 [Documentation System]: http://documentation.divio.com/
-
-
-Links
------
+{% endcomment %}
 
 <div class="row">
 <div class="col-sm" markdown="1">

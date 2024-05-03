@@ -6,7 +6,7 @@ draft     : true
 order     : 2
 ---
 
-Show how to solve a specific problem
+Solve a specific problems
 {: .lead }
 
 ### Installation
@@ -27,7 +27,9 @@ Show how to solve a specific problem
 - ...
 {% endcomment %}
 
+### Draw
+- [Draw with 3 global variations axes](draw/draw-with-3-axes)
+
 ### Documentation
 
-- [Keyboard Shortcuts](keyboard-shortcuts)
 - [Reporting bugs, feature ideas, etc.](reporting)

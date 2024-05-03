@@ -1,15 +1,16 @@
 ---
 title     : Keyboard shortcuts
 layout    : default
-permalink : /how-tos/keyboard-shortcuts/
+permalink : /reference/navigation/keyboard-shortcuts/
 draft     : true
-order     : 4
+order     : 301
 ---
 
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb small">
     <li class="breadcrumb-item"><a href="{{ site.url }}">Index</a></li>
-    <li class="breadcrumb-item"><a href="../../how-tos">How-Tos</a></li>
+    <li class="breadcrumb-item"><a href="../../../reference">Reference</a></li>
+    <li class="breadcrumb-item"><a href="../navigation">Navigation</a></li>
     <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
   </ol>
 </nav>

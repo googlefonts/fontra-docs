@@ -6,7 +6,7 @@ draft     : true
 order     : 1
 ---
 
-Allow a newcomer to get started
+Getting started
 {: .lead }
 
 

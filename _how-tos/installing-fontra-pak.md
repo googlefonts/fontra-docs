@@ -16,6 +16,11 @@ order     : 1
 
 Fontra can be installed locally using [Fontra Pak], a self-contained application which allows you to edit local files in your browser using Fontra. The installer is available only for **macOS** and **Windows**. Linux users can [build Fontra from source].
 
+<div class="__video-responsive">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Kf0B2IN7Ig8?si=xV2GmVgYVHjmEIQ1&amp;start=95&end=374" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
 Follow the steps below to install Fontra Pak on your machine.
 
 1. Go to <a href="https://fontra.xyz/">fontra.xyz/</a>
