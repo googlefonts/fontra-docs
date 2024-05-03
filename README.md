@@ -1,6 +1,6 @@
 # Fontra User Docs
 
-[web preview](https://docs.fontra.xyz/)
+Hosted at [docs.fontra.xyz](https://docs.fontra.xyz)
 
 
 
