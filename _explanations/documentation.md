@@ -130,7 +130,9 @@ images
 #### See also
 {: .alert-heading}
 
-- [Reporting errors, suggesting changes, etc.](#)
+- [Reporting bugs, feature ideas, etc.](reporting)
+{% comment %}
 - [Editing the documentation](#)
+{% endcomment %}
 {: .mb-0 }
 </div>

@@ -6,13 +6,9 @@ draft     : true
 order     : 1
 ---
 
-practical steps · learning-oriented · useful when studying
+Allow a newcomer to get started
 {: .lead }
 
-Reporting bugs, feature ideas
--------
-<video src="{{ site.url }}/videos/reporting-issues.mp4" controls="controls" style="width: 100%; max-width: 600px">
-</video>
 
 *Pen tool* introduction
 -------

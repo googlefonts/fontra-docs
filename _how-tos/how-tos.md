@@ -6,25 +6,28 @@ draft     : true
 order     : 2
 ---
 
-practical steps · problem-oriented · useful when working
+Show how to solve a specific problem
 {: .lead }
 
 ### Installation
 
 - [Installing Fontra Pak on your computer](installing-fontra-pak)
-- Running Fontra on a web server
 - [Building Fontra from source](building-fontra-from-source)
+{% comment %}
+- Running Fontra on a web server
+{% endcomment %}
 
 ### Editing fonts
 
 - [Opening a UFO or designspace file](opening-ufo-designspace)
 - [Creating new glyphs](create-new-glyph)
+{% comment %}
 - Creating new glyphs at specific locations
 - Creating variable components
 - ...
+{% endcomment %}
 
 ### Documentation
 
 - [Keyboard Shortcuts](keyboard-shortcuts)
 - [Reporting bugs, feature ideas, etc.](reporting)
-- ...

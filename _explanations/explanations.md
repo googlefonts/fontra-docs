@@ -6,10 +6,13 @@ draft     : true
 order     : 4
 ---
 
-theoretical knowledge · understanding-oriented · useful when studying
+Explanations can equally well be described as discussions. Topics at a higher level or even from different perspectives.
 {: .lead }
 
-- [Features overview](features)
+
 - [Documentation overview](documentation)
+{% comment %}
+- [Features overview](features)
 - [Plugins](#)
 - ...
+{% endcomment %}

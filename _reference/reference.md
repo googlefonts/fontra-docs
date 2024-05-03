@@ -33,9 +33,11 @@ theoretical knowledge · information-oriented · useful when working
 - [Context menu](context-menu)
 
 </div>
+{% comment %}
 <div class='col' markdown='1'>
 ### APIs
 
 - ...
 </div>
+{% endcomment %}
 </div>
