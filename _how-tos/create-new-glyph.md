@@ -3,7 +3,7 @@ title     : Create new glyph
 layout    : default
 permalink : /how-tos/create-new-glyph/
 draft     : true
-order     : 6
+order     : 202
 ---
 
 <nav aria-label="breadcrumb">
@@ -13,9 +13,6 @@ order     : 6
     <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
   </ol>
 </nav>
-
-*Create new glyph* introduction
--------
 
 1. Open an existing project or start from skretch with Fontra Pak
 2. Enter the glyph you want to add to the <a href='../../reference/panels/preview-text'>**Preview text panel**</a>

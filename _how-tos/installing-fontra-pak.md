@@ -3,7 +3,7 @@ title     : Installing Fontra Pak on your computer
 layout    : default
 permalink : /how-tos/installing-fontra-pak/
 draft     : true
-order     : 1
+order     : 101
 ---
 
 <nav aria-label="breadcrumb">

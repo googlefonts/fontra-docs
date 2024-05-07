@@ -3,7 +3,7 @@ title     : Understanding variable components
 layout    : default
 permalink : /explanations/understanding-variable-components/
 draft     : true
-order     : 1
+order     : 101
 ---
 
 <nav aria-label="breadcrumb">

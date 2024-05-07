@@ -3,7 +3,7 @@ title     : Draw with 3 global variations axes
 layout    : default
 permalink : /how-tos/draw/draw-with-3-axes
 draft     : true
-order     : 2
+order     : 301
 ---
 
 <nav aria-label="breadcrumb">
