@@ -25,7 +25,7 @@ theoretical knowledge · information-oriented · useful when working
   - [Hand](tools/hand)
 - [Panels](panels)
   - [Preview text](panels/preview-text)
-  - [Find glyph](panels/glyph-info)
+  - [Find glyph](panels/find-glyph)
   - [Designspace](panels/designspace)
   - [Options](panels/options)
   - [Reference font](panels/reference-font)

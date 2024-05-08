@@ -137,7 +137,7 @@ videos
 #### See also
 {: .alert-heading}
 
-- [Reporting bugs, feature ideas, etc.](reporting)
+- [Reporting bugs, feature ideas, etc.]({{ site.url }}/how-tos/reporting)
 {% comment %}
 - [Editing the documentation](#)
 {% endcomment %}

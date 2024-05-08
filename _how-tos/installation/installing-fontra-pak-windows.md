@@ -1,7 +1,7 @@
 ---
 title     : Installing Fontra Pak on Windows
 layout    : default
-permalink : /how-tos/installing-fontra-pak-windows/
+permalink : /how-tos/installation/installing-fontra-pak-windows/
 draft     : true
 order     : 103
 ---

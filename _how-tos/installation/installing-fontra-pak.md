@@ -1,7 +1,7 @@
 ---
 title     : Installing Fontra Pak on your computer
 layout    : default
-permalink : /how-tos/installing-fontra-pak/
+permalink : /how-tos/installation/installing-fontra-pak/
 draft     : true
 order     : 101
 ---
@@ -20,7 +20,7 @@ Fontra can be installed locally using [Fontra Pak], a self-contained application
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Kf0B2IN7Ig8?si=xV2GmVgYVHjmEIQ1&amp;start=95&end=374" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-Have fun: [Building Fontra from source]({{ site.url }}/how-tos/building-fontra-from-source)
+Have fun: [Building Fontra from source]({{ site.url }}/how-tos/installation/building-fontra-from-source)
 
 
 [Fontra Pak]: http://github.com/googlefonts/fontra-pak

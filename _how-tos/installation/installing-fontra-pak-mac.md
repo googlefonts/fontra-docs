@@ -1,7 +1,7 @@
 ---
 title     : Installing Fontra Pak on Mac
 layout    : default
-permalink : /how-tos/installing-fontra-pak-mac/
+permalink : /how-tos/installation/installing-fontra-pak-mac/
 draft     : true
 order     : 102
 ---

@@ -1,7 +1,7 @@
 ---
 title     : Building Fontra from source
 layout    : default
-permalink : /how-tos/building-fontra-from-source/
+permalink : /how-tos/installation/building-fontra-from-source/
 draft     : true
 order     : 110
 ---
