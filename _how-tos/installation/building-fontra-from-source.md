@@ -3,7 +3,7 @@ title     : Building Fontra from source
 layout    : default
 permalink : /how-tos/building-fontra-from-source/
 draft     : true
-order     : 102
+order     : 110
 ---
 
 <nav aria-label="breadcrumb">
@@ -14,5 +14,5 @@ order     : 102
   </ol>
 </nav>
 
-...
+Please go to the [Fontra Github repository](https://github.com/googlefonts/fontra) and follow the instructions written in the readme file.
 

@@ -10,9 +10,12 @@ Solve a specific problems
 
 ### Installation{% comment %}order: 100{% endcomment %}
 
-- [Installing Fontra Pak on your computer](installing-fontra-pak){% comment %}order: 101{% endcomment %}
+- [Installing Fontra Pak on your computer](installation/installing-fontra-pak){% comment %}order: 101{% endcomment %}
+- [Installing Fontra Pak on Mac](installation/installing-fontra-pak-mac){% comment %}order: 102{% endcomment %}
+- [Installing Fontra Pak on Windows](installation/installing-fontra-pak-windows){% comment %}order: 103{% endcomment %}
+- [Building Fontra from source](installation/building-fontra-from-source){% comment %}order: 110{% endcomment %}
 {% comment %}
-- [Building Fontra from source](building-fontra-from-source){% comment %}order: 102{% endcomment %}
+- [Installing Fontra Pak on Linux](installation/installing-fontra-pak-linux)
 - Running Fontra on a web server
 {% endcomment %}
 
