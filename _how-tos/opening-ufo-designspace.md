@@ -14,7 +14,7 @@ order     : 201
   </ol>
 </nav>
 
-Fontra supports the [UFO] and [designspace] formats natively.
+Fontra supports the [UFO](https://unifiedfontobject.org/) and [designspace](https://fonttools.readthedocs.io/en/latest/designspaceLib/index.html) formats natively. 
 
 Follow the steps below to open your local files in the browser using the Fontra Pak app.
 
@@ -25,6 +25,8 @@ Follow the steps below to open your local files in the browser using the Fontra 
 2. Drag a `.ufo` or `.designspace` file into the start-up window to launch Fontra in your default browser.
 
     ![]({{ site.url }}/images/fontra-browser-open.png){: .img-fluid }
+
+Example designspace format: [RobotoFlex.designspace](https://github.com/googlefonts/roboto-flex/blob/739e06dc46ebb14cddd88b9768a6c1504d4677f6/sources/RobotoFlex.designspace)
 
 That's it! Have fun using Fontra to design and build your fonts.
 
