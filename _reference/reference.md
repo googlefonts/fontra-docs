@@ -17,7 +17,7 @@ theoretical knowledge · information-oriented · useful when working
 - [Canvas](canvas)
   - [Context menu](canvas/context-menu)
   - [Glyph editor](canvas/glyph-editor)
-    - [Anchors](canvas/glyph-editor/Anchors)
+    - [Anchors](canvas/glyph-editor/anchors)
 - [Navigation](navigation)
   - [Keyboard shortcuts](navigation/keyboard-shortcuts)
 - [Tools](tools)
