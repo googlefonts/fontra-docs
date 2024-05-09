@@ -15,6 +15,9 @@ theoretical knowledge · information-oriented · useful when working
 
 - [Workspace](workspace)
 - [Canvas](canvas)
+  - [Context menu](canvas/context-menu)
+  - [Glyph editor](canvas/glyph-editor)
+    - [Anchors](canvas/glyph-editor/Anchors)
 - [Navigation](navigation)
   - [Keyboard shortcuts](navigation/keyboard-shortcuts)
 - [Tools](tools)
@@ -31,7 +34,7 @@ theoretical knowledge · information-oriented · useful when working
   - [Reference font](panels/reference-font)
   - [Glyph info](panels/glyph-info)
   - [Transformation](panels/transformations)
-- [Context menu](context-menu)
+
 {% comment %}
 - [OT Features](#)
 {% endcomment %}
