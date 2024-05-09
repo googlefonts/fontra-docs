@@ -1,9 +1,9 @@
 ---
 title     : Building Fontra from source
 layout    : default
-permalink : /how-tos/building-fontra-from-source/
+permalink : /how-tos/installation/building-fontra-from-source/
 draft     : true
-order     : 2
+order     : 110
 ---
 
 <nav aria-label="breadcrumb">
@@ -14,5 +14,5 @@ order     : 2
   </ol>
 </nav>
 
-...
+Please go to the [Fontra Github repository](https://github.com/googlefonts/fontra) and follow the instructions written in the readme file.
 

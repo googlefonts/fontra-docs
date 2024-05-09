@@ -3,13 +3,16 @@ title     : Explanations
 layout    : default
 permalink : /explanations/
 draft     : true
-order     : 0
 ---
 
-theoretical knowledge · understanding-oriented · useful when studying
+Topics at a higher level or even from different perspectives. Explanations can equally well be described as discussions.
 {: .lead }
 
-- [Welcome to Fontra](welcome-to-fontra)
-- [Features overview](features)
-- [Documentation overview](documentation)
+- [Understanding variable components](understanding-variable-components){% comment %}order: 101{% endcomment %}
+- [Documentation overview](documentation){% comment %}order: 901{% endcomment %}
+{% comment %}
+- [Why another font editing software?](#)
+- [Why Fontra Pak](#)
+- [Plugins](#)
 - ...
+{% endcomment %}

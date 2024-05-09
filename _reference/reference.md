@@ -3,7 +3,7 @@ title     : Reference
 layout    : default
 permalink : /reference/
 draft     : true
-order     : 0
+order     : 3
 ---
 
 theoretical knowledge · information-oriented · useful when working
@@ -16,6 +16,7 @@ theoretical knowledge · information-oriented · useful when working
 - [Workspace](workspace)
 - [Canvas](canvas)
 - [Navigation](navigation)
+  - [Keyboard shortcuts](navigation/keyboard-shortcuts)
 - [Tools](tools)
   - [Pointer](tools/pointer)
   - [Pen](tools/pen)
@@ -24,18 +25,23 @@ theoretical knowledge · information-oriented · useful when working
   - [Hand](tools/hand)
 - [Panels](panels)
   - [Preview text](panels/preview-text)
-  - [Find glyph](panels/glyph-info)
+  - [Find glyph](panels/find-glyph)
   - [Designspace](panels/designspace)
   - [Options](panels/options)
   - [Reference font](panels/reference-font)
   - [Glyph info](panels/glyph-info)
   - [Transformation](panels/transformations)
 - [Context menu](context-menu)
+{% comment %}
+- [OT Features](#)
+{% endcomment %}
 
 </div>
+{% comment %}
 <div class='col' markdown='1'>
 ### APIs
 
 - ...
 </div>
+{% endcomment %}
 </div>

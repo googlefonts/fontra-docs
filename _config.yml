@@ -5,7 +5,10 @@ baseurl: ""
 url: https://docs.fontra.xyz
 
 collections:
-  explanations:
+  introduction:
+    output: true
+    permalink: /:path/
+  tutorials:
     output: true
     permalink: /:path/
   how-tos:
@@ -14,9 +17,10 @@ collections:
   reference:
     output: true
     permalink: /:path/
-  tutorials:
+  explanations:
     output: true
     permalink: /:path/
+
 
 markdown: kramdown
 

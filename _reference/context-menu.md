@@ -1,7 +1,7 @@
 ---
 title     : Context menu
 layout    : default
-permalink : /reference/menu/
+permalink : /reference/context-menu/
 draft     : true
 order     : 600
 ---

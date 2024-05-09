@@ -2,7 +2,7 @@
 title     : Documentation overview
 layout    : default
 permalink : /explanations/documentation/
-order     : 2
+order     : 901
 ---
 
 <nav aria-label="breadcrumb">
@@ -22,15 +22,17 @@ order     : 2
 - write it down as clearly as possible to pave the path for other users
 - with input from users and developers, make it better over time
 
+{% comment %}
 <div class="alert alert-warning" role="alert" markdown='1'>
 <i class="bi bi-exclamation-circle me-1"></i> Keep the docs up-to-date in relation to the app!
 {: .mb-0 }
 </div>
+{% endcomment %}
 
 ### How this documentation is structured
 
 - content is written and structured around the matrix proposed by the [Documentation System]
-- TL;DR: there are four types of documentation: *explanations*, *tutorials*, *how-tos*, *reference*
+- TL;DR: there are four types of documentation: *tutorials*, *how-tos*, *reference*, *explanations*
 - this system makes it easier for users to find what they are looking for, and for authors to expand and maintain the docs
 
 [Documentation System]: http://documentation.divio.com/
@@ -72,6 +74,8 @@ fontra-docs
 ├── _py/
 ├── css/
 ├── images/
+├── videos/
+├── _introduction/
 ├── _reference/
 ├── _explanations/
 ├── _tutorials/
@@ -105,23 +109,26 @@ css
 <div class='col-md' markdown='1'>
 ##### Content (documentation authors)
 
-reference
-: sources for pages in the *Reference* section
-
-explanations
-: sources for pages in the *Explanations* section
-
 tutorials
 : sources for pages in the *Tutorials* section
 
 how-tos
 : sources for pages in the *How-Tos* section
 
+reference
+: sources for pages in the *Reference* section
+
+explanations
+: sources for pages in the *Explanations* section
+
 index.md
 : home page of the documentation
 
 images
 : all images (screenshots, icons, etc.)
+
+videos
+: all videos
 </div>
 </div>
 
@@ -130,7 +137,9 @@ images
 #### See also
 {: .alert-heading}
 
-- [Reporting errors, suggesting changes, etc.](#)
+- [Reporting bugs, feature ideas, etc.]({{ site.url }}/how-tos/reporting)
+{% comment %}
 - [Editing the documentation](#)
+{% endcomment %}
 {: .mb-0 }
 </div>
