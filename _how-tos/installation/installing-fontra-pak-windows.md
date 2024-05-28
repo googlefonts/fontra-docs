@@ -26,6 +26,10 @@ order     : 103
 
   ![]({{ site.url }}/images/fontra-pak-install-windows-2.png){: .img-fluid}
 
+<div class="alert alert-warning" role="alert" markdown='1'>
+<i class="bi bi-exclamation-circle me-1"></i> Do you have issues installing the app on windows, please reboot your computer and try again. Still issues -> Please write a github issue: [Reporting bugs, feature ideas, etc]({{ site.url }}/how-tos/reporting).
+{: .mb-0 }
+</div>
 
 [Fontra Pak]: http://github.com/googlefonts/fontra-pak
 [build Fontra from source]: ../building-fontra-from-source
