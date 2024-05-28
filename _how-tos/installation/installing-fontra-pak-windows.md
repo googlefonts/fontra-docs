@@ -27,7 +27,7 @@ order     : 103
   ![]({{ site.url }}/images/fontra-pak-install-windows-2.png){: .img-fluid}
 
 <div class="alert alert-warning" role="alert" markdown='1'>
-<i class="bi bi-exclamation-circle me-1"></i> Do you have issues installing the app on windows, please reboot your computer and try again. Still issues -> Please write a github issue: [Reporting bugs, feature ideas, etc]({{ site.url }}/how-tos/reporting).
+<i class="bi bi-exclamation-circle me-1"></i> If you have issues installing the app, please reboot your computer and try again. If you still experience problems after that, please write a GitHub issue: [Reporting bugs, feature ideas, etc]({{ site.url }}/how-tos/reporting).
 {: .mb-0 }
 </div>
 
