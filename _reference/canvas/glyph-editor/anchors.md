@@ -89,7 +89,7 @@ Actions
 </tr>
 <tr>
 <td>double click anchor (multi-source-editing)</td>
-<td>edit anchor in all sources, eg. change anchor name in entire glyph</td>
+<td>edit anchor in all sources, for example change anchor name in entire glyph</td>
 </tr>
 </table>
 

@@ -40,3 +40,8 @@ Position **Anchors** (multi source editing)
 with the help of *Align and distribute objects* 
 <video src="{{ site.url }}/videos/canvas-glyph-editor-anchor-position.mp4" controls="controls" style="width: 100%; max-width: 600px">
 </video>
+
+**Status colors** introduction
+-------
+<video src="{{ site.url }}/videos/status-colors.mp4" controls="controls" style="width: 100%; max-width: 600px">
+</video>
