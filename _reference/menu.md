@@ -42,12 +42,12 @@ order     : 600
 </tr>
 <tr>
 <td>5</td>
-<td><a href=''>Extentions</a></td>
-<td>eg. Plugin Manager</td>
+<td><a href=''>Extensions</a></td>
+<td>For example, Plugin Manager</td>
 </tr>
 <tr>
 <td>6</td>
 <td><a href=''>Help</a></td>
-<td>eg. link to documentation, github, ...</td>
+<td>For example, link to documentation, github, ...</td>
 </tr>
 </table>
