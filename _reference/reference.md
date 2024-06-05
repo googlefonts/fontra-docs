@@ -34,6 +34,14 @@ theoretical knowledge · information-oriented · useful when working
   - [Reference font](panels/reference-font)
   - [Glyph info](panels/glyph-info)
   - [Transformation](panels/transformations)
+- [Menu bar](menu)
+  - [Font](menu/font)
+    - [Status definitions](menu/font/status-colors)
+{% comment %}
+    - [Font Info](menu/font/font-info)
+    - [Axes](menu/font/axes)
+    - [Sources](menu/font/sources)
+  {% endcomment %}
 
 {% comment %}
 - [OT Features](#)
