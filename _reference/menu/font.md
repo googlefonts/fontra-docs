@@ -38,7 +38,7 @@ order     : 640
 </tr>
 <tr>
 <td>4</td>
-<td><a href='../font/status-colors'>Status Definitions</a></td>
+<td><a href='{{ site.url }}/reference/menu/font/status-colors'>Status Definitions</a></td>
 <td>Status definition settings like color, name, isDefault.</td>
 </tr>
 </table>
