@@ -52,7 +52,7 @@ The context menu gives access to functions specific to the current selection.
 <td>⌘ V</td>
 </tr>
 <tr>
-<td>Delete</td>
+<td>Delete Selection</td>
 <td>delete current selection</td>
 <td>⌫</td>
 </tr>
@@ -72,6 +72,26 @@ The context menu gives access to functions specific to the current selection.
 <td> </td>
 </tr>
 <tr>
+<td>Add Anchor</td>
+<td>add anchor to glyph</td>
+<td> </td>
+</tr>
+<tr>
+<td>Add Guideline</td>
+<td>add guideline to glyph</td>
+<td> </td>
+</tr>
+<tr>
+<td>Lock Guideline</td>
+<td>Lock or unlock selected guideline</td>
+<td> </td>
+</tr>
+<tr>
+<td>Close Contour</td>
+<td>close one or many contours (based on selection) or <br>join selected points (must be end-points)</td>
+<td>⌘ J</td>
+</tr>
+<tr>
 <td>Break Contour</td>
 <td>break contours at the selected points</td>
 <td> </td>
@@ -89,7 +109,7 @@ The context menu gives access to functions specific to the current selection.
 <tr>
 <td>Decompose Components</td>
 <td>decompose selected components</td>
-<td> </td>
+<td>⇧ ⌘ D</td>
 </tr>
 <tr class='table-group-divider'>
 <td>Select Previous Source</td>
