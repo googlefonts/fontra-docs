@@ -87,6 +87,24 @@ Distribute a selection of points, contours and/or components.
 Distance of distribution
 : The distance will be calcutated, if not set. Otherwise: specify the distance in **units**. 
 
+- - -
+
+##### Path Operations
+
+Keep in mind that path operations work with two groups: the selected and the unselected contours.
+
+<img src='{{ site.url }}/images/icons/layers-union.svg' />
+: Remove Overlaps -> removes overlaps of selection only.
+
+<img src='{{ site.url }}/images/icons/layers-subtract.svg' />
+: Subtract contours -> subtracts the selected contours from the unselected contours.
+
+<img src='{{ site.url }}/images/icons/layers-intersect-2.svg' />
+: Intersect contours
+
+<img src='{{ site.url }}/images/icons/layers-difference.svg' />
+: Exclude contours
+
 </div>
 </div>
 
@@ -96,4 +114,9 @@ Distance of distribution
 *Align and distribute objects* introduction
 -------
 <video src="{{ site.url }}/videos/align-distribute-objects.mp4" controls="controls" style="width: 100%; max-width: 600px">
+</video>
+
+*Path operations* multi source editing
+-------
+<video src="{{ site.url }}/videos/path-operations.mp4" controls="controls" style="width: 100%; max-width: 600px">
 </video>
