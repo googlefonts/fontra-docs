@@ -39,21 +39,27 @@ Interactive tools allow you to edit and measure glyphs with live visual feedback
 <td>2</td>
 </tr>
 <tr>
+<td><img height="30" src="{{ site.url }}/images/icons/slice.svg"></td>
+<td><a href='knife'>knife tool</a></td>
+<td>slice contours</td>
+<td>3</td>
+</tr>
+<tr>
 <td><img height="30" src="{{ site.url }}/images/icons/square-plus-2.svg"></td>
 <td><a href='shapes'>shape tool</a></td>
 <td>draw bezier rectangle or ellipse</td>
-<td>3</td>
+<td>4</td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/ruler.svg"></td>
 <td><a href='ruler'>ruler tool</a></td>
 <td>measure contour distances interactively</td>
-<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/hand.svg"></td>
 <td><a href='hand'>hand tool</a></td>
 <td>move around the canvas</td>
-<td>5 or space</td>
+<td>6 or space</td>
 </tr>
 </table>
