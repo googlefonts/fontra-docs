@@ -3,7 +3,7 @@ title     : Shape tool
 layout    : default
 permalink : /reference/tools/shapes
 draft     : true
-order     : 403
+order     : 404
 ---
 
 <nav aria-label="breadcrumb">

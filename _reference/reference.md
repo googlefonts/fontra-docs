@@ -23,6 +23,7 @@ theoretical knowledge · information-oriented · useful when working
 - [Tools](tools)
   - [Pointer](tools/pointer)
   - [Pen](tools/pen)
+  - [Knife](tools/knife)
   - [Shape tool](tools/shapes)
   - [Ruler](tools/ruler)
   - [Hand](tools/hand)
