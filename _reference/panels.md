@@ -68,4 +68,10 @@ Panels provide various tools to control Fontra's workspace and the font's design
 <td>tranform, align and distribute objects</td>
 <td></td>
 </tr>
+<tr>
+<td><img height="30" src="{{ site.url }}/images/icons/notes.svg"></td>
+<td><a href='glyph-note'>glyph note</a></td>
+<td>add/store notes for selected glyph</td>
+<td></td>
+</tr>
 </table>
