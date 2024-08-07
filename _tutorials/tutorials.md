@@ -25,9 +25,29 @@ Getting started
 <video src="{{ site.url }}/videos/shape-tool-introduction.mp4" controls="controls" style="width: 100%; max-width: 600px">
 </video>
 
+**Knife tool** multi source editing
+-------
+<video src="{{ site.url }}/videos/knife-tool.mp4" controls="controls" style="width: 100%; max-width: 600px">
+</video>
+
+**Interactive transformation** multi source editing
+-------
+<video src="{{ site.url }}/videos/interactive-transformation.mp4" controls="controls" style="width: 100%; max-width: 600px">
+</video>
+
 **Align and distribute objects** introduction
 -------
 <video src="{{ site.url }}/videos/align-distribute-objects.mp4" controls="controls" style="width: 100%; max-width: 600px">
+</video>
+
+**Path operations** multi source editing
+-------
+<video src="{{ site.url }}/videos/path-operations.mp4" controls="controls" style="width: 100%; max-width: 600px">
+</video>
+
+**Close/Join contours** multi source editing
+-------
+<video src="{{ site.url }}/videos/close-contours.mp4" controls="controls" style="width: 100%; max-width: 600px">
 </video>
 
 **Anchors** introduction
@@ -44,4 +64,9 @@ with the help of *Align and distribute objects*
 **Status colors** introduction
 -------
 <video src="{{ site.url }}/videos/status-colors.mp4" controls="controls" style="width: 100%; max-width: 600px">
+</video>
+
+**Glyph notes**
+-------
+<video src="{{ site.url }}/videos/glyph-notes.mp4" controls="controls" style="width: 100%; max-width: 600px">
 </video>
