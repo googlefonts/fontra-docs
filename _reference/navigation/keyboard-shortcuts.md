@@ -15,6 +15,23 @@ order     : 301
   </ol>
 </nav>
 
+#### Custom shortcuts
+1. Go to the menu bar, **Fontra** -> **Application settings**
+2. there you’ll find a panel to set custom shortcuts for various items (menu items, tool selection, sidebar selection, glyph editor appearance toggles, and more)
+
+<div class="alert alert-primary mt-3" role="alert" markdown='1'>
+#### Pro tips: 
+{: .alert-heading}
+- Shortcuts are customizable
+- Save your custom shortcuts as a json file via **Export shortcuts**
+- Share your custom shortcuts with others via a json file by using the **Import shortcuts** button
+{: .mb-0 }
+</div>
+
+![]({{ site.url }}/images/panel-shortcuts.png){: .img-fluid }
+
+#### Some of the predefined shortcuts
+
 | Mac | Win or Linux | Description |
 | :---: | :---: | --- |
 | `⌘` + `Z` | `Ctrl` + `Z` | **undo** the last action |
