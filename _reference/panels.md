@@ -22,7 +22,7 @@ Panels provide various tools to control Fontra's workspace and the font's design
 <table class="table table-hover mb-4">
 <tr>
 <th>icon</th>
-<th>tool</th>
+<th>panel</th>
 <th>description</th>
 <th>short key</th>
 </tr>
@@ -72,6 +72,12 @@ Panels provide various tools to control Fontra's workspace and the font's design
 <td><img height="30" src="{{ site.url }}/images/icons/notes.svg"></td>
 <td><a href='glyph-note'>glyph note</a></td>
 <td>add/store notes for selected glyph</td>
+<td></td>
+</tr>
+<tr>
+<td><img height="30" src="{{ site.url }}/images/icons/binary-tree-2.svg"></td>
+<td><a href='related-glyphs-and-characters'>related glyphs and characters</a></td>
+<td>shows related glyphs and characters, based on selection and unicode infos</td>
 <td></td>
 </tr>
 </table>

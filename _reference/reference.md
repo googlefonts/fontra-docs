@@ -36,6 +36,7 @@ theoretical knowledge · information-oriented · useful when working
   - [Glyph info](panels/glyph-info)
   - [Transformation](panels/transformations)
   - [Glyph note](panels/glyph-note)
+  - [Related Glyphs & Characters](panels/related-glyphs-and-characters)
 - [Menu bar](menu)
   - [Font](menu/font)
     - [Status definitions](menu/font/status-colors)

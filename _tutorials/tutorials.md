@@ -70,3 +70,8 @@ with the help of *Align and distribute objects*
 -------
 <video src="{{ site.url }}/videos/glyph-notes.mp4" controls="controls" style="width: 100%; max-width: 600px">
 </video>
+
+**Related Glyphs & Characters Panel** introduction
+-------
+<video src="{{ site.url }}/videos/related-glyphs-and-characters.mp4" controls="controls" style="width: 100%; max-width: 600px">
+</video>
