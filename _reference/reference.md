@@ -38,6 +38,11 @@ theoretical knowledge · information-oriented · useful when working
   - [Glyph note](panels/glyph-note)
   - [Related Glyphs & Characters](panels/related-glyphs-and-characters)
 - [Menu bar](menu)
+  - [Fontra](menu/fontra)
+    - [Shortcuts](menu/fontra/shortcuts)
+    - [Clipboard format](menu/fontra/clipboard-format)
+  - [View](menu/view)
+    - [Glyph editor appearance](menu/view/glyph-editor-appearance)
   - [Font](menu/font)
     - [Status definitions](menu/font/status-colors)
 {% comment %}

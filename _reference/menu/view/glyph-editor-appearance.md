@@ -80,7 +80,7 @@ Actions
 </tr>
 <tr>
 <td>Drag "ghost" path</td>
-<td>xxx</td>
+<td>show/hide the original outline in gray while dragging points/contours</td>
 </tr>
 <tr>
 <td>Anchor names</td>
