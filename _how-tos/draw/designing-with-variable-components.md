@@ -25,6 +25,7 @@ Notes:
 
 - create one source with line metrics
 - draw with basic shape tool
+- break contours
 - Gaëtan shows two different ways of closing contours
 - make only one single variable component with the name "compo"
 - add glyph axes
@@ -43,6 +44,7 @@ Notes:
   - stem_left
   - stem_right
 - add two more points to the contour for the stems
+- two different options to slant the added stems
 - add stem to "a"
 - create character "n"
 - add new glyph axes 
