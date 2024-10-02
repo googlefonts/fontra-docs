@@ -31,6 +31,7 @@ Solve a specific problems
 
 ### Draw{% comment %}order: 300{% endcomment %}
 - [Draw with 3 global variations axes](draw/draw-with-3-axes){% comment %}order: 301{% endcomment %}
+- [Designing with variable components](draw/designing-with-variable-components){% comment %}order: 302{% endcomment %}
 
 ### Documentation{% comment %}order: 900{% endcomment %}
 
