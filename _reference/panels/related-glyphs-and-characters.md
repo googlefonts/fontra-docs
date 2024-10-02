@@ -17,7 +17,7 @@ order     : 509
 
 <div class='row'>
 <div class='col-md' markdown='1'>
-![]({{ site.url }}/images/panel-related-glyphs-and-characters.png){: .img-fluid .py-2 }
+![]({{ site.url }}/images/panel-related-glyphs-and-characters-dark.png){: .img-fluid .py-2 }
 </div>
 <div class='col-md' markdown='1'>
 If you select a glyph you get different relationships.
