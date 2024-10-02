@@ -24,4 +24,8 @@ order     : 601
 <td><a href='{{ site.url }}/reference/menu/fontra/shortcuts'>Shortcuts</a></td>
 <td>This page allows you to give various actions custom shortcuts</td>
 </tr>
+<tr>
+<td><a href='{{ site.url }}/reference/menu/fontra/clipboard-format'>Clipboard format</a></td>
+<td>The clipboard format is either 'glif', 'svg' or 'json'.</td>
+</tr>
 </table>
