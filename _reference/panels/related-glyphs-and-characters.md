@@ -20,26 +20,28 @@ order     : 509
 ![]({{ site.url }}/images/panel-related-glyphs-and-characters-dark.png){: .img-fluid .py-2 }
 </div>
 <div class='col-md' markdown='1'>
-If you select a glyph you get different relationships.
+This panel shows related glyphs and/or characters for the glyph that is selected in the canvas.
+
+There are multiple categories of relationships that can be shown. If there are no related glyphs or characters to report for a category, the section is not shown. Each section can be collapsed and expanded with the chevron icon.
 
 Alternate glyphs
 : ^
   - Looks for glyphs which have the same glyph name, but with a different extension.
+
+Components used by this glyph
+: ^
+  - The components as defined in the font (based on glyph information)
+  - example: onequarter -> one.numerator, four.numerator, fraction
 
 Glyphs using this glyph as a component
 : ^
   - These are glyphs within this font which use the selected glyph as a component
   - example: a -> aacute, abreve, aring, adieresis, ...
 
-Characters that decompose with this character
+Characters decomposition
 : ^
   - We look at unicode decomposition information
   - Can a character be represented as a sequence of other characters?!
-
-Components used by this glyph
-: ^
-  - The components as defined in the font (based on glyph information) 
-  - example: onequarter -> one.numerator, four.numerator, fraction
 
 Character decomposition
 : ^
