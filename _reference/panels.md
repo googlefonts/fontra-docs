@@ -77,7 +77,7 @@ Panels provide various tools to control Fontra's workspace and the font's design
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/binary-tree-2.svg"></td>
 <td><a href='related-glyphs-and-characters'>related glyphs and characters</a></td>
-<td>shows	related glyphs and characters, based on selection and unicode infos</td>
+<td>shows related glyphs and characters, based on selection and unicode infos</td>
 <td></td>
 </tr>
 </table>
