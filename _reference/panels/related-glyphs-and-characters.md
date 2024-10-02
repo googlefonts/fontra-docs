@@ -38,15 +38,15 @@ Glyphs using this glyph as a component
   - These are glyphs within this font which use the selected glyph as a component
   - example: a -> aacute, abreve, aring, adieresis, ...
 
-Characters decomposition
-: ^
-  - We look at unicode decomposition information
-  - Can a character be represented as a sequence of other characters?!
-
 Character decomposition
 : ^
-  - Based on unicode information 
-  - example: onequarter -> one, four, fraction
+  - Using unicode decomposition information
+  - example: onequarter -> one, fraction, four
+
+Characters that decompose with this character
+: ^
+  - Using unicode decomposition information in reverse
+  - example: one -> onesuperior, onequarter, onehalf, ...
 
 </div>
 </div>
