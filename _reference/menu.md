@@ -20,7 +20,7 @@ order     : 600
 <th width='82%'>description</th>
 </tr>
 <tr>
-<td>Fontra</td>
+<td><a href='../menu/fontra'>Fontra</a></td>
 <td>Application Settings</td>
 </tr>
 <tr>

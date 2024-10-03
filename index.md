@@ -4,7 +4,7 @@ layout : default
 draft  : true
 ---
 
-![]({{ site.url }}/images/fontra-workspace_edit-1.png){: .img-fluid }
+![]({{ site.url }}/images/fontra-index.png){: .img-fluid }
 
 <div class='text-center' markdown='1'>
 Fontra is an open-source, browser-based, cross-platform, variable-first font editor.  
