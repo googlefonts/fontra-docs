@@ -76,7 +76,7 @@ Actions
 </tr>
 <tr>
 <td>Drag crosshair</td>
-<td>xxx</td>
+<td>it's the vertical and horizontal line when you click, drag a point in the canvas with the pointer tool</td>
 </tr>
 <tr>
 <td>Drag "ghost" path</td>
