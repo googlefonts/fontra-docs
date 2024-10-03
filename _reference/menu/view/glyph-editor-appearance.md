@@ -26,6 +26,8 @@ order     : 644
 {: .mb-0 }
 </div>
 
+![]({{ site.url }}/images/glyph-editor-appearance.png){: .img-fluid }
+
 Actions
 -------
 
@@ -112,7 +114,7 @@ Actions
 </tr>
 </table>
 
-![]({{ site.url }}/images/glyph-editor-appearance.png){: .img-fluid }
+
 
 
 
