@@ -78,7 +78,7 @@ Actions
 </tr>
 <tr>
 <td>Drag crosshair</td>
-<td>it's the vertical and horizontal line when you click, drag a point in the canvas with the pointer tool</td>
+<td>the dotted lines from the pointer center while you drag a point</td>
 </tr>
 <tr>
 <td>Drag "ghost" path</td>
