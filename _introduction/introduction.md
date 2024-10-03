@@ -20,6 +20,6 @@ Fontra is different from most other editors because it works in the browser. Usi
 Quickstart
 ----------
 
-- [Installing Fontra Pak on your computer]({{ site.url }}/how-tos/installing-fontra-pak/)
+- [Installing Fontra Pak on your computer]({{ site.url }}/how-tos/installation/installing-fontra-pak/)
 - [Opening a UFO or designspace file]({{ site.url }}/how-tos/opening-ufo-designspace)
 - [Workspace overview]({{ site.url }}/reference/workspace/)
