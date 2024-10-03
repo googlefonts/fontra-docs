@@ -1,9 +1,9 @@
 ---
-title     : Clipboard
+title     : Display Language
 layout    : default
-permalink : /reference/menu/fontra/clipboard
+permalink : /reference/menu/fontra/display-language
 draft     : true
-order     : 605
+order     : 604
 ---
 
 <nav aria-label="breadcrumb">
@@ -19,15 +19,8 @@ order     : 605
 <div class="alert alert-primary mt-3" role="alert" markdown='1'>
 #### Pro tips: 
 {: .alert-heading}
-- for example use 'glif' to copy/past from/to RoboFont
+- Your language is missing? Feel free to contribute [github fontra](http://github.com/googlefonts/fontra)
 {: .mb-0 }
 </div>
 
-Possible clipboard formats:
-: ^
-  - [GLIF (Glyph Interchange Format)](http://unifiedfontobject.org/versions/ufo3/glyphs/glif/)
-  - [SVG (Scaleable Vector Graphics)](http://developer.mozilla.org/en-US/docs/Web/SVG)
-  - [JSON (JavaScript Object Notation)](http://www.json.org/)
-
-
-![]({{ site.url }}/images/application-settings-clipboard.png){: .img-fluid }
+![]({{ site.url }}/images/application-settings-display-language.png){: .img-fluid }
