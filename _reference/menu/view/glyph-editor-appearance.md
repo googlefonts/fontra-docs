@@ -80,7 +80,7 @@ Actions
 </tr>
 <tr>
 <td>Drag "ghost" path</td>
-<td>the original outline in gray while dragging points/contours</td>
+<td>the original unchanged outline in gray while dragging points/contours</td>
 </tr>
 <tr>
 <td>Anchor names</td>
@@ -104,11 +104,11 @@ Actions
 </tr>
 <tr>
 <td>Power Ruler</td>
-<td>power ruler measurement lines and values</td>
+<td>power ruler measurement line and distance values</td>
 </tr>
 <tr>
 <td>Glyph lock icon for non-editing glyphs</td>
-<td>a lock at the bottom of a glyph as an indicator, that this glyph is locked</td>
+<td>a lock at the bottom of a glyph as an indicator, that this glyph cannot be changed</td>
 </tr>
 </table>
 
