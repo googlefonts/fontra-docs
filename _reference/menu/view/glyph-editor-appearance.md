@@ -36,7 +36,7 @@ Actions
 </tr>
 <tr>
 <td>Units-per-em grid</td>
-<td>the UPM grid when you're zoomed into a contour</td>
+<td>the Units-per-em grid, when zoomed in</td>
 </tr>
 <tr>
 <td>Line metrics</td>
