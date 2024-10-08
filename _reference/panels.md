@@ -45,12 +45,6 @@ Panels provide various tools to control Fontra's workspace and the font's design
 <td></td>
 </tr>
 <tr>
-<td><img height="30" src="{{ site.url }}/images/icons/gear.svg"></td>
-<td><a href='options'>options</a></td>
-<td>adjust various app settings</td>
-<td></td>
-</tr>
-<tr>
 <td><img height="30" src="{{ site.url }}/images/icons/reference.svg"></td>
 <td><a href='reference-font'>reference font</a></td>
 <td>choose a reference font to display in the background</td>

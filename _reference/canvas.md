@@ -47,48 +47,6 @@ Use the *sources* section of the [designspace panel] to switch to another source
 Use the shortcut keys ⌘ ↑ to go to the previous source, and ⌘ ↓ to go to the next source.
 
 
-Display options
----------------
-
-##### Light / dark color schemes
-
-Use the [options panel] to switch between *light*, *dark* or *auto* (follow OS) color modes.
-
-##### Full screen mode
-
-Use the [navigation tools] to activate and deactivate full screen mode.
-
-##### Show other sources
-
-Use the *sources* section of the [designspace panel] to display other sources in the background.
-
-##### Show reference font
-
-Use the [reference font panel] to display any glyph from a binary font in the background.
-
-##### Show coordinates
-
-Use the [options panel] to display coordinates of selected points.
-
-
-Glyph selection
----------------
-
-...
-
-
-Glyph editing
--------------
-
-...
-
-
-Designspace visualization
--------------------------
-
-...
-
-
 {% comment %}
 
 Glyph selection
@@ -115,7 +73,7 @@ Use the [pointer tool] to select and move contours, segments points, handles, co
 
 Use the [pen tool] to draw new contours and add points to existing contours.
 
-Fontra supports cubic and quadratic outlines. Quadratic outlines can be activated in the [options panel].
+Fontra supports cubic and quadratic outlines.
 
 You can use the standard keyboard shortcuts ⌘ Z to undo the last actions, and ⇧ ⌘ Z to redo them.
 
@@ -169,7 +127,6 @@ When working with designspace, you can jump quickly from one source to another u
 [preview text panel]: #
 [glyph info panel]: # 
 [designspace panel]: #
-[options panel]: # 
 [navigation tools]: #
 [pointer tool]: #
 [pen tool]: #
@@ -185,5 +142,4 @@ When working with designspace, you can jump quickly from one source to another u
 [preview text panel]: ../panels/preview-text
 [find glyph panel]: ../panels/find-glyph
 [designspace panel]: ../panels/designspace
-[options panel]: ../panels/options
 [reference font panel]: ../panels/reference-font

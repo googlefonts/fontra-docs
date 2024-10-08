@@ -23,17 +23,17 @@ order     : 640
 </tr>
 <tr>
 <td>1</td>
-<td><a href=''>Font Info</a></td>
+<td>Font Info</td>
 <td>Settings about various names, vendor information, UPM, ...</td>
 </tr>
 <tr>
 <td>2</td>
-<td><a href=''>Axes</a></td>
+<td>Axes</td>
 <td>Axes Setting like min max default values, value mappings, ...</td>
 </tr>
 <tr>
 <td>3</td>
-<td><a href=''>Sources</a></td>
+<td>Sources</td>
 <td>Font source settings like name, location, vertical metrics, ...</td>
 </tr>
 <tr>

@@ -16,38 +16,31 @@ order     : 600
 
 <table class='table table-hover'>
 <tr>
-<th width='5%'>#</th>
 <th width='13%'>item</th>
 <th width='82%'>description</th>
 </tr>
 <tr>
-<td>1</td>
-<td><a href=''>File</a></td>
-<td> Will include items like: New..., Open...</td>
+<td><a href='../menu/fontra'>Fontra</a></td>
+<td>Application Settings</td>
 </tr>
 <tr>
-<td>2</td>
-<td><a href=''>Edit</a></td>
+<td>File</td>
+<td>Will include items like: New..., Open...</td>
+</tr>
+<tr>
+<td>Edit</td>
 <td>Undo, redo, etc.</td>
 </tr>
 <tr>
-<td>3</td>
-<td><a href=''>View</a></td>
-<td>Zoom in and out, etc.</td>
+<td><a href='../menu/view'>View</a></td>
+<td>Includes: Zoom, Selection, Glyph editor apperance</td>
 </tr>
 <tr>
-<td>4</td>
 <td><a href='../menu/font'>Font</a></td>
 <td>Includes: Font info, Axes, Sources, Status definitions</td>
 </tr>
 <tr>
-<td>5</td>
-<td><a href=''>Extensions</a></td>
-<td>For example, Plugin Manager</td>
-</tr>
-<tr>
-<td>6</td>
-<td><a href=''>Help</a></td>
+<td>Help</td>
 <td>For example, link to documentation, github, ...</td>
 </tr>
 </table>

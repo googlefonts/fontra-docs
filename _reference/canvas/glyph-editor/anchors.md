@@ -24,8 +24,8 @@ order     : 211
 {: .alert-heading}
 - Add/edit anchors works with **multi-source-editing**
 - **Select all anchors** by entering multiple times the short cut `⌘` + `a` for Mac (or `Ctrl` + `a` for Windows)
-- **Show/hide anchor names** via panel [Options](/reference/panels/options)
-- **Show coordinates** via panel [Options](/reference/panels/options)
+- **Show/hide anchor names** via [Glyph editor appearance](/reference/menu/view/glyph-editor-appearance)
+- **Show coordinates** via [Glyph editor appearance](/reference/menu/view/glyph-editor-appearance)
 {: .mb-0 }
 </div>
 
@@ -54,18 +54,13 @@ order     : 211
 
 
 #### Show/hide anchor names
-1. go to panel [Options](/reference/panels/options)
+1. go to [Glyph editor appearance](/reference/menu/view/glyph-editor-appearance)
 2. click checkbox **Anchor names**
 
-![]({{ site.url }}/images/canvas-glyph-editor-anchor-names.png){: .img-fluid }
-
-
 #### Show/hide anchor coordinates
-1. go to panel [Options](/reference/panels/options)
+1. go to [Glyph editor appearance](/reference/menu/view/glyph-editor-appearance)
 2. click checkbox **Coordinates**
 3. select anchor(s)
-
-![]({{ site.url }}/images/canvas-glyph-editor-anchor-coordinates.png){: .img-fluid }
 
 Actions
 -------

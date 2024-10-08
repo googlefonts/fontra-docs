@@ -35,9 +35,7 @@ Actions
 </table>
 
 <div class="alert alert-warning" role="alert" markdown='1'>
-<i class="bi bi-exclamation-circle me-1"></i> If you don't need the measurement line anymore, you can disable it in the [options panel]({{ site.url }}/reference/panels/options).
+<i class="bi bi-exclamation-circle me-1"></i> If you don't need the measurement line anymore, you can disable it via [glyph-editor-appearance]({{ site.url }}/reference/menu/view/glyph-editor-appearance).
 {: .mb-0 }
 </div>
-
-[options panel]: #
 
