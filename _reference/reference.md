@@ -45,6 +45,8 @@ theoretical knowledge · information-oriented · useful when working
     - [Editor Behavior](menu/fontra/editor-behavior)
     - [Plugin Manager](menu/fontra/plugin-manager)
     - [Server Info](menu/fontra/server-info)
+  - [File](menu/file)
+    - [Export as](menu/file/export-as)
   - [View](menu/view)
     - [Glyph editor appearance](menu/view/glyph-editor-appearance)
   - [Font](menu/font)

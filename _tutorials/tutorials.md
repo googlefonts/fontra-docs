@@ -9,6 +9,10 @@ order     : 1
 Getting started
 {: .lead }
 
+**Export as** introduction
+-------
+<video src="{{ site.url }}/videos/export-as.mp4" controls="controls" style="width: 100%; max-width: 600px">
+</video>
 
 **Pen tool** introduction
 -------
