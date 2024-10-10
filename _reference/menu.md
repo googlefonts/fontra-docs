@@ -24,8 +24,8 @@ order     : 600
 <td>Application Settings</td>
 </tr>
 <tr>
-<td>File</td>
-<td>Will include items like: New..., Open...</td>
+<td><a href='../menu/file'>File</a></td>
+<td>Export as...</td>
 </tr>
 <tr>
 <td>Edit</td>
