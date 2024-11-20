@@ -126,7 +126,7 @@ The context menu gives access to functions specific to the current selection.
 <td>switch location to next source</td>
 <td>⌘ ↓</td>
 </tr>
-</tr>
+<tr>
 <td>Select Previous Glyph</td>
 <td>go to previous glyph of glyph search selection</td>
 <td>⌘ ←</td>
@@ -139,9 +139,8 @@ The context menu gives access to functions specific to the current selection.
 <tr>
 <td>Find glyphs that use "this-glyph-name"</td>
 <td>gives you a dialog with glyphs that use the selected glyph as a component</td>
-<td</td>
+<td></td>
 </tr>
-<tr>
 <tr class='table-group-divider'>
 <td>Replace selected glyph on canvas</td>
 <td>replace the selected glyph with a different glyph on canvas</td>
