@@ -111,6 +111,11 @@ The context menu gives access to functions specific to the current selection.
 <td>decompose selected components</td>
 <td>⇧ ⌘ D</td>
 </tr>
+<tr>
+<td>Un/lock Background Images</td>
+<td>lock or unlock all background images (by default all images are locked)</td>
+<td></td>
+</tr>
 <tr class='table-group-divider'>
 <td>Select Previous Source</td>
 <td>switch location to previous source</td>
@@ -120,6 +125,41 @@ The context menu gives access to functions specific to the current selection.
 <td>Select Next Source</td>
 <td>switch location to next source</td>
 <td>⌘ ↓</td>
+</tr>
+<tr>
+<td>Select Previous Glyph</td>
+<td>go to previous glyph of glyph search selection</td>
+<td>⌘ ←</td>
+</tr>
+<tr>
+<td>Select Next Glyph</td>
+<td>go to next glyph of glyph search selection</td>
+<td>⌘ →</td>
+</tr>
+<tr>
+<td>Find glyphs that use "this-glyph-name"</td>
+<td>gives you a dialog with glyphs that use the selected glyph as a component</td>
+<td></td>
+</tr>
+<tr class='table-group-divider'>
+<td>Replace selected glyph on canvas</td>
+<td>replace the selected glyph with a different glyph on canvas</td>
+<td></td>
+</tr>
+<tr>
+<td>Remove selected glyph on canvas</td>
+<td>remove the selected glyph on canvas</td>
+<td></td>
+</tr>
+<tr>
+<td>Add glyph before selected glyph</td>
+<td>add a new glyph before the selected glyph</td>
+<td></td>
+</tr>
+<tr>
+<td>Add glyph after selected glyph</td>
+<td>add a new glyph after the selected glyph</td>
+<td></td>
 </tr>
 </table>
 
