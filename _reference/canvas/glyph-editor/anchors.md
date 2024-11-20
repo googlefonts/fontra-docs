@@ -55,11 +55,11 @@ order     : 211
 
 #### Show/hide anchor names
 1. go to [Glyph editor appearance](/reference/menu/view/glyph-editor-appearance)
-2. click checkbox **Anchor names**
+2. click **Anchor names**
 
 #### Show/hide anchor coordinates
 1. go to [Glyph editor appearance](/reference/menu/view/glyph-editor-appearance)
-2. click checkbox **Coordinates**
+2. click **Coordinates**
 3. select anchor(s)
 
 Actions

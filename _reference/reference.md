@@ -18,6 +18,7 @@ theoretical knowledge · information-oriented · useful when working
   - [Context menu](canvas/context-menu)
   - [Glyph editor](canvas/glyph-editor)
     - [Anchors](canvas/glyph-editor/anchors)
+    - [Background Image](canvas/glyph-editor/background-image)
 - [Navigation](navigation)
   - [Keyboard shortcuts](navigation/keyboard-shortcuts)
 - [Tools](tools)
@@ -54,9 +55,9 @@ theoretical knowledge · information-oriented · useful when working
 {% comment %}
     - [Font Info](menu/font/font-info)
     - [Axes](menu/font/axes)
+    - [Cross-axes mapping](menu/font/cross-axes-mapping)
     - [Sources](menu/font/sources)
-  {% endcomment %}
-
+{% endcomment %}
 {% comment %}
 - [OT Features](#)
 {% endcomment %}
