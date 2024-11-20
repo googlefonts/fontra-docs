@@ -41,6 +41,10 @@ Actions
 <td>the Units-per-em grid, when zoomed in</td>
 </tr>
 <tr>
+<td>Background image</td>
+<td>show image in the background (if present for a glyph)</td>
+</tr>
+<tr>
 <td>Line metrics</td>
 <td>glyph bounding box, vertical metrics and overshoots</td>
 </tr>
