@@ -60,7 +60,6 @@ order     : 212
 2. click **Background image**
 
 <div class="alert alert-warning" role="alert" markdown='1'>
-<i class="bi bi-exclamation-circle me-1"></i> Fontra's background image feature is mostly compatible with UFO background images, although it doesn't implement UFO's colorization feature yet. Fontra does allow the opacity of the image to be set.<br>
-Caveat: support for background images is limited to the .designspace/.ufo and .fontra backends. It is currently not supported in the rcjk backend.
+<i class="bi bi-exclamation-circle me-1"></i> Caveat: support for background images is limited to the .designspace/.ufo and .fontra backends. It is currently not supported in the rcjk backend.
 {: .mb-0 }
 </div>
