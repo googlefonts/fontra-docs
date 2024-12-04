@@ -51,9 +51,9 @@ theoretical knowledge · information-oriented · useful when working
   - [View](menu/view)
     - [Glyph editor appearance](menu/view/glyph-editor-appearance)
   - [Font](menu/font)
+    - [Font Info](menu/font/font-info)
     - [Status definitions](menu/font/status-colors)
 {% comment %}
-    - [Font Info](menu/font/font-info)
     - [Axes](menu/font/axes)
     - [Cross-axes mapping](menu/font/cross-axes-mapping)
     - [Sources](menu/font/sources)

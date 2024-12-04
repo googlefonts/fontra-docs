@@ -23,7 +23,7 @@ order     : 640
 </tr>
 <tr>
 <td>1</td>
-<td>Font Info</td>
+<td><a href='{{ site.url }}/reference/menu/font/font-info'>Font Info</a></td>
 <td>Settings about various names, vendor information, UPM, ...</td>
 </tr>
 <tr>
