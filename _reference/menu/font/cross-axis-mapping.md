@@ -16,11 +16,8 @@ order     : 644
   </ol>
 </nav>
 
-Add, modify or remove cross-axis mappings (also known as avar2 mappings) within this panel.
+This panel allows you to add, modify or remove cross-axis mappings (also known as avar2 mappings). Use the *New cross-axis mapping* button for creating a new cross-axis mapping. Every mapping has an input and output location. Not all axes need to participate in a mapping – you can handle this with the checkbox next to an axis. It is most likey that your font project does not need such a cross-axis mapping, therefore only specify a mapping if you know what you do.
 {: .lead }
-
-Add a new cross-axis mapping via the **New cross-axis mapping** button. Every mapping has an input and output location. Not all axes need to participate in a mapping – you can handle this with the checkbox next to an axis. It is most likey that your font project does not need this information, therefore only specify cross-axis mappings if you know what you do.
-
 
 <div class="alert alert-primary mt-3" role="alert" markdown='1'>
 #### Pro tips: 
