@@ -19,6 +19,14 @@ The *Pen tool* <img height="20" src="{{ site.url }}/images/icons/pointeradd.svg"
 Click the icon in the toolbar, or use the short cut.
 {: .lead }
 
+<div class="alert alert-primary mt-3" role="alert" markdown='1'>
+#### Pro tips: 
+{: .alert-heading}
+- The subtool <img height="20" src="{{ site.url }}/images/icons/pointeraddquad.svg"> allows you to draw with quadratic curves.
+- Use your own **[custom shortcuts](/reference/menu/fontra/shortcuts)** to quickly switch between the two tools.
+{: .mb-0 }
+</div>
+
 
 <table class='table table-hover'>
 <tr>
