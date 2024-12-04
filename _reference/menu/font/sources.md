@@ -16,11 +16,8 @@ order     : 644
   </ol>
 </nav>
 
-The *Sources panel* lists all sources of a font project. 
+This is a list of all font sources of a project. Access it via *Font* -> *Sources* menu. Add a new font source via the *New source...* button. 
 {: .lead }
-
-Add a new font source via the **New source...** button. 
-
 
 <div class="alert alert-primary mt-3" role="alert" markdown='1'>
 #### Pro tips: 
@@ -41,7 +38,7 @@ General
 </tr>
 <tr>
 <td>Name</td>
-<td>The sources name written out, for example *Condensed Bold*</td>
+<td>The sources name written out, for example <b>Condensed Bold</b></td>
 </tr>
 <tr>
 <td>Italic Angle</td>

@@ -14,7 +14,7 @@ order     : 901
   </ol>
 </nav>
 
-We recommend to spend some time with setting up your designspace, before start a new typeface. Questions you may ask yourself before you start with a new typeface:
+We recommend spending some time with setting up your designspace properly. Questions you may ask yourself before you start with a new typeface:
 {: .lead }
 
 - What axes do your font project will end up with?
