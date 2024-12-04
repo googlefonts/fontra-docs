@@ -42,7 +42,7 @@ Names
 </tr>
 <tr>
 <td>Name</td>
-<td>The axis name spelled out</td>
+<td>The axis name written out</td>
 </tr>
 <tr>
 <td>OT tag</td>
@@ -50,7 +50,7 @@ Names
 </tr>
 <tr>
 <td>UI Name</td>
-<td>The axis name spelled out</td>
+<td>The axis name written out</td>
 </tr>
 </table>
 

@@ -41,7 +41,7 @@ General
 </tr>
 <tr>
 <td>Name</td>
-<td>The sources name spelled out, for example *Condensed Bold*</td>
+<td>The sources name written out, for example *Condensed Bold*</td>
 </tr>
 <tr>
 <td>Italic Angle</td>
