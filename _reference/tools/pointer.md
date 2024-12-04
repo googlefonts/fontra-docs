@@ -18,6 +18,14 @@ order     : 401
 The *pointer* tool <img height="20" src="{{ site.url }}/images/icons/pointer.svg">  allows selecting and editing of contours, segments, points, components, etc. Click on the icon in the toolbar, or use the short cuts below. 
 {: .lead }
 
+<div class="alert alert-primary mt-3" role="alert" markdown='1'>
+#### Pro tips: 
+{: .alert-heading}
+- The subtool <img height="20" src="{{ site.url }}/images/icons/pointerscale.svg"> allows you to scale the curve according the move of the ON curve point you are dragging. **Scaling edit tool** does also affect the OFF curve points when you move an ON curve point.
+- Use your own **[custom shortcuts](/reference/menu/fontra/shortcuts)**  to quickly switch between the two tools.
+{: .mb-0 }
+</div>
+
 <table class='table table-hover'>
 <tr>
 <th width='35%'>short cut</th>
