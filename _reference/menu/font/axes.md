@@ -16,17 +16,14 @@ order     : 642
   </ol>
 </nav>
 
-Within the *Axes panel* you can add or remove font axes.
+Fontra's approach is *variable-first*, therefore it's most likey that you will add at least one font axis. The most common one is probably *Weight*. Add a new axis via the *New axis...* button. 
 {: .lead }
-
-Fontra's approach is *variable-first*, therefore it's most likey that you will add at least one font axis. The most common one is probably *Weight*. Add a new axis via the **New axis...** button. 
-
 
 <div class="alert alert-primary mt-3" role="alert" markdown='1'>
 #### Pro tips: 
 {: .alert-heading}
 - Before you create a new axis we recommend to have a look at **[Designspace](/explanations/designspace/)**, first.
-- Change the order of the axes with *drag and drop*.
+- Change the order of the axes via *drag and drop*.
 {: .mb-0 }
 </div>
 
@@ -64,16 +61,19 @@ Range
 </tr>
 <tr>
 <td>Axis Type</td>
-<td>Either *Continuous* or *Descrete*</td>
+<td>Either <b>Continuous</b> or <b>Descrete</b></td>
 </tr>
 </table>
 
+Mapping graph
+-------
+
+The mapping graph visualizes the axis mapping.
 
 Mapping list
 -------
 
-With the mapping list you can specify a new mapping of the axis values (keyword: avar table).
-Add a new mapping with the plus-button or remove a mapping with the minus-button.
+Specify a new mapping of the axis values (also known as avar-mapping). Add a new mapping with the plus-button or remove a mapping with the minus-button.
 
 
 Axis Values
@@ -88,23 +88,23 @@ Add a new axis value with plus-button or remove it via minus-button (keyword: ST
 </tr>
 <tr>
 <td>Name</td>
-<td>The name of a specifed style (for example *Bold*)</td>
+<td>The name of a specifed style (for example <b>Regular</b>)</td>
 </tr>
 <tr>
 <td>Value</td>
-<td>The value of a style (for example 700 for *Bold*)</td>
+<td>The value of a style (for example 400 for <b>Regular</b>)</td>
 </tr>
 <tr>
 <td>Min</td>
-<td>The minumum value of a style (for example 650 for *Bold*)</td>
+<td>The minumum value of a style (for example 350 for <b>Regular</b>)</td>
 </tr>
 <tr>
 <td>Max</td>
-<td>The maximum value of a style (for example 750 for *Bold*)</td>
+<td>The maximum value of a style (for example 450 for <b>Regular</b>)</td>
 </tr>
 <tr>
 <td>Linked</td>
-<td>The linked value of a style (for example 400 for *Bold*, so it's linked with *Regular*)</td>
+<td>The linked value of a style (for example 700 for <b>Regular</b>, so it's linked with <b>Bold</b>)</td>
 </tr>
 <tr>
 <td>Elidable</td>
