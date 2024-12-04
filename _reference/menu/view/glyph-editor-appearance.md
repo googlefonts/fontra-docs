@@ -3,7 +3,7 @@ title     : Glyph editor appearance
 layout    : default
 permalink : /reference/menu/view/glyph-editor-appearance
 draft     : true
-order     : 644
+order     : 634
 ---
 
 <nav aria-label="breadcrumb">

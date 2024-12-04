@@ -53,10 +53,10 @@ theoretical knowledge · information-oriented · useful when working
   - [Font](menu/font)
     - [Font Info](menu/font/font-info)
     - [Axes](menu/font/axes)
+    - [Sources](menu/font/sources)
     - [Status definitions](menu/font/status-colors)
 {% comment %}
     - [Cross-axes mapping](menu/font/cross-axes-mapping)
-    - [Sources](menu/font/sources)
 {% endcomment %}
 {% comment %}
 - [OT Features](#)

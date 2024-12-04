@@ -46,7 +46,7 @@ Names
 </tr>
 <tr>
 <td>OT tag</td>
-<td>Ther axis tag must be 4 characters long. <a href='https://learn.microsoft.com/en-us/typography/opentype/spec/dvaraxisreg#registered-axis-tags' target="_blank">Registered OT tags</a>. Non-registered tags must be written in all uppercase.</td>
+<td>The axis tag must be 4 characters long. <a href='https://learn.microsoft.com/en-us/typography/opentype/spec/dvaraxisreg#registered-axis-tags' target="_blank">Registered OT tags</a>. Non-registered tags must be written in all uppercase.</td>
 </tr>
 <tr>
 <td>UI Name</td>
