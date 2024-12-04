@@ -28,7 +28,7 @@ order     : 640
 </tr>
 <tr>
 <td>2</td>
-<td>Axes</td>
+<td><a href='{{ site.url }}/reference/menu/font/axes'>Axes</a></td>
 <td>Axes Setting like min max default values, value mappings, ...</td>
 </tr>
 <tr>
