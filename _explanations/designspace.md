@@ -43,7 +43,7 @@ Let's imagine we want to create a typeface with the following axes:
 
 (But keep in mind that you may need also intermediate sources to tweak the design somethere in between.)
 
-#### Number of font instances planed:
+#### Number of font instances planned:
   - Condensed Thin (width: 75, weight: 100)
   - Condensed Light
   - Condensed Regular (width: 75, weight: 400)
