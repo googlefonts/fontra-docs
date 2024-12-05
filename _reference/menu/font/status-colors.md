@@ -3,7 +3,7 @@ title     : Status Colors
 layout    : default
 permalink : /reference/menu/font/status-colors
 draft     : true
-order     : 644
+order     : 645
 ---
 
 <nav aria-label="breadcrumb">

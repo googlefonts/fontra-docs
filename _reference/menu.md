@@ -40,7 +40,7 @@ order     : 600
 <td>Includes: Font info, Axes, Sources, Status definitions</td>
 </tr>
 <tr>
-<td>Help</td>
-<td>For example, link to documentation, github, ...</td>
+<td><a href='../menu/help'>Help</a></td>
+<td>For example, link to documentation, github, last changes, ...</td>
 </tr>
 </table>
