@@ -39,7 +39,7 @@ Names
 </tr>
 <tr>
 <td>Name</td>
-<td>The axis name written out</td>
+<td>The axis <b>Name</b> identifies the axis</td>
 </tr>
 <tr>
 <td>OT tag</td>
@@ -47,9 +47,14 @@ Names
 </tr>
 <tr>
 <td>UI Name</td>
-<td>The axis name written out</td>
+<td><b>UI Name</b> is the Label how it will be visible to the end user</td>
 </tr>
 </table>
+
+Note: **Name** and **UI Name** are often the same.
+{% comment %}
+For more please see: https://github.com/googlefonts/fontra-docs/pull/77#issuecomment-2518494551
+{% endcomment %}
 
 Range
 -------
