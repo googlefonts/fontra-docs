@@ -38,20 +38,21 @@ Names
 <th width='65%'>Description</th>
 </tr>
 <tr>
-<td>Name</td>
-<td>The axis <b>Name</b> identifies the axis</td>
+<td>Name<a href="#marker_1">¹</a></td>
+<td>The axis name identifies the axis</td>
 </tr>
 <tr>
 <td>OT tag</td>
-<td>The axis tag must be 4 characters long. <a href='https://learn.microsoft.com/en-us/typography/opentype/spec/dvaraxisreg#registered-axis-tags' target="_blank">Registered OT tags</a>. Non-registered tags must be written in all uppercase.</td>
+<td>The axis tag <b>must be 4 characters</b> long. <a href='https://learn.microsoft.com/en-us/typography/opentype/spec/dvaraxisreg#registered-axis-tags' target="_blank">Registered OT tags</a>. Non-registered tags must be written in all uppercase.</td>
 </tr>
 <tr>
-<td>UI Name</td>
-<td><b>UI Name</b> is the Label how it will be visible to the end user</td>
+<td>UI Name<a href="#marker_1">¹</a></td>
+<td>UI Name is <b>the Label how it will be visible</b> to the end user</td>
 </tr>
 </table>
 
-Note: **Name** and **UI Name** are often the same.
+
+<span id='marker_1'>¹Note: **Name** and **UI Name** are often the same.</span>
 {% comment %}
 For more please see: https://github.com/googlefonts/fontra-docs/pull/77#issuecomment-2518494551
 {% endcomment %}
@@ -66,7 +67,47 @@ Range
 </tr>
 <tr>
 <td>Axis Type</td>
-<td>Either <b>Continuous</b> or <b>Descrete</b></td>
+<td>Either <b>Continuous<a href="#marker_2">²</a></b> or <b>Discrete<a href="#marker_3">³</a></b></td>
+</tr>
+</table>
+
+<span id='marker_2'>²Range: Axis type *Continuous*</span>
+-------
+
+<table class='table table-hover'>
+<tr>
+<th width='35%'>Entry</th>
+<th width='65%'>Description</th>
+</tr>
+<tr>
+<td>Minimum</td>
+<td>the minimum value of the axis (for example: <b>100 for Thin</b> in a Weight axis)</td>
+</tr>
+<tr>
+<td>Default</td>
+<td>the default value of the axis (for example: <b>400 for Regular</b> in a Weight axis)</td>
+</tr>
+<tr>
+<td>Maximum</td>
+<td>the maximum value of the axis (for example: <b>900 for Black</b> in a Weight axis)</td>
+</tr>
+</table>
+
+<span id='marker_3'>³Range: Axis type *Discrete*</span>
+-------
+
+<table class='table table-hover'>
+<tr>
+<th width='35%'>Entry</th>
+<th width='65%'>Description</th>
+</tr>
+<tr>
+<td>Values</td>
+<td>a list of values for the axis (for example: <b>0 for Upright</b> and <b>1 for Italic</b> for Italic axis)</td>
+</tr>
+<tr>
+<td>Default</td>
+<td>the default value of the axis (for example: <b>0 for Upright</b> in the Italic axis)</td>
 </tr>
 </table>
 
@@ -97,23 +138,23 @@ Add a new axis value with plus-button or remove it via minus-button (keyword: ST
 </tr>
 <tr>
 <td>Value</td>
-<td>The value of a style (for example 400 for <b>Regular</b>)</td>
+<td>The value of a style (for example <b>400</b> for Regular)</td>
 </tr>
 <tr>
 <td>Min</td>
-<td>The minumum value of a style (for example 350 for <b>Regular</b>)</td>
+<td>The minumum value of a style (for example <b>350</b> for Regular)</td>
 </tr>
 <tr>
 <td>Max</td>
-<td>The maximum value of a style (for example 450 for <b>Regular</b>)</td>
+<td>The maximum value of a style (for example <b>450</b> for Regular)</td>
 </tr>
 <tr>
 <td>Linked</td>
-<td>The linked value of a style (for example 700 for <b>Regular</b>, so it's linked with <b>Bold</b>)</td>
+<td>The linked value of a style (for example <b>700</b> for Regular, so it's <b>linked with Bold</b>)</td>
 </tr>
 <tr>
 <td>Elidable</td>
-<td>A checkbox which shows that the name should not be displayed (*Upright* might be an elidable name in the *Italic* axis)</td>
+<td>A checkbox which shows that the name should not be displayed (<b>Upright might be an elidable</b> name in the Italic axis)</td>
 </tr>
 </table>
 
