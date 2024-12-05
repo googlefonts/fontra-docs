@@ -22,10 +22,10 @@ We recommend spending some time with setting up your designspace properly. Quest
   - or even a [non-registered axes (all uppercase tags)](https://fonts.google.com/variablefonts#axis-definitions?)
 - What ranges will these axes have?
   - maybe *Weight* from 100 to 900 (Thin to Black)
-  - maybe *Width* from 75 to 150 (Consended to Wide)
+  - maybe *Width* from 75 to 150 (Condensed to Wide)
 - Do you plan to have *Italics*?
-  - Are the *Italics* real *Italics*
-  - or are they interpolatable with the uprights, like Slanted?
+  - Are the *Italics* real *Italics* (maybe use [Axis Type Discrete]({{ site.url }}/reference/menu/font/axes#range-axis-type-discrete))
+  - or are they interpolatable with the uprights, like Slanted? (maybe use [Axis Type Continuous]({{ site.url }}/reference/menu/font/axes#range-axis-type-continuous))
 - Which font instances are you planing to have?
 - Which font sources are required for this designspace?
 
