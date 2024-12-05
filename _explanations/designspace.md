@@ -29,6 +29,7 @@ We recommend spending some time with setting up your designspace properly. Quest
 - Which font instances are you planing to have?
 - Which font sources are required for this designspace?
 
+![]({{ site.url }}/images/designspace-sketch.png){: .img-fluid }
 
 ### Example:
 Let's imagine we want to create a typeface with the following axes:
