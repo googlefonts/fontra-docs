@@ -20,7 +20,7 @@ This panel allows you to add, modify or remove cross-axis mappings (also known a
 {: .lead }
 
 <div class="alert alert-primary mt-3" role="alert" markdown='1'>
-#### Pro tips: 
+#### Pro tip: 
 {: .alert-heading}
 - Alt-key + click the arrow: show/hide all card information.
 {: .mb-0 }

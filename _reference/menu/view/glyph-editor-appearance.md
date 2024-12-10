@@ -20,7 +20,7 @@ order     : 634
 {: .lead }
 
 <div class="alert alert-primary mt-3" role="alert" markdown='1'>
-#### Pro tips
+#### Pro tip
 {: .alert-heading}
 - use your own **[custom shortcuts](/reference/menu/fontra/shortcuts)** for the most used items
 {: .mb-0 }
