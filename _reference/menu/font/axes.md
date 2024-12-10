@@ -119,8 +119,25 @@ The mapping graph visualizes the axis mapping.
 Mapping list
 -------
 
-Specify a new mapping of the axis values (also known as avar-mapping). Add a new mapping with the plus-button or remove a mapping with the minus-button.
+It's about remapping values -> specify a new mapping of the axis values (also known as avar-mapping or non-linear interpolation). Add a new mapping with the plus-button or remove a mapping with the minus-button. 
 
+**Example** Let's say, we have a set-up of *Weight axis from 0 to 1000* with these values:
+- Light: 0
+- Regular: 250
+- Medium: 400
+- Bold: 750
+- ExtraBold: 1000
+
+In this case we need a remapping to:
+- Light: 200
+- Regular: 400
+- Medium: 500
+- Bold: 700
+- ExtraBold: 800
+
+Within the axes panel, this non-linear interpolation would look like this:
+
+![]({{ site.url }}/images/font-axes-mapping-example.png){: .img-fluid }
 
 Axis Values
 -------
