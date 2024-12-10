@@ -33,8 +33,8 @@ Actions
 
 <table class='table table-hover'>
 <tr>
-<th width='35%'>show/hide</th>
-<th width='65%'>description</th>
+<th width='35%'>Show/Hide</th>
+<th width='65%'>Description</th>
 </tr>
 <tr>
 <td>Units-per-em grid</td>

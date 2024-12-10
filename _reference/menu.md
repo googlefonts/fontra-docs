@@ -16,8 +16,8 @@ order     : 600
 
 <table class='table table-hover'>
 <tr>
-<th width='13%'>item</th>
-<th width='82%'>description</th>
+<th width='13%'>Item</th>
+<th width='82%'>Description</th>
 </tr>
 <tr>
 <td><a href='../menu/fontra'>Fontra</a></td>
