@@ -40,7 +40,7 @@ This panel allows you to add, modify or remove cross-axis mappings (also known a
 </tr>
 <tr>
 <td>Description</td>
-<td>„optional, string. the description of this mappings group“ (Reference: <a href='https://github.com/fonttools/fonttools/blob/main/Doc/source/designspaceLib/xml.rst#mappings-element' target="_blank">mappings-element</a>)</td>
+<td>“optional, string. the description of this mappings group” (Reference: <a href='https://github.com/fonttools/fonttools/blob/main/Doc/source/designspaceLib/xml.rst#mappings-element' target="_blank">mappings-element</a>)</td>
 </tr>
 </table>
 

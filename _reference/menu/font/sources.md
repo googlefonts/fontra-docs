@@ -42,7 +42,7 @@ General
 </tr>
 <tr>
 <td>Italic Angle</td>
-<td>„Italic angle in counter-clockwise degrees from the vertical. Zero for upright text, negative for text that leans to the right (forward).“(Reference <a href='https://learn.microsoft.com/en-us/typography/opentype/spec/post#header' target="_blank">OT spec head table</a>)</td>
+<td>“Italic angle in counter-clockwise degrees from the vertical. Zero for upright text, negative for text that leans to the right (forward).”(Reference <a href='https://learn.microsoft.com/en-us/typography/opentype/spec/post#header' target="_blank">OT spec head table</a>)</td>
 </tr>
 </table>
 
