@@ -21,10 +21,10 @@ Navigation tools allow you to zoom in/out and move around in the canvas.
 
 <table class="table table-hover mb-4">
 <tr>
-<th width='10%'>icon</th>
-<th width='20%'>tool</th>
-<th width='60%'>description</th>
-<th width='10%'>short keys</th>
+<th width='10%'>Icon</th>
+<th width='20%'>Tool</th>
+<th width='60%'>Description</th>
+<th width='10%'>Short keys</th>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/plus.svg"></td>
@@ -62,8 +62,8 @@ Navigation tools allow you to zoom in/out and move around in the canvas.
 
 <table class="table table-hover mb-4">
 <tr>
-<th width='50%'>gesture</th>
-<th width='50%'>action</th>
+<th width='50%'>Gesture</th>
+<th width='50%'>Action</th>
 </tr>
 <tr>
 <td>pinch with two fingers</td>

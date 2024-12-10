@@ -22,9 +22,9 @@ The context menu gives access to functions specific to the current selection.
 
 <table class='table table-hover'>
 <tr>
-<th width='35%'>command</th>
-<th width='55%'>description</th>
-<th width='10%'>keys</th>
+<th width='35%'>Command</th>
+<th width='55%'>Description</th>
+<th width='10%'>Keys</th>
 </tr>
 <tr class='table-group-divider'>
 <td>Undo</td>

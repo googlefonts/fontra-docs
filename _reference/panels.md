@@ -21,10 +21,10 @@ Panels provide various tools to control Fontra's workspace and the font's design
 
 <table class="table table-hover mb-4">
 <tr>
-<th>icon</th>
-<th>panel</th>
-<th>description</th>
-<th>short key</th>
+<th>Icon</th>
+<th>Panel</th>
+<th>Description</th>
+<th>Short key</th>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/texttool.svg"></td>

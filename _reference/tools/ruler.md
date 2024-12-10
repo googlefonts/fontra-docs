@@ -25,8 +25,8 @@ Actions
 
 <table class='table table-hover'>
 <tr>
-<th width='35%'>short cut</th>
-<th width='65%'>description</th>
+<th width='35%'>Short cut</th>
+<th width='65%'>Description</th>
 </tr>
 <tr>
 <td>4</td>

@@ -20,7 +20,7 @@ This is a list of all font sources of a project. Access it via *Font* -> *Source
 {: .lead }
 
 <div class="alert alert-primary mt-3" role="alert" markdown='1'>
-#### Pro tips: 
+#### Pro tip: 
 {: .alert-heading}
 - Alt-key + click the arrow: show/hide all sources information.
 {: .mb-0 }
@@ -42,7 +42,7 @@ General
 </tr>
 <tr>
 <td>Italic Angle</td>
-<td>„Italic angle in counter-clockwise degrees from the vertical. Zero for upright text, negative for text that leans to the right (forward).“(Reference <a href='https://learn.microsoft.com/en-us/typography/opentype/spec/post#header' target="_blank">OT spec head table</a>)</td>
+<td>“Italic angle in counter-clockwise degrees from the vertical. Zero for upright text, negative for text that leans to the right (forward).”(Reference <a href='https://learn.microsoft.com/en-us/typography/opentype/spec/post#header' target="_blank">OT spec head table</a>)</td>
 </tr>
 </table>
 

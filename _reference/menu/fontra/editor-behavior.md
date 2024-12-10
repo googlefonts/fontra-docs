@@ -21,8 +21,8 @@ Actions
 
 <table class='table table-hover'>
 <tr>
-<th width='35%'>action</th>
-<th width='65%'>description</th>
+<th width='35%'>Action</th>
+<th width='65%'>Description</th>
 </tr>
 <tr>
 <td>Rect-select live modifier keys</td>

@@ -17,7 +17,7 @@ order     : 605
 </nav>
 
 <div class="alert alert-primary mt-3" role="alert" markdown='1'>
-#### Pro tips: 
+#### Pro tip: 
 {: .alert-heading}
 - for example use 'glif' to copy/past from/to RoboFont
 {: .mb-0 }

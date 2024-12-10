@@ -18,8 +18,8 @@ order     : 640
 <table class='table table-hover'>
 <tr>
 <th width='5%'>#</th>
-<th width='20%'>item</th>
-<th width='75%'>description</th>
+<th width='20%'>Item</th>
+<th width='75%'>Description</th>
 </tr>
 <tr>
 <td>1</td>

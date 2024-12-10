@@ -30,8 +30,8 @@ Click the icon in the toolbar, or use the short cut.
 
 <table class='table table-hover'>
 <tr>
-<th width='35%'>short cut</th>
-<th width='65%'>description</th>
+<th width='35%'>Short cut</th>
+<th width='65%'>Description</th>
 </tr>
 <tr>
 <td>2</td>
@@ -44,8 +44,8 @@ Actions
 
 <table class='table table-hover'>
 <tr>
-<th width='35%'>action</th>
-<th width='65%'>description</th>
+<th width='35%'>Action</th>
+<th width='65%'>Description</th>
 </tr>
 <tr>
 <td>click</td>

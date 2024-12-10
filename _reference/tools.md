@@ -21,10 +21,10 @@ Interactive tools allow you to edit and measure glyphs with live visual feedback
 
 <table class="table table-hover mb-4">
 <tr>
-<th>icon</th>
+<th>Icon</th>
 <th>tool</th>
-<th>description</th>
-<th>key</th>
+<th>Description</th>
+<th>Key</th>
 </tr>
 <tr>
 <td><img height="30" src="{{ site.url }}/images/icons/pointer.svg"></td>
