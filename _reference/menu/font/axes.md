@@ -142,7 +142,7 @@ Within the axes panel, this non-linear interpolation would look like this:
 Axis Values
 -------
 
-Add a new axis value with plus-button or remove it via minus-button (keyword: STAT table).
+Add a new axis value with plus-button or remove it via minus-button (keyword: STAT table, [Example by Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/stat#example-4-a-weightwidth-variable-font)).
 
 <table class='table table-hover'>
 <tr>
@@ -180,3 +180,6 @@ Add a new axis value with plus-button or remove it via minus-button (keyword: ST
 ### Links
 
 - [Google Fonts: Axis (in variable fonts)](https://fonts.google.com/knowledge/glossary/axis_in_variable_fonts)
+- [OT Spec: avar table](https://learn.microsoft.com/en-us/typography/opentype/spec/avar)
+- [OT Spec: STAT table](https://learn.microsoft.com/en-us/typography/opentype/spec/stat)
+
