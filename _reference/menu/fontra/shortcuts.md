@@ -3,7 +3,7 @@ title     : Shortcuts
 layout    : default
 permalink : /reference/menu/fontra/shortcuts
 draft     : true
-order     : 602
+order     : 4911
 ---
 
 <nav aria-label="breadcrumb">

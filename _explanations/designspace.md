@@ -3,7 +3,7 @@ title     : Designspace
 layout    : default
 permalink : /explanations/designspace/
 draft     : true
-order     : 901
+order     : 5001
 ---
 
 <nav aria-label="breadcrumb">

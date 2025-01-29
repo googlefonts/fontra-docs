@@ -3,7 +3,7 @@ title     : Opening a UFO or designspace file in Fontra
 layout    : default
 permalink : /how-tos/opening-ufo-designspace/
 draft     : true
-order     : 201
+order     : 2201
 ---
 
 <nav aria-label="breadcrumb">

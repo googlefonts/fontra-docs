@@ -3,7 +3,7 @@ title     : Editor Behavior
 layout    : default
 permalink : /reference/menu/fontra/editor-behavior
 draft     : true
-order     : 606
+order     : 4915
 ---
 
 <nav aria-label="breadcrumb">

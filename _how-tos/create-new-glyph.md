@@ -3,7 +3,7 @@ title     : Create new glyph
 layout    : default
 permalink : /how-tos/create-new-glyph/
 draft     : true
-order     : 202
+order     : 2202
 ---
 
 <nav aria-label="breadcrumb">

@@ -3,7 +3,7 @@ title     : Designing with variable components
 layout    : default
 permalink : /how-tos/draw/designing-with-variable-components
 draft     : true
-order     : 302
+order     : 3302
 ---
 
 <nav aria-label="breadcrumb">

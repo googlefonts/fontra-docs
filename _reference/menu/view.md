@@ -3,7 +3,7 @@ title     : View
 layout    : default
 permalink : /reference/menu/view
 draft     : true
-order     : 630
+order     : 4940
 ---
 
 <nav aria-label="breadcrumb">
@@ -27,9 +27,5 @@ order     : 630
 <tr>
 <td>Selection</td>
 <td>Selection previous/next source + Find glyph that use "selected glyph"</td>
-</tr>
-<tr>
-<td><a href='{{ site.url }}/reference/menu/view/glyph-editor-appearance'>Glyph editor appearance</a></td>
-<td>A submenu with various settings to show/hide elements in the glyph editor</td>
 </tr>
 </table>

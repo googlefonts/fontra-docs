@@ -3,7 +3,7 @@ title     : Plugin Manager
 layout    : default
 permalink : /reference/menu/fontra/plugin-manager
 draft     : true
-order     : 607
+order     : 4916
 ---
 
 <nav aria-label="breadcrumb">

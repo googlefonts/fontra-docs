@@ -3,7 +3,7 @@ title     : Installing Fontra Pak on Windows
 layout    : default
 permalink : /how-tos/installation/installing-fontra-pak-windows/
 draft     : true
-order     : 103
+order     : 1103
 ---
 
 <nav aria-label="breadcrumb">

@@ -3,7 +3,7 @@ title     : Theme settings
 layout    : default
 permalink : /reference/menu/fontra/theme-settings
 draft     : true
-order     : 603
+order     : 4912
 ---
 
 <nav aria-label="breadcrumb">

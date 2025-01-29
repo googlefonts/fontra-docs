@@ -3,7 +3,7 @@ title     : Clipboard
 layout    : default
 permalink : /reference/menu/fontra/clipboard
 draft     : true
-order     : 605
+order     : 4914
 ---
 
 <nav aria-label="breadcrumb">
