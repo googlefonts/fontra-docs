@@ -32,7 +32,7 @@ Dropdown
 : Choose a **font source** to navigate to a location in the design space
 
 Slider(s)
-: use the slider to navigate continuously through the location
+: Use the sliders to navigate continuously within the design space
 
 
 - - -
