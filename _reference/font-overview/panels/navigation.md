@@ -83,7 +83,7 @@ This font's glyphs
 
 ##### My glyph sets
 
-User specific glyph sets (activate one or many via checkboxes).
+User-specific glyph sets (activate one or many via checkboxes). These are not stored in the font, but locally for the user.
 
 <img height="30" src='{{ site.url }}/images/icons/plus.svg' />*
 : add a new glyph set to your Fontra environment 
