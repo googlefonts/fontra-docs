@@ -45,7 +45,7 @@ Script
 : Group by **script** (a script is not a language: Cyrillic ≠ Bulgarian) 
 
 Block
-: sort by **unicode blocks**
+: Group by **unicode block**
 
 Case
 : sort by **uppercase** (followed by *lowercase*) glyphs
