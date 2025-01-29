@@ -57,7 +57,7 @@ Sub-category
 : Group by **sub-category**, for example: Superscript, Fraction, Quote, etc.
 
 Glyph name extension
-: sort by **extension**, for example **.case**, **.numerator**, etc.
+: Group by **glyph name extension**, for example **.case**, **.numerator**, etc.
 
 
 <div class="alert alert-primary mt-3" role="alert" markdown='1'>
