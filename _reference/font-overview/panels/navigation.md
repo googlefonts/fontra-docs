@@ -42,7 +42,7 @@ Slider(s)
 Organize the glyphs of the font by one or many of the following categories.
 
 Script
-: sort by **script** (a script is not a language: Cyrillic ≠ Bulgarien) 
+: Group by **script** (a script is not a language: Cyrillic ≠ Bulgarian) 
 
 Block
 : sort by **unicode blocks**
