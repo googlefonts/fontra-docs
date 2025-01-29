@@ -29,10 +29,10 @@ Search for glyphs containing the entered text, for example *grave* shows *Agrave
 ##### Location
 
 Dropdown
-: switch between the specified **font sources**. 
+: switch between the specified **font sources**
 
 Slider(s)
-: use the slider to navigate continuously through the location.
+: use the slider to navigate continuously through the location
 
 
 - - -
@@ -74,10 +74,10 @@ Glyph name extension
 Project specific glyph sets (activate one or many via checkboxes).
 
 This font's glyphs
-: this shows **all glyphs** of the font project
+: shows **all glyphs** of the font project
 
-<img height="30" src='{{ site.url }}/images/icons/plus.svg' />
-: add a new glyph set to this specific font project. 
+<img height="30" src='{{ site.url }}/images/icons/plus.svg' />*
+: add a new glyph set to this specific font project
 
 - - -
 
@@ -85,8 +85,13 @@ This font's glyphs
 
 Fontra specific glyph sets (activate one or many via checkboxes).
 
-<img height="30" src='{{ site.url }}/images/icons/plus.svg' />
-: add a new glyph set to your Fontra environment. 
+<img height="30" src='{{ site.url }}/images/icons/plus.svg' />*
+: add a new glyph set to your Fontra environment 
 
 <img src='{{ site.url }}/images/icons/pencil.svg' />
 : click on the icon to show the **context menu**
+
+
+- - -
+
+\* a glyph set must be publicly available (for example via github)
