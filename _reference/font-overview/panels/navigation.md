@@ -29,7 +29,7 @@ Search for glyphs containing the entered text, for example *grave* shows *Agrave
 ##### Location
 
 Dropdown
-: switch between the specified **font sources**
+: Choose a **font source** to navigate to a location in the design space
 
 Slider(s)
 : use the slider to navigate continuously through the location
