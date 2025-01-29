@@ -3,7 +3,7 @@ title     : Reporting bugs, feature ideas, etc.
 layout    : default
 permalink : /how-tos/reporting/
 draft     : true
-order     : 901
+order     : 5001
 ---
 
 <nav aria-label="breadcrumb">

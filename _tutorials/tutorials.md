@@ -3,7 +3,7 @@ title     : Tutorials
 layout    : default
 permalink : /tutorials/
 draft     : true
-order     : 1
+order     : 1000
 ---
 
 Getting started

@@ -3,7 +3,7 @@ title     : Installing Fontra Pak on Mac
 layout    : default
 permalink : /how-tos/installation/installing-fontra-pak-mac/
 draft     : true
-order     : 102
+order     : 1102
 ---
 
 <nav aria-label="breadcrumb">

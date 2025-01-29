@@ -3,7 +3,7 @@ title     : Building Fontra from source
 layout    : default
 permalink : /how-tos/installation/building-fontra-from-source/
 draft     : true
-order     : 110
+order     : 1110
 ---
 
 <nav aria-label="breadcrumb">

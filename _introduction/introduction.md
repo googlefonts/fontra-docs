@@ -3,7 +3,7 @@ title     : Introduction
 layout    : default
 permalink : /introduction/
 draft     : true
-order     : 0
+order     : 0000
 ---
 
 Fontra is an open-source, browser-based, cross-platform, variable-first font editor.
