@@ -51,7 +51,7 @@ Case
 : Group by **case**, organizing in upper-, lower- and minor-case
 
 Category
-: sort by **category**, for example: Letter, Number, Punctuation, etc.
+: Group by **category**, for example: Letter, Number, Punctuation, etc.
 
 Sub-category
 : sort by **sub-category**, for example: Superscript, Fraction, Quote, etc.
