@@ -74,10 +74,10 @@ Glyph name extension
 Project specific glyph sets (activate one or many via checkboxes).
 
 This font's glyphs
-: shows **all glyphs** of the font project
+: Shows **all glyphs** of the font project
 
 <img height="30" src='{{ site.url }}/images/icons/plus.svg' />*
-: add a new glyph set to this specific font project
+: Add a new glyph set to this specific font project
 
 - - -
 
@@ -86,12 +86,12 @@ This font's glyphs
 User-specific glyph sets (activate one or many via checkboxes). These are not stored in the font, but locally for the user.
 
 <img height="30" src='{{ site.url }}/images/icons/plus.svg' />*
-: add a new glyph set to your Fontra environment 
+: Add a new glyph set to your Fontra environment 
 
 <img src='{{ site.url }}/images/icons/pencil.svg' />
-: click on the icon to show the **context menu**
+: Click on the icon to show the **context menu**
 
 
 - - -
 
-\* a glyph set must be publicly available (for example via github)
+\* A glyph set must be publicly available (for example via github)
