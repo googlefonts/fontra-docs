@@ -39,7 +39,7 @@ Slider(s)
 
 ##### Group by
 
-Sort the glyphs of the font by one or many of the following categories.
+Organize the glyphs of the font by one or many of the following categories.
 
 Script
 : sort by **script** (a script is not a language: Cyrillic ≠ Bulgarien) 
