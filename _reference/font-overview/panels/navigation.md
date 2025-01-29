@@ -54,7 +54,7 @@ Category
 : Group by **category**, for example: Letter, Number, Punctuation, etc.
 
 Sub-category
-: sort by **sub-category**, for example: Superscript, Fraction, Quote, etc.
+: Group by **sub-category**, for example: Superscript, Fraction, Quote, etc.
 
 Glyph name extension
 : sort by **extension**, for example **.case**, **.numerator**, etc.
