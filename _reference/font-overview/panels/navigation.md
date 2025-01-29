@@ -48,7 +48,7 @@ Block
 : Group by **unicode block**
 
 Case
-: sort by **uppercase** (followed by *lowercase*) glyphs
+: Group by **case**, organizing in upper-, lower- and minor-case
 
 Category
 : sort by **category**, for example: Letter, Number, Punctuation, etc.
