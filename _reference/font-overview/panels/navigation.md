@@ -2,7 +2,6 @@
 title     : Navigation Font Overview
 layout    : default
 permalink : /reference/font-overview/panels/navigation
-draft     : true
 order     : 4111
 ---
 
@@ -10,6 +9,7 @@ order     : 4111
   <ol class="breadcrumb small">
     <li class="breadcrumb-item"><a href="{{ site.url }}">Index</a></li>
     <li class="breadcrumb-item"><a href="{{ site.url }}/reference">Reference</a></li>
+    <li class="breadcrumb-item"><a href="{{ site.url }}/reference/font-overview/panels">Panels</a></li>
     <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
   </ol>
 </nav>

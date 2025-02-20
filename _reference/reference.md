@@ -13,8 +13,9 @@ theoretical knowledge · information-oriented · useful when working
 ### Font Overview
 
 - [Workspace](font-overview/workspace) {% comment %} 4100 {% endcomment %}
-- [Panels](font-overview/panels/navigation)
+- [Panels](font-overview/panels) {% comment %} 4110 {% endcomment %}
   - [Navigation](font-overview/panels/navigation) {% comment %} 4111 {% endcomment %}
+    - [Glyph Sets](font-overview/panels/navigation/glyph-sets) {% comment %} 4112 {% endcomment %}
 </div>
 
 <div class='col-md' markdown='1'>
