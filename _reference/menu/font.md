@@ -17,32 +17,30 @@ order     : 4950
 
 <table class='table table-hover'>
 <tr>
-<th width='5%'>#</th>
 <th width='20%'>Item</th>
 <th width='75%'>Description</th>
 </tr>
 <tr>
-<td>1</td>
 <td><a href='{{ site.url }}/reference/menu/font/font-info'>Font Info</a></td>
 <td>Settings about various names, vendor information, UPM, ...</td>
 </tr>
 <tr>
-<td>2</td>
 <td><a href='{{ site.url }}/reference/menu/font/axes'>Axes</a></td>
 <td>Axes settings like min max default values, value mappings, ...</td>
 </tr>
 <tr>
-<td>3</td>
 <td><a href='{{ site.url }}/reference/menu/font/cross-axis-mapping'>Cross-axis mapping</a></td>
 <td>Cross-axis mapping settings with inout and output locations</td>
 </tr>
 <tr>
-<td>4</td>
 <td><a href='{{ site.url }}/reference/menu/font/sources'>Sources</a></td>
 <td>Font source settings like name, location, vertical metrics, ...</td>
 </tr>
 <tr>
-<td>5</td>
+<td><a href='{{ site.url }}/reference/menu/font/features'>Features</a></td>
+<td>OpenType feature code editor</td>
+</tr>
+<tr>
 <td><a href='{{ site.url }}/reference/menu/font/status-colors'>Status Definitions</a></td>
 <td>Status definition settings like color, name, isDefault.</td>
 </tr>
