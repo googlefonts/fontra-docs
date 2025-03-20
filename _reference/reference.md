@@ -71,6 +71,7 @@ theoretical knowledge · information-oriented · useful when working
     - [Axes](menu/font/axes) {% comment %} 4952 {% endcomment %}
     - [Cross-axis mapping](menu/font/cross-axis-mapping) {% comment %} 4953 {% endcomment %}
     - [Sources](menu/font/sources) {% comment %} 4954 {% endcomment %}
-    - [Status definitions](menu/font/status-colors) {% comment %} 4955 {% endcomment %}
+    - [Features](menu/font/features) {% comment %} 4955 {% endcomment %}
+    - [Status definitions](menu/font/status-colors) {% comment %} 4956 {% endcomment %}
 - [Help](menu/help) {% comment %} 4960 {% endcomment %}
 </div>
