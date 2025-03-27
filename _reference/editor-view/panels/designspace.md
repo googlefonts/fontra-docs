@@ -1,9 +1,9 @@
 ---
-title     : Designspace
-layout    : default
-permalink : /reference/editor-view/panels/designspace
-draft     : true
-order     : 4243
+title: Designspace
+layout: default
+permalink: /reference/editor-view/panels/designspace
+draft: true
+order: 4243
 ---
 
 <nav aria-label="breadcrumb">
@@ -17,47 +17,87 @@ order     : 4243
 
 <div class='row'>
 <div class='col-md' markdown='1'>
-![]({{ site.url }}/images/panel-designspace.png){: .img-fluid .py-2 }
+![]({{ site.url }}/images/panel-designspace-20240327-dark.png){: .img-fluid .py-2 }
 </div>
 <div class='col-md' markdown='1'>
-##### variation axes
+##### Font axes
 
-interactive controls for all variation axes in the designspace
+Interactive controls for all variation axes in the designspace
 
 sliders
-: move the knobs to navigate around the font's designspace 
+: Move the knobs to navigate around the font's designspace
 
 labels
-: slider values indicate the current location at that axis
+: Slider values indicate the current location at that axis
 
-<img src='{{ site.url }}/images/icons/refresh.svg' /> restore defaults
-: click to restore all axes to their default location
+<img src='{{ site.url }}/images/icons/menu-2.svg' /> View options
+: Click to set various different view options like "Apply cross-axis mapping"
 
-<img src='{{ site.url }}/images/icons/tool.svg' /> edit local axes
-: open a pop-up window to adjust local axes (?)
+<img src='{{ site.url }}/images/icons/tool.svg' /> Edit font axes
+: Opens the font axes page
 
-- - -
+<img src='{{ site.url }}/images/icons/refresh.svg' /> Reset font axes
+: Click to restore all axes to their default location
 
-##### sources
+---
 
-a list of all sources available for the current glyph
+##### Glyph axes
+
+Interactive controls for all glyph level axes
+
+sliders
+: Move the knobs to navigate around the glyph level designspace
+
+<img src='{{ site.url }}/images/icons/tool.svg' /> Edit glyph axes
+: Open a pop-up window to adjust glyph axes
+
+<img src='{{ site.url }}/images/icons/refresh.svg' /> Reset glyph axes
+: Click to restore all axes to their default location
+
+---
+
+##### Glyph sources
+
+A list of all sources available for the current glyph
+
+Bold
+: The glyph source highlighted in bold is the default source
+
+Grey
+: A glyph source in grey is a virtual source. It does not exist, yet. It's specifed as a global font source, but the glyph does not have a source specified for that paricicual source. You don't have to create a gylph source for each font source if the design allows it. But if you want to edit it: double-click the name will create a source at this location.
 
 <img src='{{ site.url }}/images/icons/circle-dot.svg' /> on
-: uncheck to remove source from the interpolation for this glyph
+: Uncheck to remove source from the interpolation for this glyph
 
 <img src='{{ site.url }}/images/icons/bug.svg' /> bug
-: indicates that this source is incompatible for interpolation
+: Indicates that this source is incompatible for interpolation
 
 <img src='{{ site.url }}/images/icons/eye.svg' /> bg (background)
-: show/hide this source in the background while editing
+: Show/hide this source in the background while editing
+
+<img src='{{ site.url }}/images/icons/pencil.svg' /> edit
+: Click the pencil icon in the table header for multi-source editing
 
 <img src='{{ site.url }}/images/icons/antenna-bars-4.svg' /> bars
-: displays the influence of this source in the current location
+: Displays the influence of this source in the current location
 
 <img src='{{ site.url }}/images/icons/plus.svg' height='20' /> plus
-: add a new source at a new location for the current glyph
+: Add a new source at a new location for the current glyph
 
 <img src='{{ site.url }}/images/icons/minus.svg' height='20' /> minus
-: delete current glyph in the selected source 
+: Delete current glyph in the selected source
+
+---
+
+##### Source layers
+
+All layers of a selected glyph source
+
+foreground
+: This is the layer which will be taking for the glyph interpolation
+
+background or any other layer name
+: All other layers can be seen as background layers. They don't participate into the actual glyph, so they do not have to be compatible and do not break compatibility. These layers are helpful during the design process. Keep an existing outline, make a copy, modify it and compare it -> then decide which outline you want to foreground as the final outline.
+
 </div>
 </div>
