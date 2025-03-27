@@ -1,9 +1,9 @@
 ---
-title     : Axes
-layout    : default
-permalink : /reference/menu/font/axes
-draft     : true
-order     : 4952
+title: Axes
+layout: default
+permalink: /reference/menu/font/axes
+draft: true
+order: 4952
 ---
 
 <nav aria-label="breadcrumb">
@@ -16,7 +16,7 @@ order     : 4952
   </ol>
 </nav>
 
-Fontra's approach is *variable-first*, therefore it's most likey that you will add at least one font axis. The most common one is probably *Weight*. Add a new axis via the *New axis...* button. 
+Fontra's approach is _variable-first_, therefore it's most likey that you will add at least one font axis. The most common one is probably _Weight_. Add a new axis via the _New axis..._ button.
 {: .lead }
 
 <div class="alert alert-primary mt-3" role="alert" markdown='1'>
@@ -24,13 +24,13 @@ Fontra's approach is *variable-first*, therefore it's most likey that you will a
 {: .alert-heading}
 - Before you create a new axis we recommend to have a look at **[Designspace](/explanations/designspace/)**, first.
 - Change the order of the axes via *drag and drop*.
+- create **[axis values](#axis-values)** for each style
 {: .mb-0 }
 </div>
 
 ![]({{ site.url }}/images/font-axes.png){: .img-fluid }
 
-Names
--------
+## Names
 
 <table class='table table-hover'>
 <tr>
@@ -51,14 +51,12 @@ Names
 </tr>
 </table>
 
-
 <span id='marker_1'>¹Note: **Name** and **UI Name** are often the same.</span>
 {% comment %}
 For more please see: https://github.com/googlefonts/fontra-docs/pull/77#issuecomment-2518494551
 {% endcomment %}
 
-Range
--------
+## Range
 
 <table class='table table-hover'>
 <tr>
@@ -71,8 +69,7 @@ Range
 </tr>
 </table>
 
-<span id='marker_2'>²Range: Axis type *Continuous*</span>
--------
+## <span id='marker_2'>²Range: Axis type _Continuous_</span>
 
 <table class='table table-hover'>
 <tr>
@@ -93,8 +90,7 @@ Range
 </tr>
 </table>
 
-<span id='marker_3'>³Range: Axis type *Discrete*</span>
--------
+## <span id='marker_3'>³Range: Axis type _Discrete_</span>
 
 <table class='table table-hover'>
 <tr>
@@ -111,17 +107,16 @@ Range
 </tr>
 </table>
 
-Mapping graph
--------
+## Mapping graph
 
 The mapping graph visualizes the axis mapping.
 
-Mapping list
--------
+## Mapping list
 
-It's about remapping values -> specify a new mapping of the axis values (also known as avar-mapping or non-linear interpolation). Add a new mapping with the plus-button or remove a mapping with the minus-button. 
+It's about remapping values -> specify a new mapping of the axis values (also known as avar-mapping or non-linear interpolation). Add a new mapping with the plus-button or remove a mapping with the minus-button.
 
-**Example** Let's say, we have a set-up of *Weight axis from 0 to 1000* with these values:
+**Example** Let's say, we have a set-up of _Weight axis from 0 to 1000_ with these values:
+
 - Light: 0
 - Regular: 250
 - Medium: 400
@@ -129,6 +124,7 @@ It's about remapping values -> specify a new mapping of the axis values (also kn
 - ExtraBold: 1000
 
 In this case we need a remapping to:
+
 - Light: 200
 - Regular: 400
 - Medium: 500
@@ -139,10 +135,10 @@ Within the axes panel, this non-linear interpolation would look like this:
 
 ![]({{ site.url }}/images/font-axes-mapping-example.png){: .img-fluid }
 
-Axis Values
--------
+## Axis Values
 
-Add a new axis value with plus-button or remove it via minus-button (keyword: STAT table, [Example by Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/stat#example-4-a-weightwidth-variable-font)).
+Add a new axis value with plus-button or remove it via minus-button (keyword: STAT table, [Example by Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/stat#example-4-a-weightwidth-variable-font)).<br>
+**NOTE** Fontra currently has no direct way to define fvar instances. However, Fontra's own export will create fvar instances based on axis value labels. So if you have a single weight axis, and add some labels (for example Thin/100, Regular/400, Medium/600 Bold/700), then the export will make fvar instances on those locations. If you have multiple axes, it will make all combinations. For example, if you define Regular/Medium/Bold for weight, and Condensed/Normal/Wide for width, it will create 9 fvar instances.
 
 <table class='table table-hover'>
 <tr>
@@ -175,11 +171,12 @@ Add a new axis value with plus-button or remove it via minus-button (keyword: ST
 </tr>
 </table>
 
+**Example**:
 
+![]({{ site.url }}/images/font-axes-axis-values-example.png){: .img-fluid }
 
 ### Links
 
 - [Google Fonts: Axis (in variable fonts)](https://fonts.google.com/knowledge/glossary/axis_in_variable_fonts)
 - [OT Spec: avar table](https://learn.microsoft.com/en-us/typography/opentype/spec/avar)
 - [OT Spec: STAT table](https://learn.microsoft.com/en-us/typography/opentype/spec/stat)
-
