@@ -1,3 +1,5 @@
+This repository is now archived. Go to https://github.com/fontra/fontra-docs for new development.
+
 # Fontra User Docs
 
 Hosted at [docs.fontra.xyz](https://docs.fontra.xyz)
